@@ -1,0 +1,15 @@
+English Learning · Public Windows test build
+
+64-bit Windows 10 (2004 or later) / Windows 11. Python, Node.js, speech models and four Kokoro voices are included. No separate development tools are needed. NVIDIA drivers are recommended; CPU inference is slower and minimum hardware requirements remain under evaluation.
+
+The six learning modules use local speech services and your own external language-model API. Configure the API address, model and key in Settings. Generated materials, corrections and AI dialogue require network access and may incur provider fees.
+
+Five public wordbooks and an offline dictionary are included. Personal Anki books and the complete Oxford/Pearson-derived course pack are excluded; the knowledge module will clearly report missing course resources.
+
+Allow approximately 10 GB for the installed app plus additional room for the downloaded installer, extraction, recordings and caches. User data is stored separately under %APPDATA%\EnglishLearningDesktop and preserved on uninstall.
+
+This is an unsigned test build. Only download from the official GitHub repository and verify the published checksums. Scores are learning feedback, not official examination results.
+
+本程序为公开测试版。安装前请完整下载并解压全部安装文件，保留 files、prerequisites 子目录。
+首次使用时在设置中填写自己的外部语言模型 API。无需单独安装 Python 或 Node.js。
+不包含个人词书、完整知识库课程包、制作者的学习记录或密钥。卸载保留本机学习数据。

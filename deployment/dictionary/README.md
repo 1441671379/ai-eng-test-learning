@@ -13,7 +13,7 @@
 在项目根目录运行：
 
 ```powershell
-& .\runtimes\inference-candidate\Scripts\python.exe -X utf8 .\deployment\dictionary\prepare_dictionary.py
+python -X utf8 .\deployment\dictionary\prepare_dictionary.py
 ```
 
 构建脚本只使用 Python 标准库，从固定提交下载缺少的输入，校验 CSV，构建临时索引，通过 SQLite quick_check 后替换目标。已启动的应用应关闭后再重建；运行进程会缓存只读连接。

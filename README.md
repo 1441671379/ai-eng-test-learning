@@ -8,6 +8,10 @@
 
 > 当前处于开发阶段。源码、模型权重、运行环境和教学资源分别管理；从零安装流程及资源分发清单仍在完善。
 
+**Windows 用户：[下载安装包](https://github.com/1441671379/ai-eng-test-learning/releases/tag/v0.3.1) · [简短安装与使用说明](docs/QUICKSTART.md)**
+
+请下载发布页的三个安装 ZIP 文件并全部解压到同一个文件夹；`Source code` 和绿色 `Code → Download ZIP` 是开发源码，不是安装程序。
+
 ## 可以做什么
 
 | 板块 | 功能 |

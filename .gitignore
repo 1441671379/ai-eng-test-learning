@@ -29,6 +29,8 @@ deployment/runtime.json
 deployment/service-ports.json
 deployment/bin/
 deployment/wheels/
+deployment/electron/installer-reports/
+deployment/electron/installer/prerequisites/
 deployment/kokoro/models/
 deployment/kokoro/audio/
 deployment/kokoro/selected-voice.json

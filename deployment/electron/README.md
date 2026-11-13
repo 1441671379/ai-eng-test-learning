@@ -18,8 +18,15 @@ wordbooks, course content and lexical pronunciations are immutable app resources
 Word audio is synthesized locally on demand and cached. Voice A/B/C and global
 voice settings are managed in the app settings, independently from learning data.
 
-The public repository contains build code, not a preassembled app or installer.
-Prepare the model weights, shared inference environment, tools, dictionary index
-and your own course pack before assembling the desktop distribution. See
+Windows test installers are published separately in GitHub Releases; see
+`docs/QUICKSTART.md`. Source ZIP downloads do not contain the binaries.
+Prepare the model weights, shared inference environment, tools and dictionary
+index before assembling a desktop distribution. The public build uses
+`python deployment/electron/build_desktop.py --public`; it intentionally omits
+the full course pack and imported books. A separate prepared dictionary directory
+can be supplied with `--asset-root PATH`. For a fresh output, `--seed-app PATH`
+copies only the immutable Electron/runtime/model assets from a verified prior
+assembly; it never copies the prior UI, wordbooks, course pack or learner data.
+Use `--public` again when refreshing a public assembly. See
 `docs/PUBLIC-RESOURCES.md` for the resource boundary. The shared inference setup
 and complete lock are documented in `deployment/kokoro/README.md`.

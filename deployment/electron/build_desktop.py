@@ -31,6 +31,8 @@ if TTS_RUNTIME['provider'] != 'kokoro':
 VOICES = tuple(json.loads((ROOT / TTS_RUNTIME['config']).read_text(encoding='utf-8'))['voices'])
 SKIP = {"__pycache__", ".git", ".pytest_cache", ".mypy_cache", ".DS_Store"}
 COUNTS = {"files": 0, "bytes": 0}
+PUBLIC_RELEASE = False
+ASSET_ROOT = ROOT
 
 
 def copy(src: Path, dst: Path, *, skip=frozenset(), missing=False):
@@ -101,23 +103,32 @@ def ui_and_services():
     for name in ("coach_llm.py", "model.py"):
         (RES / "app/services/language" / name).unlink(missing_ok=True)
     copy(HERE / "windows_service.py", RES / "app/deployment/windows_service.py")
+    remove_generated(RES / "app/wordbooks")
     copy(ROOT / "deployment/vocabulary/books", RES / "app/wordbooks")
-    for name in ("catalog.json", "lessons.json", "courses.json", "NOTICE.md"):
+    remove_generated(RES / "app/deployment/phrases")
+    phrase_files = ("NOTICE.md",) if PUBLIC_RELEASE else ("catalog.json", "lessons.json", "courses.json", "NOTICE.md")
+    for name in phrase_files:
         copy(ROOT / "deployment/phrases" / name, RES / "app/deployment/phrases" / name)
     manifest = RES / "app/wordbooks/manifest.json"
     books = json.loads(manifest.read_text(encoding="utf-8"))
+    if PUBLIC_RELEASE:
+        assert {book['id'] for book in books} == {'primary', 'junior', 'senior', 'ielts7', 'ielts85'}
+        assert {file.name for file in manifest.parent.glob('*.json')} == {'manifest.json', *(book['id'] + '.json' for book in books)}
     for book in books:
         if book["id"] in {"cet4", "cet6"}:
             book["name"] = "大学英语" + ("四级" if book["id"] == "cet4" else "六级")
             book["sources"] = ["用户提供的 Anki 词书"]
     write(manifest, books)
     # Public reference data is independent of per-learner SQLite databases.
-    dictionary = ROOT / "deployment/dictionary"
+    dictionary = ASSET_ROOT / "deployment/dictionary"
     for name in ("ecdict.sqlite", "manifest.json", "LICENSE.ECDICT.txt"):
         copy(dictionary / name, RES / "app/deployment/dictionary" / name)
     licenses = RES / "licenses"
     copy(dictionary / "LICENSE.ECDICT.txt", licenses / "ECDICT-MIT.txt")
-    word_audio_assets()
+    if PUBLIC_RELEASE:
+        remove_generated(RES / "app/deployment/word-audio")
+    elif (ROOT / 'deployment/word-audio/manifest.json').exists():
+        word_audio_assets()
     word_pronunciation_assets()
     copy(ROOT / "deployment/vocabulary/book-sources", licenses / "wordbook-sources")
     copy(ROOT / "services/speech/LICENSE.cadence", licenses / "speech-upstream-MIT.txt")
@@ -126,7 +137,11 @@ def ui_and_services():
     if alignment_license.exists():
         copy(alignment_license, licenses / "alignment")
     copy(ROOT / 'deployment/kokoro/LICENSE.Kokoro.txt', licenses / 'Kokoro-Apache-2.0.txt')
-    copy(ROOT / 'deployment/kokoro/models/README.md', licenses / 'Kokoro-model-card.md')
+    copy(ROOT / 'deployment/kokoro/LICENSE.Kokoro.txt', licenses / 'Wav2Vec2-phoneme-Apache-2.0.txt')
+    if (HERE / 'licenses').is_dir():
+        copy(HERE / 'licenses', licenses / 'components')
+    copy(RES / 'models/kokoro/README.md', licenses / 'Kokoro-model-card.md')
+    copy(ROOT / 'apps/web/LICENSE', licenses / 'frontend-upstream-MIT.txt')
     copy(HERE / "THIRD_PARTY_NOTICES.md", licenses / "THIRD_PARTY_NOTICES.md")
     copy(HERE / "使用说明.txt", APP / "使用说明.txt")
 
@@ -222,9 +237,10 @@ def inventory():
     if hashlib.sha256(public_dictionary.read_bytes()).hexdigest() != dictionary_metadata["sha256"]:
         raise RuntimeError("Public dictionary checksum mismatch")
     audio_catalog = RES / "app/deployment/word-audio/catalog.sqlite"
-    audio_metadata = json.loads(audio_catalog.with_name("manifest.json").read_text(encoding="utf-8"))
-    if hashlib.sha256(audio_catalog.read_bytes()).hexdigest() != audio_metadata["catalogSha256"]:
-        raise RuntimeError("Word audio catalog checksum mismatch")
+    if audio_catalog.exists():
+        audio_metadata = json.loads(audio_catalog.with_name("manifest.json").read_text(encoding="utf-8"))
+        if hashlib.sha256(audio_catalog.read_bytes()).hexdigest() != audio_metadata["catalogSha256"]:
+            raise RuntimeError("Word audio catalog checksum mismatch")
     lexical = RES / 'app/deployment/word-pronunciations'
     lexical_metadata = json.loads((lexical / 'manifest.json').read_text(encoding='utf-8'))
     if hashlib.sha256((lexical / 'catalog.json').read_bytes()).hexdigest() != lexical_metadata['sha256']:
@@ -235,6 +251,8 @@ def inventory():
         if not file.is_file():
             continue
         relative = file.relative_to(APP).as_posix()
+        if relative == 'resources/bundle-manifest.json':
+            continue  # Account for this self-describing file after serialization.
         if file.is_symlink() or file.lstat().st_file_attributes & 0x400:
             forbidden.append(relative + " (link)")
         if (file.name.startswith((".env", "feedback-", "__editable__")) or
@@ -247,7 +265,12 @@ def inventory():
         raise RuntimeError("Unexpected files in desktop payload: " + ", ".join(forbidden[:25]))
     required = ["runtime/python/python.exe", "runtime/python/python311._pth", "runtime/node.exe", "runtime/bin/ffmpeg.exe",
                 "app/web/server.js", "app/deployment/windows_service.py", "app/services/speech/ctc_word_alignment.py", "app/services/language/external_llm.py",
-                "app/wordbooks/manifest.json", "app/deployment/phrases/catalog.json", "app/deployment/phrases/lessons.json", "app/deployment/phrases/courses.json", "app/deployment/phrases/NOTICE.md", "app/deployment/dictionary/ecdict.sqlite", "app/deployment/dictionary/LICENSE.ECDICT.txt", "voice-template.json"]
+                "app/wordbooks/manifest.json", "app/deployment/phrases/NOTICE.md", "app/deployment/dictionary/ecdict.sqlite", "app/deployment/dictionary/LICENSE.ECDICT.txt", "voice-template.json"]
+    if not PUBLIC_RELEASE:
+        required.extend('app/deployment/phrases/' + name for name in ('catalog.json', 'lessons.json', 'courses.json'))
+    else:
+        for name in ('catalog.json', 'lessons.json', 'courses.json'):
+            assert not (RES / 'app/deployment/phrases' / name).exists()
     voices = json.loads((RES / "voice-template.json").read_text(encoding="utf-8"))
     for entry in voices["voices"].values():
         required.extend(entry["voice"][key] for key in ('voice_file',))
@@ -258,18 +281,60 @@ def inventory():
     package = json.loads((RES / 'app/package.json').read_text(encoding='utf-8'))
     result = {"version": package['version'], "createdAt": datetime.now().astimezone().isoformat(), "profile": "shared-kokoro-four-voices-external-llm",
               "required": sorted(set(required)), "voiceIds": list(VOICES), "ttsProvider": 'kokoro', "localLlmIncluded": False,
-              "privateDataIncluded": False, "files": len(files), "bytes": sum(file["bytes"] for file in files)}
-    write(RES / "bundle-manifest.json", result)
+              "privateDataIncluded": False, "publicResourcesOnly": PUBLIC_RELEASE,
+              "coursePackIncluded": not PUBLIC_RELEASE, "files": len(files) + 1, "bytes": 0}
+    payload_bytes = sum(file['bytes'] for file in files)
+    manifest_path = RES / 'bundle-manifest.json'
+    for _ in range(10):
+        write(manifest_path, result)
+        actual = payload_bytes + manifest_path.stat().st_size
+        if result['bytes'] == actual:
+            break
+        result['bytes'] = actual
+    else:
+        raise RuntimeError('Bundle manifest byte count did not stabilize')
+    files.append({'path': 'resources/bundle-manifest.json', 'bytes': manifest_path.stat().st_size})
     write(BUILD / "file-inventory.json", files)
     print(json.dumps({"app": str(APP), "files": result["files"], "GiB": round(result["bytes"] / 1024**3, 3), "localLlm": False, "voices": len(VOICES)}), flush=True)
 
 
+def seed_inference(source: Path):
+    """Reuse only immutable runtime/models; never reuse an old app or profile."""
+    source = source.resolve(strict=True)
+    if source == APP.resolve() or APP.exists():
+        raise RuntimeError('Seed assembly requires a new, independent output directory')
+    previous = json.loads((source / 'resources/bundle-manifest.json').read_text(encoding='utf-8'))
+    assert previous['profile'] == 'shared-kokoro-four-voices-external-llm'
+    assert previous['localLlmIncluded'] is False and previous['privateDataIncluded'] is False
+    assert set(previous['voiceIds']) == set(VOICES)
+    print('Copying isolated Electron runtime and immutable inference assets', flush=True)
+    for item in source.iterdir():
+        if item.name != 'resources' and item.is_file() and item.suffix != '.txt':
+            copy(item, APP / item.name)
+        elif item.name in {'locales', 'LICENSE', 'LICENSES.chromium.html', 'version'}:
+            copy(item, APP / item.name)
+    for name in ('runtime', 'models', 'voice-template.json'):
+        copy(source / 'resources' / name, RES / name)
+    # Preserve Electron's notice (it has a .txt suffix in some distributions).
+    for name in ('LICENSE', 'LICENSE.txt', 'LICENSES.chromium.html'):
+        if (source / name).is_file():
+            copy(source / name, APP / name)
+
+
 def main():
+    global PUBLIC_RELEASE, ASSET_ROOT
     parser = argparse.ArgumentParser()
     parser.add_argument("--refresh", action="store_true", help="Update UI/services only; keep runtime/models")
     parser.add_argument('--refresh-inference', action='store_true', help='Replace the generated inference runtime and selected model assets as well as UI/services')
     parser.add_argument("--refresh-word-audio", action="store_true", help="Update only the public word recording pack and inventory")
+    parser.add_argument('--public', action='store_true', help='Ship only the five public books, no imported course/recording packs')
+    parser.add_argument('--asset-root', type=Path, default=ROOT, help='Prepared immutable dictionary resources; never learner data')
+    parser.add_argument('--seed-app', type=Path, help='Copy only Electron/runtime/models from a verified assembled app into a new output')
     args = parser.parse_args()
+    PUBLIC_RELEASE = args.public
+    ASSET_ROOT = args.asset_root.resolve(strict=True)
+    if args.seed_app and (args.refresh or args.refresh_inference or args.refresh_word_audio):
+        parser.error('--seed-app requires a new assembly, not a refresh')
     if args.refresh_word_audio:
         if args.refresh: parser.error("Choose one refresh mode")
         if not (RES / "bundle-manifest.json").exists(): raise RuntimeError("Desktop app is not assembled")
@@ -283,8 +348,12 @@ def main():
         if not (RES / "bundle-manifest.json").exists():
             raise RuntimeError("Build the complete desktop app once before --refresh")
         previous = json.loads((RES / 'bundle-manifest.json').read_text(encoding='utf-8'))
+        if previous.get('publicResourcesOnly') and not PUBLIC_RELEASE:
+            parser.error('A public assembly must retain --public when refreshing')
         if not args.refresh_inference and previous.get('ttsProvider', 'unknown') != TTS_RUNTIME['provider']:
             raise RuntimeError('TTS engine changed; use --refresh-inference to update the runtime and model assets together')
+    elif args.seed_app:
+        seed_inference(args.seed_app)
     else:
         if (RES / "bundle-manifest.json").exists():
             raise RuntimeError("Desktop already assembled. Use --refresh for UI changes")
