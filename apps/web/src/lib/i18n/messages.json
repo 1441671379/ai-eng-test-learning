@@ -1,0 +1,5302 @@
+{
+  ", and point the camera here. Your phone and this computer need to be on the same Wi-Fi.": {
+    "zh-CN": "并指向这里。你的手机和这台电脑需要连接同一Wi-Fi。",
+    "en": ", and point the camera here. Your phone and this computer need to be on the same Wi-Fi."
+  },
+  "15 minutes a day": {
+    "zh-CN": "每天15分钟",
+    "en": "15 minutes a day"
+  },
+  "30 minutes a day": {
+    "zh-CN": "每天30分钟",
+    "en": "30 minutes a day"
+  },
+  "5 minutes a day": {
+    "zh-CN": "每天五分钟",
+    "en": "5 minutes a day"
+  },
+  "A few times a week": {
+    "zh-CN": "每周几次",
+    "en": "A few times a week"
+  },
+  "AFTER LISTENING": {
+    "zh-CN": "听之后",
+    "en": "AFTER LISTENING"
+  },
+  "AI": {
+    "zh-CN": "AI",
+    "en": "AI"
+  },
+  "API Key": {
+    "zh-CN": "API Key",
+    "en": "API Key"
+  },
+  "Address:": {
+    "zh-CN": "地址：",
+    "en": "Address:"
+  },
+  "Advanced breakdown": {
+    "zh-CN": "高级拆分",
+    "en": "Advanced breakdown"
+  },
+  "After this": {
+    "zh-CN": "之后",
+    "en": "After this"
+  },
+  "Also reachable at": {
+    "zh-CN": "也可在",
+    "en": "Also reachable at"
+  },
+  "At least 6 characters": {
+    "zh-CN": "至少6个字符",
+    "en": "At least 6 characters"
+  },
+  "Base URL": {
+    "zh-CN": "基础URL",
+    "en": "Base URL"
+  },
+  "Best for": {
+    "zh-CN": "适合",
+    "en": "Best for"
+  },
+  "Choose a new password": {
+    "zh-CN": "选择一个新密码",
+    "en": "Choose a new password"
+  },
+  "Clearer speaking at work": {
+    "zh-CN": "工作中的更清晰口说",
+    "en": "Clearer speaking at work"
+  },
+  "Compare the transcript-driven target with what the audio model heard.": {
+    "zh-CN": "比较基于转录的目标与音频模型听到的内容。",
+    "en": "Compare the transcript-driven target with what the audio model heard."
+  },
+  "Confirm password": {
+    "zh-CN": "确认密码",
+    "en": "Confirm password"
+  },
+  "Connect to my computer": {
+    "zh-CN": "连接到我的电脑",
+    "en": "Connect to my computer"
+  },
+  "Connect your phone": {
+    "zh-CN": "连接你的手机",
+    "en": "Connect your phone"
+  },
+  "Conversation confidence": {
+    "zh-CN": "对话置信度",
+    "en": "Conversation confidence"
+  },
+  "Daily pronunciation reps": {
+    "zh-CN": "每日发音练习",
+    "en": "Daily pronunciation reps"
+  },
+  "Daily speaking fluency": {
+    "zh-CN": "每日口语流利度",
+    "en": "Daily speaking fluency"
+  },
+  "Decoded phonemes": {
+    "zh-CN": "解码音素",
+    "en": "Decoded phonemes"
+  },
+  "ENGLISH LAB · READ ALOUD": {
+    "zh-CN": "ENGLISH LAB · 阅读并朗读",
+    "en": "ENGLISH LAB · READ ALOUD"
+  },
+  "% · 置信度门槛": {
+    "zh-CN": "% · 置信度门槛",
+    "en": "% · Confidence Threshold"
+  },
+  "% · 识别置信度": {
+    "zh-CN": "% · 识别置信度",
+    "en": "% · Recognition Confidence"
+  },
+  "%s | 英语学习空间": {
+    "zh-CN": "%s | 英语学习空间",
+    "en": "%s | English Learning Space"
+  },
+  "1 级 · 高中英语": {
+    "zh-CN": "1 级 · 高中英语",
+    "en": "1st Level · High School English"
+  },
+  "1. 输入完整题目，写下自己的观点。": {
+    "zh-CN": "1. 输入完整题目，写下自己的观点。",
+    "en": "1. Input the complete question and write your own viewpoint."
+  },
+  "1. 输入话题，生成原创材料和听力题。": {
+    "zh-CN": "1. 输入话题，生成原创材料和听力题。",
+    "en": "1. Input the topic to generate original materials and listening questions."
+  },
+  "2 级 · 大学英语": {
+    "zh-CN": "2 级 · 大学英语",
+    "en": "2nd Level · College English"
+  },
+  "2. 提交后查看原文批注与四项反馈。": {
+    "zh-CN": "2. 提交后查看原文批注与四项反馈。",
+    "en": "2. After submission, view the original text annotations and four feedbacks."
+  },
+  "2. 预览问题，播放音频，填写答案。": {
+    "zh-CN": "2. 预览问题，播放音频，填写答案。",
+    "en": "2. Preview the question, play the audio, and fill in the answer."
+  },
+  "3 级 · 雅思 7.5–8": {
+    "zh-CN": "3 级 · 雅思 7.5–8",
+    "en": "3rd Level · IELTS 7.5-8"
+  },
+  "3. 先解决最重要的问题，再修改复评。": {
+    "zh-CN": "3. 先解决最重要的问题，再修改复评。",
+    "en": "3. Solve the most important problems first, then revise for re-evaluation."
+  },
+  "3. 查看解析和原文，找到遗漏的信息。": {
+    "zh-CN": "3. 查看解析和原文，找到遗漏的信息。",
+    "en": "3. Review the explanation and original text, find missing information."
+  },
+  "4. 用英语概括、表达观点，与 AI 继续交流。": {
+    "zh-CN": "4. 用英语概括、表达观点，与 AI 继续交流。",
+    "en": "Summarize and express your views in English and continue the conversation with AI."
+  },
+  "40 个常用进阶词与原创例句，供体验；不是官方考试词表。": {
+    "zh-CN": "40 个常用进阶词与原创例句，供体验；不是官方考试词表。",
+    "en": "40 Common Advanced Words and Original Examples are provided for experience; they are not official exam word lists."
+  },
+  "40 分钟已结束。正文已保留，你可以自行决定何时提交。": {
+    "zh-CN": "40 分钟已结束。正文已保留，你可以自行决定何时提交。",
+    "en": "40 minutes have elapsed. The content has been retained. You can decide when to submit it at your own convenience."
+  },
+  "AI COACH · 实验": {
+    "zh-CN": "AI COACH · 实验",
+    "en": "AI COACH · Experiment"
+  },
+  "AI Coach 回答": {
+    "zh-CN": "AI Coach 回答",
+    "en": "AI COACH's Response"
+  },
+  "AI 口语教练": {
+    "zh-CN": "AI 口语教练",
+    "en": "AI Speaking Coach"
+  },
+  "AI 回复音频": {
+    "zh-CN": "AI 回复音频",
+    "en": "AI's Reply Audio"
+  },
+  "AI 回答": {
+    "zh-CN": "AI 回答",
+    "en": "AI's Reply"
+  },
+  "AI 正在回复…": {
+    "zh-CN": "AI 正在回复…",
+    "en": "AI is replying..."
+  },
+  "AI 生成的练习材料与题目，非官方真题。": {
+    "zh-CN": "AI 生成的练习材料与题目，非官方真题。",
+    "en": "Generated practice materials and questions by AI are non-official true questions."
+  },
+  "AI 补全使用全局模型，需要可用的模型配置；释义可手动核对修改。暂停会保留卡片与进度，可随时恢复。": {
+    "zh-CN": "AI 补全使用全局模型，需要可用的模型配置；释义可手动核对修改。暂停会保留卡片与进度，可随时恢复。",
+    "en": "AI's explanations are generated using a global model and require available model configurations. Explanations can be manually reviewed and modified. Pausing will retain your cards and progress, allowing you to resume at any time."
+  },
+  "AI 补全释义": {
+    "zh-CN": "AI 补全释义",
+    "en": "AI's Explanation"
+  },
+  "AI 释义已保存，可编辑核对后复习。": {
+    "zh-CN": "AI 释义已保存，可编辑核对后复习。",
+    "en": "AI explanation saved for editing and review."
+  },
+  "APKG 文件最大 512 MB，仅导入文本词条；不导入 Anki 媒体、模板和复习历史。": {
+    "zh-CN": "APKG 文件最大 512 MB，仅导入文本词条；不导入 Anki 媒体、模板和复习历史。",
+    "en": "APKG file size limited to 512 MB; only text entries are imported; Anki media, templates, and review history are not included."
+  },
+  "Anki 导入": {
+    "zh-CN": "Anki 导入",
+    "en": "Anki Import"
+  },
+  "DeepSeek / 外部模型待配置：可以先保存，填写 API Key 后即可使用。需要离线试用时切回本地模型。": {
+    "zh-CN": "DeepSeek / 外部模型待配置：可以先保存，填写 API Key 后即可使用。需要离线试用时切回本地模型。",
+    "en": "DeepSeek / External model configuration pending: save first, then fill in the API key to use. Switch back to local model if offline testing is needed."
+  },
+  "Freedom · 自由回答": {
+    "zh-CN": "Freedom · 自由回答",
+    "en": "Freedom · Free Answer"
+  },
+  "Hear the reference · 听整句示范": {
+    "zh-CN": "Hear the reference · 听整句示范",
+    "en": "Hear the reference · Whole Sentence Demonstration"
+  },
+  "Heard · 识别出的文字（可能有误）": {
+    "zh-CN": "Heard · 识别出的文字（可能有误）",
+    "en": "Heard · Recognized text (may contain errors)"
+  },
+  "IELTS 官方评分标准": {
+    "zh-CN": "IELTS 官方评分标准",
+    "en": "IELTS Official Scoring Standards"
+  },
+  "Next coach reply · 下一轮": {
+    "zh-CN": "Next coach reply · 下一轮",
+    "en": "Next coach reply · Next round"
+  },
+  "PCM 音频格式无效。": {
+    "zh-CN": "PCM 音频格式无效。",
+    "en": "PCM Audio Format Invalid."
+  },
+  "Replay my recording · 回听录音": {
+    "zh-CN": "Replay my recording · 回听录音",
+    "en": "Replay my recording · Replay recording"
+  },
+  "Start writing here… 提交后再查看批改，自主写作时不会显示提示。": {
+    "zh-CN": "Start writing here… 提交后再查看批改，自主写作时不会显示提示。",
+    "en": "Start writing here… Review after submission, prompts will not appear during self-writing."
+  },
+  "Targeted · 示范跟读": {
+    "zh-CN": "Targeted · 示范跟读",
+    "en": "Targeted · Model Reading"
+  },
+  "Targeted 模式需要实际录音进行发音检查。": {
+    "zh-CN": "Targeted 模式需要实际录音进行发音检查。",
+    "en": "In Targeted mode, actual audio recording is needed for pronunciation check."
+  },
+  "Targeted 示范跟读 / Freedom 自由回答 → 逐轮发音评分与表达辅导 → 重练或继续交流": {
+    "zh-CN": "Targeted 示范跟读 / Freedom 自由回答 → 逐轮发音评分与表达辅导 → 重练或继续交流",
+    "en": "Targeted Model Reading / Freedom Free Answer → Round-by-round Pronunciation Scoring & Expression Guidance → Retake or Continue Discussing"
+  },
+  "Targeted 跟读示范回答；Freedom 自由作答。每轮查看发音结果与回答辅导，再决定重练或继续。": {
+    "zh-CN": "Targeted 跟读示范回答；Freedom 自由作答。每轮查看发音结果与回答辅导，再决定重练或继续。",
+    "en": "Targeted Model Reading / Freedom Free Answer. View pronunciation results and answer guidance per round before deciding to retake or continue."
+  },
+  "Task 2 参考估分": {
+    "zh-CN": "Task 2 参考估分",
+    "en": "Task 2 Reference Score Estimate"
+  },
+  "Task 2 参考估分 {{0}} / 9": {
+    "zh-CN": "Task 2 参考估分 {{0}} / 9",
+    "en": "Task 2 Reference Score Estimate {{0}} / 9"
+  },
+  "Task 2 建议至少 250 词，约 40 分钟。题目不完整会影响评分；图表作文 Task 1 暂未开放。": {
+    "zh-CN": "Task 2 建议至少 250 词，约 40 分钟。题目不完整会影响评分；图表作文 Task 1 暂未开放。",
+    "en": "Task 2 Suggest at least 250 words, about 40 minutes. Incomplete questions will affect the score; Graphical Writing Task 1 is currently unavailable."
+  },
+  "Whisper 提供回答文字，声学模型再对照录音检查音素。识别文字有误时，可先修正后重查。": {
+    "zh-CN": "Whisper 提供回答文字，声学模型再对照录音检查音素。识别文字有误时，可先修正后重查。",
+    "en": "Whisper provides written answers, then compare them with the recorded audio to check phonemes. If there are errors in the recognized text, you can correct them first before re-checking."
+  },
+  "Whisper 语音识别": {
+    "zh-CN": "Whisper 语音识别",
+    "en": "Whisper Speech Recognition"
+  },
+  "{{0}} / {{1}} 题答对 · {{2}} 词 · {{3}}": {
+    "zh-CN": "{{0}} / {{1}} 题答对 · {{2}} 词 · {{3}}",
+    "en": "{{0}} / {{1}} Questions Correctly · {{2}} Words · {{3}}"
+  },
+  "{{0}} / {{1}} 题答对 · {{2}} 词 · {{3}} · {{4}}": {
+    "zh-CN": "{{0}} / {{1}} 题答对 · {{2}} 词 · {{3}} · {{4}}",
+    "en": "{{0}} / {{1}} Questions Correctly · {{2}} Words · {{3}} · {{4}}"
+  },
+  "{{0}} {{1}} / 100 · 查看结果 →": {
+    "zh-CN": "{{0}} {{1}} / 100 · 查看结果 →",
+    "en": "{{0}} {{1}} / 100 · View Results →"
+  },
+  "{{0}} · 下次复习 {{1}}": {
+    "zh-CN": "{{0}} · 下次复习 {{1}}",
+    "en": "{{0}} · Review Next Time {{1}}"
+  },
+  "{{0}} · 第 {{1}} 稿": {
+    "zh-CN": "{{0}} · 第 {{1}} 稿",
+    "en": "{{0}} · Draft {{1}}"
+  },
+  "{{0}} 个单词建议复核": {
+    "zh-CN": "{{0}} 个单词建议复核",
+    "en": "{{0}} Word Suggestions for Review"
+  },
+  "{{0}} 分": {
+    "zh-CN": "{{0}} 分",
+    "en": "{{0}} Points"
+  },
+  "{{0}} 分钟": {
+    "zh-CN": "{{0}} 分钟",
+    "en": "{{0}} Minutes"
+  },
+  "{{0}} 天": {
+    "zh-CN": "{{0}} 天",
+    "en": "{{0}} Days"
+  },
+  "{{0}} 小时": {
+    "zh-CN": "{{0}} 小时",
+    "en": "{{0}} Hours"
+  },
+  "{{0}} 条因单词格式不符或释义为空将跳过，请检查映射。": {
+    "zh-CN": "{{0}} 条因单词格式不符或释义为空将跳过，请检查映射。",
+    "en": "{{0}} Sentences Skipped Due to Incorrect Word Format or Empty Definition. Please Check the Mapping."
+  },
+  "{{0}} 篇": {
+    "zh-CN": "{{0}} 篇",
+    "en": "{{0}} Articles"
+  },
+  "{{0}} 轮回答 · 继续交流 →": {
+    "zh-CN": "{{0}} 轮回答 · 继续交流 →",
+    "en": "{{0}} Rounds of Answers · Continue Discussing →"
+  },
+  "{{0}}不能为空，且不能超过 {{1}} 个字符。": {
+    "zh-CN": "{{0}}不能为空，且不能超过 {{1}} 个字符。",
+    "en": "{{0}} cannot be empty and should not exceed {{1}} characters."
+  },
+  "{{0}}，{{1}}，第 {{2}} 段第 {{3}} 词": {
+    "zh-CN": "{{0}}，{{1}}，第 {{2}} 段第 {{3}} 词",
+    "en": "{{0}}, {{1}}, Sentence {{2}} Word {{3}}"
+  },
+  "· {{0}} 分": {
+    "zh-CN": "· {{0}} 分",
+    "en": "· {{0}} Points"
+  },
+  "· 以内容自然为先，不保证全部出现。": {
+    "zh-CN": "· 以内容自然为先，不保证全部出现。",
+    "en": "· Prioritize content naturalness; not guaranteed to appear in all cases."
+  },
+  "· 你的答案：": {
+    "zh-CN": "· 你的答案：",
+    "en": "· Your Answer:"
+  },
+  "· 偏低": {
+    "zh-CN": "· 偏低",
+    "en": "· Lower than expected"
+  },
+  "· 先回忆含义和用法": {
+    "zh-CN": "· 先回忆含义和用法",
+    "en": "· Recall meaning and usage first"
+  },
+  "· 基于你确认后的回答文字生成。": {
+    "zh-CN": "· 基于你确认后的回答文字生成。",
+    "en": "· Generated based on your confirmed answer text."
+  },
+  "· 已安装到本机": {
+    "zh-CN": "· 已安装到本机",
+    "en": "· Installed on this device"
+  },
+  "· 打开练习与评分 →": {
+    "zh-CN": "· 打开练习与评分 →",
+    "en": "· Open Practice & Scoring →"
+  },
+  "· 正确答案：": {
+    "zh-CN": "· 正确答案：",
+    "en": "● Recording in progress, please manually stop."
+  },
+  "· 请先填写 API Key": {
+    "zh-CN": "· 请先填写 API Key",
+    "en": "● Please fill out the API Key first."
+  },
+  "→ 本稿": {
+    "zh-CN": "→ 本稿",
+    "en": "→ Article"
+  },
+  "∅（未对齐到音素）": {
+    "zh-CN": "∅（未对齐到音素）",
+    "en": "∅ (Not aligned to phonemes)"
+  },
+  "○ 待就绪": {
+    "zh-CN": "○ 待就绪",
+    "en": "○ Ready"
+  },
+  "○ 检查中": {
+    "zh-CN": "○ 检查中",
+    "en": "○ Checking"
+  },
+  "● 已连接": {
+    "zh-CN": "● 已连接",
+    "en": "● Connected"
+  },
+  "✓ 正确": {
+    "zh-CN": "✓ 正确",
+    "en": "✓ Correct"
+  },
+  "。复用已加载的模型，无需额外下载。": {
+    "zh-CN": "。复用已加载的模型，无需额外下载。",
+    "en": "。Reusing loaded models, no additional download required."
+  },
+  "。规则版本：": {
+    "zh-CN": "。规则版本：",
+    "en": "。Rule version:"
+  },
+  "。试听不会改变当前音色；首次加载模型可能需要一些时间。": {
+    "zh-CN": "。试听不会改变当前音色；首次加载模型可能需要一些时间。",
+    "en": "Listening won't change the current tone; loading the model may take some time."
+  },
+  "。请检查浏览器权限，或导入录音。": {
+    "zh-CN": "。请检查浏览器权限，或导入录音。",
+    "en": "Please check browser permissions or import recordings."
+  },
+  "一次只练一句": {
+    "zh-CN": "一次只练一句",
+    "en": "Practice one sentence at a time"
+  },
+  "一次可保存 1–100 条记录。": {
+    "zh-CN": "一次可保存 1–100 条记录。",
+    "en": "Up to 100 records can be saved in one practice session."
+  },
+  "一次导入 1–10000 个词。": {
+    "zh-CN": "一次导入 1–10000 个词。",
+    "en": "Import up to 10,000 words in one go."
+  },
+  "一致性参考": {
+    "zh-CN": "一致性参考",
+    "en": "Consistency reference"
+  },
+  "上一段": {
+    "zh-CN": "上一段",
+    "en": "Previous paragraph"
+  },
+  "上一稿": {
+    "zh-CN": "上一稿",
+    "en": "Previous draft"
+  },
+  "上一页": {
+    "zh-CN": "上一页",
+    "en": "Previous page"
+  },
+  "下一次练习：": {
+    "zh-CN": "下一次练习：",
+    "en": "Next practice:"
+  },
+  "下一步：": {
+    "zh-CN": "下一步：",
+    "en": "Next step:"
+  },
+  "下一段": {
+    "zh-CN": "下一段",
+    "en": "Next paragraph"
+  },
+  "下一页": {
+    "zh-CN": "下一页",
+    "en": "Next page"
+  },
+  "下方为之前保存的评分。": {
+    "zh-CN": "下方为之前保存的评分。",
+    "en": "Below are the previous saved ratings."
+  },
+  "下方仍显示": {
+    "zh-CN": "下方仍显示",
+    "en": "Still displayed below"
+  },
+  "下次 {{0}}": {
+    "zh-CN": "下次 {{0}}",
+    "en": "Next time {{0}}."
+  },
+  "下次到期：{{0}}，到时会自动刷新。": {
+    "zh-CN": "下次到期：{{0}}，到时会自动刷新。",
+    "en": "Next due: {{0}}, it will automatically refresh at that time."
+  },
+  "下次提交将使用你核对后的文字。": {
+    "zh-CN": "下次提交将使用你核对后的文字。",
+    "en": "The next submission will use the text you have reviewed."
+  },
+  "下次提交将重新自动识别录音。": {
+    "zh-CN": "下次提交将重新自动识别录音。",
+    "en": "The next submission will re-automatically recognize the recording."
+  },
+  "不导入": {
+    "zh-CN": "不导入",
+    "en": "Do not import"
+  },
+  "与 AI 交流、练习句子发音和文章朗读，查看逐词反馈。": {
+    "zh-CN": "与 AI 交流、练习句子发音和文章朗读，查看逐词反馈。",
+    "en": "Communicate with AI, practice sentence pronunciation and reading of articles, view word-by-word feedback."
+  },
+  "严格比较变体": {
+    "zh-CN": "严格比较变体",
+    "en": "Strictly compare variants"
+  },
+  "个待巩固": {
+    "zh-CN": "个待巩固",
+    "en": "Words to consolidate"
+  },
+  "个词 · 第": {
+    "zh-CN": "个词 · 第",
+    "en": "Words ·"
+  },
+  "中 · 200–500 词": {
+    "zh-CN": "中 · 200–500 词",
+    "en": "Chinese · 200–500 words"
+  },
+  "中文": {
+    "zh-CN": "中文",
+    "en": "Chinese"
+  },
+  "中文讲解 + 英文例句": {
+    "zh-CN": "中文讲解 + 英文例句",
+    "en": "Chinese explanation + English example sentences"
+  },
+  "中文释义": {
+    "zh-CN": "中文释义",
+    "en": "Chinese definition"
+  },
+  "也可导入或拖入录音（WAV / MP3 / WebM 等，最大 25 MB）": {
+    "zh-CN": "也可导入或拖入录音（WAV / MP3 / WebM 等，最大 25 MB）",
+    "en": "You can also import or drag in recordings (WAV / MP3 / WebM etc., max 25 MB)"
+  },
+  "人工智能与工作": {
+    "zh-CN": "人工智能与工作",
+    "en": "Artificial Intelligence and Work"
+  },
+  "人工核对文字": {
+    "zh-CN": "人工核对文字",
+    "en": "Manual text verification"
+  },
+  "仅作提示": {
+    "zh-CN": "仅作提示",
+    "en": "Only for guidance"
+  },
+  "仅文字回答生成表达辅导；发音评分需要本轮的真实录音。": {
+    "zh-CN": "仅文字回答生成表达辅导；发音评分需要本轮的真实录音。",
+    "en": "Only generate expressions for text-based answers; pronunciation scores require real audio from this round."
+  },
+  "今日可学新词": {
+    "zh-CN": "今日可学新词",
+    "en": "New words you can learn today"
+  },
+  "今日复习次数": {
+    "zh-CN": "今日复习次数",
+    "en": "Times you reviewed today"
+  },
+  "今日学习": {
+    "zh-CN": "今日学习",
+    "en": "Learning today"
+  },
+  "今日已学习 {{0}} 个新词，达到每日上限。可以明天继续，或在下方调整每日新词数量。": {
+    "zh-CN": "今日已学习 {{0}} 个新词，达到每日上限。可以明天继续，或在下方调整每日新词数量。",
+    "en": "You have learned {{0}} new words today, reaching the daily limit. You can continue tomorrow or adjust the number of new words below."
+  },
+  "今日练习": {
+    "zh-CN": "今日练习",
+    "en": "Practicing today"
+  },
+  "从一个想了解的话题开始。": {
+    "zh-CN": "从一个想了解的话题开始。",
+    "en": "Start from a topic you want to know more about."
+  },
+  "从录音识别音素并与目标句子对齐": {
+    "zh-CN": "从录音识别音素并与目标句子对齐",
+    "en": "Begin by aligning phonemes recognized in your audio with the target sentence."
+  },
+  "从感兴趣的话题开始，听懂信息，再用英语回应。可选择高中、大学或雅思 7.5–8 的英语难度，同时学习感兴趣的知识。": {
+    "zh-CN": "从感兴趣的话题开始，听懂信息，再用英语回应。可选择高中、大学或雅思 7.5–8 的英语难度，同时学习感兴趣的知识。",
+    "en": "Start from a topic you are interested in, understand the information, and respond in English. Choose topics at high school, university, or IELTS 7.5-8 difficulty levels, while also learning interesting knowledge."
+  },
+  "从阅读材料导入": {
+    "zh-CN": "从阅读材料导入",
+    "en": "Import from reading materials"
+  },
+  "以此稿开始修改": {
+    "zh-CN": "以此稿开始修改",
+    "en": "Modify starting from this draft."
+  },
+  "任务回应": {
+    "zh-CN": "任务回应",
+    "en": "Task Response"
+  },
+  "你已确认漏读，这个词按 0 分计入。": {
+    "zh-CN": "你已确认漏读，这个词按 0 分计入。",
+    "en": "You have confirmed skipping, this word will be scored 0."
+  },
+  "你提供的本地 Anki 词书": {
+    "zh-CN": "你提供的本地 Anki 词书",
+    "en": "Your Anki deck provided"
+  },
+  "你的答案：{{0}}": {
+    "zh-CN": "你的答案：{{0}}",
+    "en": "Your answer: {{0}}"
+  },
+  "你的英文回答": {
+    "zh-CN": "你的英文回答",
+    "en": "Your English response"
+  },
+  "使用 DeepSeek 预设": {
+    "zh-CN": "使用 DeepSeek 预设",
+    "en": "Use DeepSeek preset"
+  },
+  "使用建议后的修改稿": {
+    "zh-CN": "使用建议后的修改稿",
+    "en": "Draft after suggestions"
+  },
+  "例句": {
+    "zh-CN": "例句",
+    "en": "Example"
+  },
+  "例句字段": {
+    "zh-CN": "例句字段",
+    "en": "Example field"
+  },
+  "例句或语境": {
+    "zh-CN": "例句或语境",
+    "en": "Example or context"
+  },
+  "例如：How markets work": {
+    "zh-CN": "例如：How markets work",
+    "en": "For example: How markets work"
+  },
+  "例如：sustainable, evidence, adapt": {
+    "zh-CN": "例如：sustainable, evidence, adapt",
+    "en": "For example: sustainable, evidence, adapt"
+  },
+  "例如：城市绿地如何影响生活质量": {
+    "zh-CN": "例如：城市绿地如何影响生活质量",
+    "en": "For example: how urban green spaces affect quality of life"
+  },
+  "例如：大学生活、宏观经济学、周末旅行…": {
+    "zh-CN": "例如：大学生活、宏观经济学、周末旅行…",
+    "en": "For example: university life, macroeconomics, weekend trips..."
+  },
+  "例如：校园生活、城市交通、科技与学习": {
+    "zh-CN": "例如：校园生活、城市交通、科技与学习",
+    "en": "For example: campus life, city traffic, technology and learning"
+  },
+  "例如：面向大一经济学学生，用故事解释通胀与失业的关系": {
+    "zh-CN": "例如：面向大一经济学学生，用故事解释通胀与失业的关系",
+    "en": "For example: for first-year economics students, using stories to explain the relationship between inflation and unemployment"
+  },
+  "保存中…": {
+    "zh-CN": "保存中…",
+    "en": "Saving..."
+  },
+  "保存全局与角色音色": {
+    "zh-CN": "保存全局与角色音色",
+    "en": "Save global and character voice settings"
+  },
+  "保存单词": {
+    "zh-CN": "保存单词",
+    "en": "Save words"
+  },
+  "保存后下一次回复即生效。": {
+    "zh-CN": "保存后下一次回复即生效。",
+    "en": "Saved. Changes will take effect next time you reply."
+  },
+  "保存复习设置": {
+    "zh-CN": "保存复习设置",
+    "en": "Save review settings"
+  },
+  "保存失败。": {
+    "zh-CN": "保存失败。",
+    "en": "Save failed."
+  },
+  "保存失败，请重试。": {
+    "zh-CN": "保存失败，请重试。",
+    "en": "Save failed. Please try again."
+  },
+  "保存失败，请重试保存": {
+    "zh-CN": "保存失败，请重试保存",
+    "en": "Save failed. Please try saving again."
+  },
+  "保存学习记录失败，请重试。": {
+    "zh-CN": "保存学习记录失败，请重试。",
+    "en": "Failed to save study records, please try again."
+  },
+  "保存并测试连接": {
+    "zh-CN": "保存并测试连接",
+    "en": "Save and test connection"
+  },
+  "保存用户名称": {
+    "zh-CN": "保存用户名称",
+    "en": "Save username"
+  },
+  "保存答题结果失败，请重试。": {
+    "zh-CN": "保存答题结果失败，请重试。",
+    "en": "Failed to save answer results, please try again."
+  },
+  "保存设置": {
+    "zh-CN": "保存设置",
+    "en": "Save settings"
+  },
+  "保存音色失败，请重试。": {
+    "zh-CN": "保存音色失败，请重试。",
+    "en": "Failed to save voice type, please try again."
+  },
+  "修改位置冲突，请逐条参考建议。": {
+    "zh-CN": "修改位置冲突，请逐条参考建议。",
+    "en": "Location modification conflicts, refer to the suggestions one by one."
+  },
+  "修改模型服务和 API Key": {
+    "zh-CN": "修改模型服务和 API Key",
+    "en": "Modify model service and API Key"
+  },
+  "修改稿": {
+    "zh-CN": "修改稿",
+    "en": "Draft modification"
+  },
+  "修改稿对应的原稿不存在。": {
+    "zh-CN": "修改稿对应的原稿不存在。",
+    "en": "The original draft corresponding to the draft does not exist."
+  },
+  "修改稿标记无效。": {
+    "zh-CN": "修改稿标记无效。",
+    "en": "Invalid marking for the draft."
+  },
+  "做得好的地方": {
+    "zh-CN": "做得好的地方",
+    "en": "Good job."
+  },
+  "停止录音": {
+    "zh-CN": "停止录音",
+    "en": "Stop recording"
+  },
+  "停止录音 · {{0}}s": {
+    "zh-CN": "停止录音 · {{0}}s",
+    "en": "Stop recording · {{0}}s"
+  },
+  "停止录音后自动识别并评分，无需填写文字。": {
+    "zh-CN": "停止录音后自动识别并评分，无需填写文字。",
+    "en": "Automatic recognition and scoring after stopping the recording, without needing to fill in text."
+  },
+  "允许弱读、闪音变体": {
+    "zh-CN": "允许弱读、闪音变体",
+    "en": "Allow weak readings and spelling variations"
+  },
+  "先回忆，再翻面。根据每次记忆情况安排下次复习，让今天学过和仍不熟悉的词回到听、读和口语练习中。": {
+    "zh-CN": "先回忆，再翻面。根据每次记忆情况安排下次复习，让今天学过和仍不熟悉的词回到听、读和口语练习中。",
+    "en": "Recall first, then flip. Based on your memory progress each time, schedule future reviews so that words you've learned today or are still unfamiliar can return to listening, reading, and oral practice exercises."
+  },
+  "先概括内容，再说说你的看法、理由或经历。可以输入英文，也可以录音转写。对话使用当前全局语言模型；": {
+    "zh-CN": "先概括内容，再说说你的看法、理由或经历。可以输入英文，也可以录音转写。对话使用当前全局语言模型；",
+    "en": "Summarize first, then share your views, reasons, or experiences. You can enter English or transcribe from speech. Dialogues use the global language model currently set;"
+  },
+  "先预览题目，再播放。可以暂停、拖动进度和重复收听。": {
+    "zh-CN": "先预览题目，再播放。可以暂停、拖动进度和重复收听。",
+    "en": "Preview questions first, then play. Pause, drag forward, and repeat listening as needed."
+  },
+  "全局模型": {
+    "zh-CN": "全局模型",
+    "en": "Global Model"
+  },
+  "全局模型来源": {
+    "zh-CN": "全局模型来源",
+    "en": "Source of Global Model"
+  },
+  "全局模型设置暂不可用，请打开设置检查": {
+    "zh-CN": "全局模型设置暂不可用，请打开设置检查",
+    "en": "Global Model settings are currently unavailable. Please check Settings to open them."
+  },
+  "全局模型请求失败，请检查设置。": {
+    "zh-CN": "全局模型请求失败，请检查设置。",
+    "en": "Global Model request failed. Check your settings."
+  },
+  "全局模型：": {
+    "zh-CN": "全局模型：",
+    "en": "Global Model:"
+  },
+  "全局语言模型": {
+    "zh-CN": "全局语言模型",
+    "en": "Global Language Model"
+  },
+  "全局语言模型设置": {
+    "zh-CN": "全局语言模型设置",
+    "en": "Global Language Model Settings"
+  },
+  "全局语音音色": {
+    "zh-CN": "全局语音音色",
+    "en": "Global Voice Tone"
+  },
+  "全局音色用于文章、口语对话、单词和句子发音练习的示范朗读；听力中的多角色材料可单独指定角色音色。本机所有学习者共用，保存在电脑上。": {
+    "zh-CN": "全局音色用于文章、口语对话、单词和句子发音练习的示范朗读；听力中的多角色材料可单独指定角色音色。本机所有学习者共用，保存在电脑上。",
+    "en": "The global voice tone is used for demonstration readings of articles, spoken dialogues, words, and sentences pronunciation practice; multi-character materials in the listening can be assigned to different character voices individually. All learners share this on the device, saved on your computer."
+  },
+  "全文已完成，可以选择红色单词所在的段落重新练习。": {
+    "zh-CN": "全文已完成，可以选择红色单词所在的段落重新练习。",
+    "en": "Full text completed. Choose the paragraph containing the red word to re-practice."
+  },
+  "全文总分": {
+    "zh-CN": "全文总分",
+    "en": "Total Score for Full Text"
+  },
+  "全文总分会在全部单词评估完成后显示。未录音、时间定位不足或未分配到音素的词不直接判错，也不计为零分。": {
+    "zh-CN": "全文总分会在全部单词评估完成后显示。未录音、时间定位不足或未分配到音素的词不直接判错，也不计为零分。",
+    "en": "The full text score will be displayed after all words are evaluated. Words that have not been recorded, insufficient time positioning, or not allocated to phonemes will not be directly marked wrong nor counted as zero points."
+  },
+  "全文朗读结果": {
+    "zh-CN": "全文朗读结果",
+    "en": "Summary of Full Reading Result"
+  },
+  "全文评估 · 逐词音素反馈 · 阅读材料导入 · 本地历史": {
+    "zh-CN": "全文评估 · 逐词音素反馈 · 阅读材料导入 · 本地历史",
+    "en": "Full Evaluation · Word-by-word phoneme feedback · Import reading material · Local history"
+  },
+  "全文评分覆盖率": {
+    "zh-CN": "全文评分覆盖率",
+    "en": "Coverage of Full Scoring"
+  },
+  "全部来源": {
+    "zh-CN": "全部来源",
+    "en": "All Sources"
+  },
+  "全部板块": {
+    "zh-CN": "全部板块",
+    "en": "All Sections"
+  },
+  "全部词书": {
+    "zh-CN": "全部词书",
+    "en": "All Dictionaries"
+  },
+  "全部词汇": {
+    "zh-CN": "全部词汇",
+    "en": "All Vocabulary"
+  },
+  "公共服务启动超时，请查看 deployment/logs 下的服务日志后重试。": {
+    "zh-CN": "公共服务启动超时，请查看 deployment/logs 下的服务日志后重试。",
+    "en": "Public Service Deployment Timeout. Please check the service logs in deployment/logs for troubleshooting."
+  },
+  "公共语音进程内执行，模型常驻。": {
+    "zh-CN": "公共语音进程内执行，模型常驻。",
+    "en": "Public Speech Process Running Inside, Model Stays Resident."
+  },
+  "六级附近 · 示例词书": {
+    "zh-CN": "六级附近 · 示例词书",
+    "en": "Near Level Six · Example Dictionary"
+  },
+  "共": {
+    "zh-CN": "共",
+    "en": "Total"
+  },
+  "关联对话无效。": {
+    "zh-CN": "关联对话无效。",
+    "en": "Invalid Associated Dialogues."
+  },
+  "关闭发音练习": {
+    "zh-CN": "关闭发音练习",
+    "en": "Close Pronunciation Practice"
+  },
+  "再练一次，练习结果自动保留。": {
+    "zh-CN": "再练一次，练习结果自动保留。",
+    "en": "Practice Again. Practice results will be automatically retained."
+  },
+  "写": {
+    "zh-CN": "写",
+    "en": "Write"
+  },
+  "写作、理解批注、自己修改，再看下一稿的变化。": {
+    "zh-CN": "写作、理解批注、自己修改，再看下一稿的变化。",
+    "en": "Writing, Understanding Annotations, Self-Modification, Then See Changes in the Next Draft."
+  },
+  "写作与修改": {
+    "zh-CN": "写作与修改",
+    "en": "Writing and Editing"
+  },
+  "写作内容格式无效。": {
+    "zh-CN": "写作内容格式无效。",
+    "en": "Writing content format invalid."
+  },
+  "写作参考分必须在 0–9 之间，以 0.5 为单位。": {
+    "zh-CN": "写作参考分必须在 0–9 之间，以 0.5 为单位。",
+    "en": "Writing reference score must be between 0-9 in increments of 0.5."
+  },
+  "写作反馈": {
+    "zh-CN": "写作反馈",
+    "en": "Writing Feedback"
+  },
+  "写作工作区切换": {
+    "zh-CN": "写作工作区切换",
+    "en": "Switch Writing Workspace"
+  },
+  "写作批改": {
+    "zh-CN": "写作批改",
+    "en": "Writing Correction"
+  },
+  "写作批改失败，请检查全局模型设置后重试。": {
+    "zh-CN": "写作批改失败，请检查全局模型设置后重试。",
+    "en": "Writing correction failed. Please check the global model settings and try again."
+  },
+  "写作服务暂不可用，草稿和已有批改已保留，请稍后重试。": {
+    "zh-CN": "写作服务暂不可用，草稿和已有批改已保留，请稍后重试。",
+    "en": "Writing service is currently unavailable. Your draft and previous corrections have been saved. Please try again later."
+  },
+  "写作类型": {
+    "zh-CN": "写作类型",
+    "en": "Writing Type"
+  },
+  "写作练习": {
+    "zh-CN": "写作练习",
+    "en": "Writing Practice"
+  },
+  "写作草稿": {
+    "zh-CN": "写作草稿",
+    "en": "Writing Draft"
+  },
+  "写作要求（选填）": {
+    "zh-CN": "写作要求（选填）",
+    "en": "Writing Requirements (optional)"
+  },
+  "写作记录不存在。": {
+    "zh-CN": "写作记录不存在。",
+    "en": "Writing record does not exist."
+  },
+  "写作请求格式无效。": {
+    "zh-CN": "写作请求格式无效。",
+    "en": "Writing request format invalid."
+  },
+  "写作请求过长。": {
+    "zh-CN": "写作请求过长。",
+    "en": "Writing request too long."
+  },
+  "准备文章中…": {
+    "zh-CN": "准备文章中…",
+    "en": "Preparing article..."
+  },
+  "准备朗读文章": {
+    "zh-CN": "准备朗读文章",
+    "en": "Prepared for reading the article"
+  },
+  "准备重新回答…": {
+    "zh-CN": "准备重新回答…",
+    "en": "Preparing to re-answer..."
+  },
+  "出题话题（选填）": {
+    "zh-CN": "出题话题（选填）",
+    "en": "Topic for questions (optional)"
+  },
+  "分数必须在 0–100 之间。": {
+    "zh-CN": "分数必须在 0–100 之间。",
+    "en": "Score must be between 0-100."
+  },
+  "分数表示目标与识别音素的一致程度，供练习参考，不是经过人工标定的发音准确率。": {
+    "zh-CN": "分数表示目标与识别音素的一致程度，供练习参考，不是经过人工标定的发音准确率。",
+    "en": "The score represents the consistency of the target with the recognized phonemes for practice reference, not the accuracy rate that has been manually calibrated."
+  },
+  "删除": {
+    "zh-CN": "删除",
+    "en": "Delete"
+  },
+  "删除这一处": {
+    "zh-CN": "删除这一处",
+    "en": "Delete this instance"
+  },
+  "删除这条练习记录？": {
+    "zh-CN": "删除这条练习记录？",
+    "en": "Delete this practice record?"
+  },
+  "判断题：TRUE 与原文一致；FALSE 与原文矛盾；NOT GIVEN 原文未提供足够信息。": {
+    "zh-CN": "判断题：TRUE 与原文一致；FALSE 与原文矛盾；NOT GIVEN 原文未提供足够信息。",
+    "en": "True: TRUE; False: FALSE; Not Given: NOT GIVEN."
+  },
+  "到期复习": {
+    "zh-CN": "到期复习",
+    "en": "Review Due"
+  },
+  "刷新": {
+    "zh-CN": "刷新",
+    "en": "Refresh"
+  },
+  "刷新保存结果": {
+    "zh-CN": "刷新保存结果",
+    "en": "Save Result Refresh"
+  },
+  "刷新卡片": {
+    "zh-CN": "刷新卡片",
+    "en": "Refresh Flashcards"
+  },
+  "刷新状态": {
+    "zh-CN": "刷新状态",
+    "en": "Refresh Status"
+  },
+  "刷新记录": {
+    "zh-CN": "刷新记录",
+    "en": "Refresh Records"
+  },
+  "剩余写作时间": {
+    "zh-CN": "剩余写作时间",
+    "en": "Remaining Writing Time"
+  },
+  "加入生词库": {
+    "zh-CN": "加入生词库",
+    "en": "Add to Vocabulary List"
+  },
+  "加入生词本": {
+    "zh-CN": "加入生词本",
+    "en": "Add to Word Book"
+  },
+  "加载中": {
+    "zh-CN": "加载中",
+    "en": "Loading..."
+  },
+  "加载中…": {
+    "zh-CN": "加载中…",
+    "en": "Loading…"
+  },
+  "加载失败。": {
+    "zh-CN": "加载失败。",
+    "en": "Load failed."
+  },
+  "匹配": {
+    "zh-CN": "匹配",
+    "en": "Match"
+  },
+  "匹配率门槛": {
+    "zh-CN": "匹配率门槛",
+    "en": "Match Rate Threshold"
+  },
+  "单次批改最多 2000 个英文词，请分篇练习。": {
+    "zh-CN": "单次批改最多 2000 个英文词，请分篇练习。",
+    "en": "Up to 2000 English words can be corrected in one batch; practice by sections."
+  },
+  "单词": {
+    "zh-CN": "单词",
+    "en": "Word"
+  },
+  "单词不存在。": {
+    "zh-CN": "单词不存在。",
+    "en": "The word does not exist."
+  },
+  "单词不存在，请刷新词卡。": {
+    "zh-CN": "单词不存在，请刷新词卡。",
+    "en": "The word does not exist. Please refresh the flashcard."
+  },
+  "单词与释义必须选择不同字段。": {
+    "zh-CN": "单词与释义必须选择不同字段。",
+    "en": "The word and definition must come from different fields."
+  },
+  "单词内容已更新，请重新打开后再补全释义。": {
+    "zh-CN": "单词内容已更新，请重新打开后再补全释义。",
+    "en": "The word content has been updated. Please reopen the app and complete the definition again."
+  },
+  "单词判定详情": {
+    "zh-CN": "单词判定详情",
+    "en": "Word Judgment Details"
+  },
+  "单词卡": {
+    "zh-CN": "单词卡",
+    "en": "Flashcard"
+  },
+  "单词卡复习": {
+    "zh-CN": "单词卡复习",
+    "en": "Review Flashcard"
+  },
+  "单词发音 · {{0}}": {
+    "zh-CN": "单词发音 · {{0}}",
+    "en": "Word Pronunciation · {{0}}"
+  },
+  "单词发音练习": {
+    "zh-CN": "单词发音练习",
+    "en": "Practice Word Pronunciation"
+  },
+  "单词发音结果": {
+    "zh-CN": "单词发音结果",
+    "en": "Result of Word Pronunciation"
+  },
+  "单词发音详情": {
+    "zh-CN": "单词发音详情",
+    "en": "Details of Word Pronunciation"
+  },
+  "单词复习 · {{0}}": {
+    "zh-CN": "单词复习 · {{0}}",
+    "en": "Review Words · {{0}}"
+  },
+  "单词字段": {
+    "zh-CN": "单词字段",
+    "en": "Word Field"
+  },
+  "单词学习": {
+    "zh-CN": "单词学习",
+    "en": "Learn Words"
+  },
+  "单词已保存。": {
+    "zh-CN": "单词已保存。",
+    "en": "Words Saved."
+  },
+  "单词归属确定性": {
+    "zh-CN": "单词归属确定性",
+    "en": "Certainty of Word Ownership"
+  },
+  "单词归属：": {
+    "zh-CN": "单词归属：",
+    "en": "Word Ownership:"
+  },
+  "单词或短语限 80 字符、8 个英文词。": {
+    "zh-CN": "单词或短语限 80 字符、8 个英文词。",
+    "en": "Words or phrases limited to 80 characters, 8 English words."
+  },
+  "单词时间定位": {
+    "zh-CN": "单词时间定位",
+    "en": "Time Localization for Words"
+  },
+  "单词时间定位＋边界容错音素评估": {
+    "zh-CN": "单词时间定位＋边界容错音素评估",
+    "en": "Word timing positioning + phoneme tolerance boundary assessment"
+  },
+  "单词服务暂不可用，请重试。已有词库已保留。": {
+    "zh-CN": "单词服务暂不可用，请重试。已有词库已保留。",
+    "en": "The word service is currently unavailable, please try again. Existing vocabulary libraries are retained."
+  },
+  "单词服务请求失败。": {
+    "zh-CN": "单词服务请求失败。",
+    "en": "Failed to request the word service."
+  },
+  "单词记忆": {
+    "zh-CN": "单词记忆",
+    "en": "Word Memory"
+  },
+  "历史加载失败。": {
+    "zh-CN": "历史加载失败。",
+    "en": "History loading failed."
+  },
+  "历史发音": {
+    "zh-CN": "历史发音",
+    "en": "Historical Pronunciation"
+  },
+  "历史口语": {
+    "zh-CN": "历史口语",
+    "en": "Historical Oral Practice"
+  },
+  "历史检查结果": {
+    "zh-CN": "历史检查结果",
+    "en": "Historical Check Results"
+  },
+  "历史生词": {
+    "zh-CN": "历史生词",
+    "en": "Historical New Words"
+  },
+  "历史记录保留分析结果；本次录音仅在当前练习期间可回放。": {
+    "zh-CN": "历史记录保留分析结果；本次录音仅在当前练习期间可回放。",
+    "en": "Retained analysis of historical records; this recording can only be replayed during the current practice session."
+  },
+  "历史记录保留评估，本次录音仅在当前练习期间可回放。": {
+    "zh-CN": "历史记录保留评估，本次录音仅在当前练习期间可回放。",
+    "en": "Retained evaluation of historical records, this recording can only be replayed during the current practice session."
+  },
+  "历史记录加载失败，请刷新页面重试。": {
+    "zh-CN": "历史记录加载失败，请刷新页面重试。",
+    "en": "Failed to load historical records, please refresh the page and try again."
+  },
+  "历史记录加载失败，请重试。": {
+    "zh-CN": "历史记录加载失败，请重试。",
+    "en": "Failed to load history records, please try again."
+  },
+  "历史评估记录。": {
+    "zh-CN": "历史评估记录。",
+    "en": "Historical Evaluation Records."
+  },
+  "原创示例": {
+    "zh-CN": "原创示例",
+    "en": "Original Example."
+  },
+  "原句：": {
+    "zh-CN": "原句：",
+    "en": "Original Sentence:"
+  },
+  "原文中的 1–3 个词": {
+    "zh-CN": "原文中的 1–3 个词",
+    "en": "1-3 words in the original text."
+  },
+  "原文加载失败。": {
+    "zh-CN": "原文加载失败。",
+    "en": "Failed to load original text."
+  },
+  "原文批注": {
+    "zh-CN": "原文批注",
+    "en": "Original Annotation."
+  },
+  "原稿版本不存在。": {
+    "zh-CN": "原稿版本不存在。",
+    "en": "Original draft does not exist."
+  },
+  "参与颜色判定": {
+    "zh-CN": "参与颜色判定",
+    "en": "Participate in color judgment."
+  },
+  "参考分 / 100": {
+    "zh-CN": "参考分 / 100",
+    "en": "Reference Score / 100."
+  },
+  "参考分表示音素一致程度。转写文字不正确时，请先校对再检查发音。": {
+    "zh-CN": "参考分表示音素一致程度。转写文字不正确时，请先校对再检查发音。",
+    "en": "The reference score indicates the degree of phoneme consistency. If the transcription is incorrect, please correct it first before checking the pronunciation."
+  },
+  "参考评分": {
+    "zh-CN": "参考评分",
+    "en": "Reference Score"
+  },
+  "双人对话": {
+    "zh-CN": "双人对话",
+    "en": "Duo-person conversation"
+  },
+  "反馈": {
+    "zh-CN": "反馈",
+    "en": "Feedback"
+  },
+  "发送回答": {
+    "zh-CN": "发送回答",
+    "en": "Send Answer"
+  },
+  "发送失败，请重试。": {
+    "zh-CN": "发送失败，请重试。",
+    "en": "Failed to send. Please try again."
+  },
+  "发音分析": {
+    "zh-CN": "发音分析",
+    "en": "Phonetic Analysis"
+  },
+  "发音参考评分": {
+    "zh-CN": "发音参考评分",
+    "en": "Phonetic Reference Score"
+  },
+  "发音反馈分别呈现音素匹配、单词归属和识别置信度。英美发音及合理变体均可用于练习。": {
+    "zh-CN": "发音反馈分别呈现音素匹配、单词归属和识别置信度。英美发音及合理变体均可用于练习。",
+    "en": "Phonetic feedback presents the match of phonemes, word attribution, and recognition confidence. Both British and American pronunciations and reasonable variations can be used for practice."
+  },
+  "发音变体": {
+    "zh-CN": "发音变体",
+    "en": "Phonetic Variants"
+  },
+  "发音后台正在恢复，请稍后重新连接；也可以退出软件后重新打开。": {
+    "zh-CN": "发音后台正在恢复，请稍后重新连接；也可以退出软件后重新打开。",
+    "en": "Phonetic backend is recovering. Please reconnect later; you may also exit the software and reopen it."
+  },
+  "发音服务：": {
+    "zh-CN": "发音服务：",
+    "en": "Phonetic Service:"
+  },
+  "发音模型尚未就绪，请稍后重试。": {
+    "zh-CN": "发音模型尚未就绪，请稍后重试。",
+    "en": "Phonetic model is not ready. Please try again later."
+  },
+  "发音练习": {
+    "zh-CN": "发音练习",
+    "en": "Phonetic Practice"
+  },
+  "发音评估使用时间定位与边界容错，单次录音不超过30秒、70词。参数与时间配对调试台共用。": {
+    "zh-CN": "发音评估使用时间定位与边界容错，单次录音不超过30秒、70词。参数与时间配对调试台共用。",
+    "en": "Speech assessment uses time positioning and boundary tolerance; each recording should not exceed 30 seconds and 70 words. The parameters are shared with the pairing calibration console."
+  },
+  "发音评分失败，请稍后重试。": {
+    "zh-CN": "发音评分失败，请稍后重试。",
+    "en": "Speech scoring failed, please try again later."
+  },
+  "发音评分失败，请重试。": {
+    "zh-CN": "发音评分失败，请重试。",
+    "en": "Speech scoring failed, please try again."
+  },
+  "发音评分已完成，但学习记录保存失败。": {
+    "zh-CN": "发音评分已完成，但学习记录保存失败。",
+    "en": "Speech scoring completed but the study record could not be saved."
+  },
+  "发音评分：": {
+    "zh-CN": "发音评分：",
+    "en": "Speech Scoring:"
+  },
+  "取消": {
+    "zh-CN": "取消",
+    "en": "Cancel"
+  },
+  "口语与记录": {
+    "zh-CN": "口语与记录",
+    "en": "Oral Skills & Records"
+  },
+  "口语主页": {
+    "zh-CN": "口语主页",
+    "en": "Oral Skills Home Page"
+  },
+  "口语功能": {
+    "zh-CN": "口语功能",
+    "en": "Oral Skills Function"
+  },
+  "口语学习记录": {
+    "zh-CN": "口语学习记录",
+    "en": "Oral Skills Study Record"
+  },
+  "口语服务状态": {
+    "zh-CN": "口语服务状态",
+    "en": "Oral Services Status"
+  },
+  "口语模块导航": {
+    "zh-CN": "口语模块导航",
+    "en": "Oral Skills Module Navigation"
+  },
+  "口语练习": {
+    "zh-CN": "口语练习",
+    "en": "Speaking Practice"
+  },
+  "口语页面收藏": {
+    "zh-CN": "口语页面收藏",
+    "en": "Collect Oral Practice"
+  },
+  "句子发音练习": {
+    "zh-CN": "句子发音练习",
+    "en": "Sentence Pronunciation Practice"
+  },
+  "只能修改当前一轮回答，请重新打开实验记录。": {
+    "zh-CN": "只能修改当前一轮回答，请重新打开实验记录。",
+    "en": "You can only modify the current round of response, please reopen the experiment record."
+  },
+  "可以开始": {
+    "zh-CN": "可以开始",
+    "en": "Start"
+  },
+  "可以继续聊的方向": {
+    "zh-CN": "可以继续聊的方向",
+    "en": "Directions for further conversation"
+  },
+  "可以选择其他词书、添加生词，或调整每日新词数量。": {
+    "zh-CN": "可以选择其他词书、添加生词，或调整每日新词数量。",
+    "en": "You can choose other vocabulary books, add new words, or adjust the daily word count."
+  },
+  "可导入": {
+    "zh-CN": "可导入",
+    "en": "Importable"
+  },
+  "可稍后填写；未填写时无法使用外部模型": {
+    "zh-CN": "可稍后填写；未填写时无法使用外部模型",
+    "en": "Can be filled in later; cannot use external models if not filled in."
+  },
+  "可能连读 / 弱读": {
+    "zh-CN": "可能连读 / 弱读",
+    "en": "Possible linking / weak pronunciation"
+  },
+  "可选": {
+    "zh-CN": "可选",
+    "en": "Optional"
+  },
+  "各段音频格式不同，请重试。": {
+    "zh-CN": "各段音频格式不同，请重试。",
+    "en": "Each audio segment has different formats, please try again."
+  },
+  "同步失败。": {
+    "zh-CN": "同步失败。",
+    "en": "Sync failed."
+  },
+  "同步学习记录": {
+    "zh-CN": "同步学习记录",
+    "en": "Synchronize Learning Records"
+  },
+  "名称需要 1–60 个字符。": {
+    "zh-CN": "名称需要 1–60 个字符。",
+    "en": "Name needs to be 1-60 characters long."
+  },
+  "后台启动失败，请查看 deployment/logs/automatic-start.err.log。": {
+    "zh-CN": "后台启动失败，请查看 deployment/logs/automatic-start.err.log。",
+    "en": "Background start failed, please check deployment/logs/automatic-start.err.log."
+  },
+  "后台服务启动失败。": {
+    "zh-CN": "后台服务启动失败。",
+    "en": "Failed to start background service."
+  },
+  "听": {
+    "zh-CN": "听",
+    "en": "Listen"
+  },
+  "听 AI 的回复": {
+    "zh-CN": "听 AI 的回复",
+    "en": "Listen to AI's response"
+  },
+  "听例句": {
+    "zh-CN": "听例句",
+    "en": "Listen to examples"
+  },
+  "听力原文": {
+    "zh-CN": "听力原文",
+    "en": "Original audio for listening"
+  },
+  "听力学习": {
+    "zh-CN": "听力学习",
+    "en": "Listening Practice"
+  },
+  "听力对话角色音色": {
+    "zh-CN": "听力对话角色音色",
+    "en": "Voice style of dialogue participants for listening practice"
+  },
+  "听力形式": {
+    "zh-CN": "听力形式",
+    "en": "Types of listening exercises"
+  },
+  "听力服务暂不可用，请检查本地服务后重试。": {
+    "zh-CN": "听力服务暂不可用，请检查本地服务后重试。",
+    "en": "Listening service is currently unavailable. Please check your local services and try again."
+  },
+  "听力模型返回无效。": {
+    "zh-CN": "听力模型返回无效。",
+    "en": "The hearing model returned invalid results."
+  },
+  "听力答题": {
+    "zh-CN": "听力答题",
+    "en": "Hearing Questioning"
+  },
+  "听力练习": {
+    "zh-CN": "听力练习",
+    "en": "Hearing Practice"
+  },
+  "听力记录不存在。": {
+    "zh-CN": "听力记录不存在。",
+    "en": "Hearing Record does not exist."
+  },
+  "听力音频": {
+    "zh-CN": "听力音频",
+    "en": "Hearing Audio"
+  },
+  "听发音": {
+    "zh-CN": "听发音",
+    "en": "Listen to Pronunciation"
+  },
+  "听后交流": {
+    "zh-CN": "听后交流",
+    "en": "Post-listening Discussion"
+  },
+  "听后交流 · {{0}}": {
+    "zh-CN": "听后交流 · {{0}}",
+    "en": "Post-listening Discussion · {{0}}"
+  },
+  "听目标回答": {
+    "zh-CN": "听目标回答",
+    "en": "Listen to Target Response"
+  },
+  "听示范 → 读一句话 → 查看评分与单词疑点 → 对照音素 → 回听重练": {
+    "zh-CN": "听示范 → 读一句话 → 查看评分与单词疑点 → 对照音素 → 回听重练",
+    "en": "Listen to Demonstration → Read a Sentence → Check Score and Word Doubts → Compare Phonetics → Replay and Retest"
+  },
+  "听示范发音": {
+    "zh-CN": "听示范发音",
+    "en": "Listen to model pronunciation"
+  },
+  "听示范音频": {
+    "zh-CN": "听示范音频",
+    "en": "Listen to model audio"
+  },
+  "听这一段示范": {
+    "zh-CN": "听这一段示范",
+    "en": "Listen to this model segment"
+  },
+  "听这个词的示范": {
+    "zh-CN": "听这个词的示范",
+    "en": "Listen to the model pronunciation of this word"
+  },
+  "听这个词的示范发音": {
+    "zh-CN": "听这个词的示范发音",
+    "en": "Listen to the model pronunciation of this word"
+  },
+  "听音练习": {
+    "zh-CN": "听音练习",
+    "en": "Listen and practice"
+  },
+  "听音练习：提交前未展开原文。": {
+    "zh-CN": "听音练习：提交前未展开原文。",
+    "en": "Listen and practice: The submitted answer has not been expanded."
+  },
+  "四项等权取均值，参考分以最近的 0.5 分展示。完整 Writing 还包含 Task 1，Task 2 权重为其两倍。": {
+    "zh-CN": "四项等权取均值，参考分以最近的 0.5 分展示。完整 Writing 还包含 Task 1，Task 2 权重为其两倍。",
+    "en": "Equal weight averaging, reference scores are displayed based on the nearest 0.5 points. The complete Writing also includes Task 1 and Task 2 weights which are twice that of each."
+  },
+  "回听我的单词录音": {
+    "zh-CN": "回听我的单词录音",
+    "en": "Re-listen to my recorded words"
+  },
+  "回听自己的录音，对照示范。": {
+    "zh-CN": "回听自己的录音，对照示范。",
+    "en": "Re-listen to your own recording for comparison with the model."
+  },
+  "回答已保留，可再次发送。": {
+    "zh-CN": "回答已保留，可再次发送。",
+    "en": "Your response has been saved and can be resent."
+  },
+  "回答已变化，请重新生成建议。": {
+    "zh-CN": "回答已变化，请重新生成建议。",
+    "en": "Your response has changed, please regenerate the recommendation."
+  },
+  "回答已识别并保存，本轮发音评分暂不可用，可重试。": {
+    "zh-CN": "回答已识别并保存，本轮发音评分暂不可用，可重试。",
+    "en": "The answer has been recognized and saved. Current pronunciation scoring for this round is unavailable; you can try again."
+  },
+  "回答模式": {
+    "zh-CN": "回答模式",
+    "en": "Answer Mode"
+  },
+  "回答正确": {
+    "zh-CN": "回答正确",
+    "en": "Correct Answer"
+  },
+  "回答辅导": {
+    "zh-CN": "回答辅导",
+    "en": "Answer Guidance"
+  },
+  "困难": {
+    "zh-CN": "困难",
+    "en": "Difficult"
+  },
+  "围绕内容，用英语交流": {
+    "zh-CN": "围绕内容，用英语交流",
+    "en": "Focus on content and communicate in English."
+  },
+  "围绕话题交流，逐轮练好表达和发音。": {
+    "zh-CN": "围绕话题交流，逐轮练好表达和发音。",
+    "en": "Discuss topics and gradually refine your expressions and pronunciations through rounds."
+  },
+  "在 Anki 中将词书导出为 .apkg，或导出 UTF-8 的 TSV / CSV / TXT。先预览，选择单词、释义和例句对应的字段，再导入。本应用单独安排复习。": {
+    "zh-CN": "在 Anki 中将词书导出为 .apkg，或导出 UTF-8 的 TSV / CSV / TXT。先预览，选择单词、释义和例句对应的字段，再导入。本应用单独安排复习。",
+    "en": "Export the vocabulary list from Anki to .apkg format or export it as UTF-8 TSV/CSV/TXT. Preview first, then choose the fields corresponding to words, definitions, and examples before importing. Reviewing will be handled separately by this application."
+  },
+  "在本机练习英语听力、阅读、写作、单词与口语练习，连接学习记录和词汇积累。": {
+    "zh-CN": "在本机练习英语听力、阅读、写作、单词与口语练习，连接学习记录和词汇积累。",
+    "en": "Practice English listening, reading, writing, memorizing vocabulary, and speaking exercises locally. Connect with your study records and vocabulary accumulation."
+  },
+  "城市绿地与生活质量": {
+    "zh-CN": "城市绿地与生活质量",
+    "en": "City green spaces and quality of life"
+  },
+  "基本可辨，复核标记的发音。": {
+    "zh-CN": "基本可辨，复核标记的发音。",
+    "en": "Moderately recognizable, review and mark the pronunciation accordingly."
+  },
+  "基本正确": {
+    "zh-CN": "基本正确",
+    "en": "Basic Correctness"
+  },
+  "基本错误": {
+    "zh-CN": "基本错误",
+    "en": "Basic Error"
+  },
+  "填写 API 基础地址；系统追加 /chat/completions。": {
+    "zh-CN": "填写 API 基础地址；系统追加 /chat/completions。",
+    "en": "Enter the base address of your API; system will append /chat/completions."
+  },
+  "填写音频中出现的 1–3 个词": {
+    "zh-CN": "填写音频中出现的 1–3 个词",
+    "en": "Enter up to 3 words from the audio"
+  },
+  "填空 · 最多 3 个词": {
+    "zh-CN": "填空 · 最多 3 个词",
+    "en": "Fill in · Up to 3 words"
+  },
+  "填空题最多填写三个英文词。": {
+    "zh-CN": "填空题最多填写三个英文词。",
+    "en": "Up to three English words can be filled in for fill-in-the-blank questions."
+  },
+  "备注限 100 字符，请删除无效字符。": {
+    "zh-CN": "备注限 100 字符，请删除无效字符。",
+    "en": "Notes are limited to 100 characters, please remove invalid characters."
+  },
+  "备注（选填）": {
+    "zh-CN": "备注（选填）",
+    "en": "Notes (optional)"
+  },
+  "复习时标记为忘记或困难": {
+    "zh-CN": "复习时标记为忘记或困难",
+    "en": "Mark as forgotten or difficult during review"
+  },
+  "复习生词库": {
+    "zh-CN": "复习生词库",
+    "en": "Review vocabulary"
+  },
+  "复习设置与板块联动": {
+    "zh-CN": "复习设置与板块联动",
+    "en": "Review settings sync with sections"
+  },
+  "复习设置已保存。目标记忆率用于后续排期。": {
+    "zh-CN": "复习设置已保存。目标记忆率用于后续排期。",
+    "en": "Review settings have been saved. The target memorization rate will be used for subsequent scheduling."
+  },
+  "复习请求无效。": {
+    "zh-CN": "复习请求无效。",
+    "en": "Review request is invalid."
+  },
+  "复习进度已保存，学习记录同步失败。可重试同步。": {
+    "zh-CN": "复习进度已保存，学习记录同步失败。可重试同步。",
+    "en": "Review progress has been saved, but the sync of study records failed. You can try syncing again."
+  },
+  "外部 API": {
+    "zh-CN": "外部 API",
+    "en": "External API"
+  },
+  "外部 API · {{0}}{{1}}": {
+    "zh-CN": "外部 API · {{0}}{{1}}",
+    "en": "External API · {{0}}{{1}}"
+  },
+  "外部 API（Chat Completions 兼容）": {
+    "zh-CN": "外部 API（Chat Completions 兼容）",
+    "en": "External API (Compatible with Chat Completions)"
+  },
+  "多音": {
+    "zh-CN": "多音",
+    "en": "Multi-toned"
+  },
+  "大 · 500–1000 词": {
+    "zh-CN": "大 · 500–1000 词",
+    "en": "Large · 500-1000 words"
+  },
+  "大学学习与时间管理": {
+    "zh-CN": "大学学习与时间管理",
+    "en": "University Learning and Time Management"
+  },
+  "如：经济增长与生活质量": {
+    "zh-CN": "如：经济增长与生活质量",
+    "en": "Such as: Economic growth and quality of life"
+  },
+  "存在多个候选": {
+    "zh-CN": "存在多个候选",
+    "en": "Multiple candidates exist"
+  },
+  "存在多个同样最优的归属，颜色依据当前展示配对。": {
+    "zh-CN": "存在多个同样最优的归属，颜色依据当前展示配对。",
+    "en": "There are multiple equally optimal affiliations; colors reflect the current displayed pairing."
+  },
+  "存在边界候选": {
+    "zh-CN": "存在边界候选",
+    "en": "Boundary candidates exist"
+  },
+  "学习时加入生词库": {
+    "zh-CN": "学习时加入生词库",
+    "en": "Add new vocabulary to your word list while studying"
+  },
+  "学习时间无效。": {
+    "zh-CN": "学习时间无效。",
+    "en": "Study time invalid."
+  },
+  "学习材料不存在。": {
+    "zh-CN": "学习材料不存在。",
+    "en": "Learning material does not exist."
+  },
+  "学习板块": {
+    "zh-CN": "学习板块",
+    "en": "Learning section"
+  },
+  "学习模块": {
+    "zh-CN": "学习模块",
+    "en": "Learning module"
+  },
+  "学习者": {
+    "zh-CN": "学习者",
+    "en": "Learning participant"
+  },
+  "学习者名称": {
+    "zh-CN": "学习者名称",
+    "en": "Participant name"
+  },
+  "学习者无效。": {
+    "zh-CN": "学习者无效。",
+    "en": "Invalid participant."
+  },
+  "学习者：": {
+    "zh-CN": "学习者：",
+    "en": "Participant:"
+  },
+  "学习记录": {
+    "zh-CN": "学习记录",
+    "en": "Learning record"
+  },
+  "学习记录内容无效。": {
+    "zh-CN": "学习记录内容无效。",
+    "en": "Invalid learning record content."
+  },
+  "学习记录已同步。": {
+    "zh-CN": "学习记录已同步。",
+    "en": "Learning record synchronized."
+  },
+  "学习记录按用户保存，修改名称保留原有记录与进度。本地用户数据保存在这台电脑。": {
+    "zh-CN": "学习记录按用户保存，修改名称保留原有记录与进度。本地用户数据保存在这台电脑。",
+    "en": "Learning records are saved per user, changing the name retains existing records and progress. Local user data is saved on this computer."
+  },
+  "学习记录文件无效，原文件已保留。": {
+    "zh-CN": "学习记录文件无效，原文件已保留。",
+    "en": "Invalid study record file. Original file has been retained."
+  },
+  "学习记录来源无效。": {
+    "zh-CN": "学习记录来源无效。",
+    "en": "Invalid source of study record."
+  },
+  "学习记录格式无效。": {
+    "zh-CN": "学习记录格式无效。",
+    "en": "Invalid format of study record."
+  },
+  "完成一次录音后，逐词反馈、音素明细和本轮发音评分会显示在这里。": {
+    "zh-CN": "完成一次录音后，逐词反馈、音素明细和本轮发音评分会显示在这里。",
+    "en": "Here you will see word-by-word feedback, phonetic details, and this week's pronunciation score after completing one recording."
+  },
+  "完成听力答题后，在这里围绕内容与 AI 用英语交流。": {
+    "zh-CN": "完成听力答题后，在这里围绕内容与 AI 用英语交流。",
+    "en": "Here you can engage in English conversation around the content with AI after completing listening comprehension questions."
+  },
+  "完整题目": {
+    "zh-CN": "完整题目",
+    "en": "Full question"
+  },
+  "定位原文第": {
+    "zh-CN": "定位原文第",
+    "en": "Locate original text at line"
+  },
+  "定位段落": {
+    "zh-CN": "定位段落",
+    "en": "Locate paragraph"
+  },
+  "实际说出的文字不能超过 600 个字符。": {
+    "zh-CN": "实际说出的文字不能超过 600 个字符。",
+    "en": "The actual spoken words cannot exceed 600 characters."
+  },
+  "实际说出的文字（可选）": {
+    "zh-CN": "实际说出的文字（可选）",
+    "en": "Actual spoken words (optional)"
+  },
+  "实际读出的文字": {
+    "zh-CN": "实际读出的文字",
+    "en": "Actual read-out words"
+  },
+  "实际音素": {
+    "zh-CN": "实际音素",
+    "en": "Actual phonemes"
+  },
+  "实验 02 · 英语": {
+    "zh-CN": "实验 02 · 英语",
+    "en": "Experiment 02 · English"
+  },
+  "实验发音结果": {
+    "zh-CN": "实验发音结果",
+    "en": "Experiment Pronunciation Result"
+  },
+  "实验对话内容": {
+    "zh-CN": "实验对话内容",
+    "en": "Experiment Dialogue Content"
+  },
+  "实验服务暂不可用，请重试。": {
+    "zh-CN": "实验服务暂不可用，请重试。",
+    "en": "Experiment Service is unavailable at the moment, please try again."
+  },
+  "实验记录不存在。": {
+    "zh-CN": "实验记录不存在。",
+    "en": "Experiment Record does not exist."
+  },
+  "实验记录编号无效。": {
+    "zh-CN": "实验记录编号无效。",
+    "en": "Invalid Experiment Record Number."
+  },
+  "实验请求失败，请重试。": {
+    "zh-CN": "实验请求失败，请重试。",
+    "en": "Experiment Request failed, please try again."
+  },
+  "密钥由本机 Windows 账户加密保存，不回显、不写入浏览器存储。更换 Base URL 时请重新填写密钥。": {
+    "zh-CN": "密钥由本机 Windows 账户加密保存，不回显、不写入浏览器存储。更换 Base URL 时请重新填写密钥。",
+    "en": "The key is encrypted using your local Windows account and is not echoed or written to browser storage. Please re-enter the key when changing the Base URL."
+  },
+  "对应原稿版本不存在。": {
+    "zh-CN": "对应原稿版本不存在。",
+    "en": "Original manuscript version does not exist."
+  },
+  "对照整句示范，查看逐词发音分析、音素对照。": {
+    "zh-CN": "对照整句示范，查看逐词发音分析、音素对照。",
+    "en": "Compare with the whole sentence demonstration, view word-by-word pronunciation analysis and phonetic comparison."
+  },
+  "对照示范再练一遍。": {
+    "zh-CN": "对照示范再练一遍。",
+    "en": "Compare with the demonstration and practice again."
+  },
+  "对照示范句检查实际录音的音素。": {
+    "zh-CN": "对照示范句检查实际录音的音素。",
+    "en": "Check the phonetics of the actual recording against the demonstration sentence."
+  },
+  "对话与本轮回答": {
+    "zh-CN": "对话与本轮回答",
+    "en": "Dialog and Current Response"
+  },
+  "对话历史": {
+    "zh-CN": "对话历史",
+    "en": "Dialog History"
+  },
+  "对话已保存，学习记录同步失败。可再次发送同一条回答重试同步。": {
+    "zh-CN": "对话已保存，学习记录同步失败。可再次发送同一条回答重试同步。",
+    "en": "Dialog saved but learning record synchronization failed. You can retry by sending the same response again to try synchronization."
+  },
+  "对话记录不存在。": {
+    "zh-CN": "对话记录不存在。",
+    "en": "No dialog records exist."
+  },
+  "对话请求格式无效。": {
+    "zh-CN": "对话请求格式无效。",
+    "en": "Invalid dialog request format."
+  },
+  "导入 Anki 词书": {
+    "zh-CN": "导入 Anki 词书",
+    "en": "Import Anki Deck"
+  },
+  "导入失败。": {
+    "zh-CN": "导入失败。",
+    "en": "Import Failed."
+  },
+  "导入完成：新增 {{0}} 个词，关联 {{1}} 个已有词，跳过 {{2}} 条重复项。": {
+    "zh-CN": "导入完成：新增 {{0}} 个词，关联 {{1}} 个已有词，跳过 {{2}} 条重复项。",
+    "en": "Import Complete: Added {{0}} words, associated {{1}} existing words, skipped {{2}} duplicate entries."
+  },
+  "导入文本内容；使用本应用独立的复习进度。": {
+    "zh-CN": "导入文本内容；使用本应用独立的复习进度。",
+    "en": "Import Text Content; Use independent review progress of this application."
+  },
+  "导入文章 → 按段朗读 → 查看全文分数与红绿单词 → 重练薄弱段落": {
+    "zh-CN": "导入文章 → 按段朗读 → 查看全文分数与红绿单词 → 重练薄弱段落",
+    "en": "Import articles → Read each paragraph aloud → View full text score and red/green words → Re-practice weak segments"
+  },
+  "导入的练习录音": {
+    "zh-CN": "导入的练习录音",
+    "en": "Imported Practice Recording"
+  },
+  "导入练习录音": {
+    "zh-CN": "导入练习录音",
+    "en": "Imported Practice Recording"
+  },
+  "导入词书": {
+    "zh-CN": "导入词书",
+    "en": "Import Vocabulary Set"
+  },
+  "导出 TSV": {
+    "zh-CN": "导出 TSV",
+    "en": "Export TSV"
+  },
+  "导出本次评估": {
+    "zh-CN": "导出本次评估",
+    "en": "Export Current Assessment"
+  },
+  "小 · 1–200 词": {
+    "zh-CN": "小 · 1–200 词",
+    "en": "Small · 1-200 Words"
+  },
+  "尚无可用音素": {
+    "zh-CN": "尚无可用音素",
+    "en": "No available phonemes found"
+  },
+  "尚未批改": {
+    "zh-CN": "尚未批改",
+    "en": "Not yet graded"
+  },
+  "尚未输入": {
+    "zh-CN": "尚未输入",
+    "en": "Not yet entered"
+  },
+  "就绪": {
+    "zh-CN": "就绪",
+    "en": "Ready"
+  },
+  "展开原文": {
+    "zh-CN": "展开原文",
+    "en": "Expand Original Text"
+  },
+  "已保存全局与角色音色。听力对话按角色朗读，无需重启服务。": {
+    "zh-CN": "已保存全局与角色音色。听力对话按角色朗读，无需重启服务。",
+    "en": "Global and character voice settings saved. Audio dialogues read by role; no restart required."
+  },
+  "已保存到单词学习记录。可重新录音继续练习。": {
+    "zh-CN": "已保存到单词学习记录。可重新录音继续练习。",
+    "en": "Saved to word study record. You can re-record to continue practicing."
+  },
+  "已保存到本机": {
+    "zh-CN": "已保存到本机",
+    "en": "Saved to device"
+  },
+  "已保存对话": {
+    "zh-CN": "已保存对话",
+    "en": "Saved Conversation"
+  },
+  "已保存本次结果，正确率": {
+    "zh-CN": "已保存本次结果，正确率",
+    "en": "Results Saved: Correct Rate"
+  },
+  "已保存：{{0}}": {
+    "zh-CN": "已保存：{{0}}",
+    "en": "Saved: {{0}}"
+  },
+  "已保存；留空继续使用": {
+    "zh-CN": "已保存；留空继续使用",
+    "en": "Saved; Leave Blank for Continued Use"
+  },
+  "已出现": {
+    "zh-CN": "已出现",
+    "en": "Appeared"
+  },
+  "已加入生词本：{{0}}": {
+    "zh-CN": "已加入生词本：{{0}}",
+    "en": "Added to Vocabulary List: {{0}}"
+  },
+  "已在生词库 · 移出": {
+    "zh-CN": "已在生词库 · 移出",
+    "en": "In Vocabuary · Remove from Vocabuary"
+  },
+  "已复习": {
+    "zh-CN": "已复习",
+    "en": "Reviewed"
+  },
+  "已完成": {
+    "zh-CN": "已完成",
+    "en": "Completed"
+  },
+  "已完成 20 轮交流。可以回听回复，或生成新的练习。": {
+    "zh-CN": "已完成 20 轮交流。可以回听回复，或生成新的练习。",
+    "en": "Completed 20 Rounds of Exchange. You can replay your responses or generate new practice."
+  },
+  "已将 {{0}} 加入本地生词库。可到单词模块补充释义并复习。": {
+    "zh-CN": "已将 {{0}} 加入本地生词库。可到单词模块补充释义并复习。",
+    "en": "Added {{0}} to Local Vocabulary List. You can add definitions in the Word Module and review it."
+  },
+  "已将 {{0}} 加入生词库，复习进度保留。": {
+    "zh-CN": "已将 {{0}} 加入生词库，复习进度保留。",
+    "en": "Added {{0}} to Vocabulary List, Review Progress Retained."
+  },
+  "已将 {{0}} 移出生词库，原词书与进度保留。": {
+    "zh-CN": "已将 {{0}} 移出生词库，原词书与进度保留。",
+    "en": "Moved {{0}} from flashcard deck. Original vocabulary book and progress are retained."
+  },
+  "已将该版本复制到草稿，历史原稿保留。可以自己修改或采用建议，再提交复评。": {
+    "zh-CN": "已将该版本复制到草稿，历史原稿保留。可以自己修改或采用建议，再提交复评。",
+    "en": "Copied this version to draft. Previous drafts are retained. You can modify it yourself or adopt the suggestions before resubmitting for re-evaluation."
+  },
+  "已应用到草稿，原稿及原评分保留。其他建议可继续手动参考；修改完成后重新批改。": {
+    "zh-CN": "已应用到草稿，原稿及原评分保留。其他建议可继续手动参考；修改完成后重新批改。",
+    "en": "Applied changes to draft. Previous draft and original score are retained. Other suggestions can still be manually referenced; after modifications, re-score them."
+  },
+  "已录": {
+    "zh-CN": "已录",
+    "en": "Recorded"
+  },
+  "已恢复上次未保存的修改，将自动保存到本机。": {
+    "zh-CN": "已恢复上次未保存的修改，将自动保存到本机。",
+    "en": "Restored previous unsaved edits. They will automatically save to your device."
+  },
+  "已恢复浏览器中的未保存草稿": {
+    "zh-CN": "已恢复浏览器中的未保存草稿",
+    "en": "Restored unsaved browser drafts"
+  },
+  "已打开本地词书，可以开始学习。": {
+    "zh-CN": "已打开本地词书，可以开始学习。",
+    "en": "Opened local vocabulary book. Learning can begin now."
+  },
+  "已收到新录音，等待提交。": {
+    "zh-CN": "已收到新录音，等待提交。",
+    "en": "Received new recording. Waiting to submit."
+  },
+  "已收藏 {{0}}{{1}}": {
+    "zh-CN": "已收藏 {{0}}{{1}}",
+    "en": "Saved {{0}}{{1}} in favorites."
+  },
+  "已暂停": {
+    "zh-CN": "已暂停",
+    "en": "Paused"
+  },
+  "已有可靠评估的单词无需手动标记漏读。": {
+    "zh-CN": "已有可靠评估的单词无需手动标记漏读。",
+    "en": "Words with reliable assessments do not need manual marking of missed readings."
+  },
+  "已有记录的来源不能更改。": {
+    "zh-CN": "已有记录的来源不能更改。",
+    "en": "Sources that have been recorded cannot be changed."
+  },
+  "已生成原创模拟题，请先审题再写作。": {
+    "zh-CN": "已生成原创模拟题，请先审题再写作。",
+    "en": "Generated original practice questions. Please review them before writing."
+  },
+  "已记录的练习": {
+    "zh-CN": "已记录的练习",
+    "en": "Recorded Practice"
+  },
+  "已评 {{0}} / {{1}} 词": {
+    "zh-CN": "已评 {{0}} / {{1}} 词",
+    "en": "Evaluated {{0}} / {{1}} words"
+  },
+  "已评分轮次": {
+    "zh-CN": "已评分轮次",
+    "en": "Rated Rounds"
+  },
+  "已评分部分": {
+    "zh-CN": "已评分部分",
+    "en": "Rated Parts"
+  },
+  "已评分部分参考分": {
+    "zh-CN": "已评分部分参考分",
+    "en": "Reference Score for Rated Parts"
+  },
+  "已评分部分音素匹配参考分": {
+    "zh-CN": "已评分部分音素匹配参考分",
+    "en": "Reference Phonic Match Score for Rated Parts"
+  },
+  "已连接": {
+    "zh-CN": "已连接",
+    "en": "Connected"
+  },
+  "已选择：": {
+    "zh-CN": "已选择：",
+    "en": "Selected:"
+  },
+  "已选音色不存在。": {
+    "zh-CN": "已选音色不存在。",
+    "en": "Selected Tone Color does not exist."
+  },
+  "希望遇到的词汇（选填，最多 8 个）": {
+    "zh-CN": "希望遇到的词汇（选填，最多 8 个）",
+    "en": "Words you hope to encounter (optional, up to 8)"
+  },
+  "带入生词本中的待巩固词汇（最多合计 8 个）": {
+    "zh-CN": "带入生词本中的待巩固词汇（最多合计 8 个）",
+    "en": "Vocabulary to be consolidated that has been entered into the vocabulary notebook (up to a total of 8)"
+  },
+  "平均参考分": {
+    "zh-CN": "平均参考分",
+    "en": "Average Reference Score"
+  },
+  "应用到草稿": {
+    "zh-CN": "应用到草稿",
+    "en": "Apply to Draft"
+  },
+  "建议": {
+    "zh-CN": "建议",
+    "en": "Suggestion"
+  },
+  "开启新对话": {
+    "zh-CN": "开启新对话",
+    "en": "Start New Conversation"
+  },
+  "开始一篇文章后，就会出现在这里。": {
+    "zh-CN": "开始一篇文章后，就会出现在这里。",
+    "en": "It will appear here after starting a post."
+  },
+  "开始复习": {
+    "zh-CN": "开始复习",
+    "en": "Start Reviewing"
+  },
+  "开始学习": {
+    "zh-CN": "开始学习",
+    "en": "Start Learning"
+  },
+  "开始对话": {
+    "zh-CN": "开始对话",
+    "en": "Start Conversation"
+  },
+  "开始录音": {
+    "zh-CN": "开始录音",
+    "en": "Start Recording"
+  },
+  "开始朗读练习": {
+    "zh-CN": "开始朗读练习",
+    "en": "Start Reading Practice"
+  },
+  "开始练习 →": {
+    "zh-CN": "开始练习 →",
+    "en": "Start Practicing →"
+  },
+  "开始计时": {
+    "zh-CN": "开始计时",
+    "en": "Start Timing"
+  },
+  "开放词典尚未收录此词，本次使用自动生成的发音参考。": {
+    "zh-CN": "开放词典尚未收录此词，本次使用自动生成的发音参考。",
+    "en": "The dictionary does not include this word, please refer to the generated pronunciation for now."
+  },
+  "归到这个词的实际音素": {
+    "zh-CN": "归到这个词的实际音素",
+    "en": "Map to its actual phonemes"
+  },
+  "归属唯一": {
+    "zh-CN": "归属唯一",
+    "en": "Unique mapping"
+  },
+  "当前使用：": {
+    "zh-CN": "当前使用：",
+    "en": "Currently using:"
+  },
+  "当前全局音色": {
+    "zh-CN": "当前全局音色",
+    "en": "Current global voice"
+  },
+  "当前分段练习": {
+    "zh-CN": "当前分段练习",
+    "en": "Current segment practice"
+  },
+  "当前学习者": {
+    "zh-CN": "当前学习者",
+    "en": "Current learner"
+  },
+  "当前学习者：": {
+    "zh-CN": "当前学习者：",
+    "en": "Current learner:"
+  },
+  "当前新文章": {
+    "zh-CN": "当前新文章",
+    "en": "Current new article"
+  },
+  "当前服务返回文字转写对照，音素判断需进一步核对": {
+    "zh-CN": "当前服务返回文字转写对照，音素判断需进一步核对",
+    "en": "Current text-to-speech return from service, phoneme judgment needs further verification"
+  },
+  "当前本地模型：": {
+    "zh-CN": "当前本地模型：",
+    "en": "Current local model:"
+  },
+  "当前段我的录音": {
+    "zh-CN": "当前段我的录音",
+    "en": "My current recording in this segment:"
+  },
+  "当前没有待复习的卡片": {
+    "zh-CN": "当前没有待复习的卡片",
+    "en": "No flashcards to review at the moment."
+  },
+  "当前浏览器无法录音，请使用支持麦克风的浏览器或直接输入英文。": {
+    "zh-CN": "当前浏览器无法录音，请使用支持麦克风的浏览器或直接输入英文。",
+    "en": "Your current browser cannot record audio. Please use a browser that supports microphones or directly enter English text."
+  },
+  "当前词书词数": {
+    "zh-CN": "当前词书词数",
+    "en": "Current vocabulary book words count"
+  },
+  "当前词库最多保存 30000 个词，请分批使用词书。": {
+    "zh-CN": "当前词库最多保存 30000 个词，请分批使用词书。",
+    "en": "The current word bank can save up to 30,000 words. Please batch use the vocabulary books."
+  },
+  "录音": {
+    "zh-CN": "录音",
+    "en": "Record"
+  },
+  "录音中，请读出当前单词，然后点击“停止录音”。": {
+    "zh-CN": "录音中，请读出当前单词，然后点击“停止录音”。",
+    "en": "Recording in progress. Read out the current word and click 'Stop Recording' when done."
+  },
+  "录音复述，手动点击停止。": {
+    "zh-CN": "录音复述，手动点击停止。",
+    "en": "Record and repeat manually by clicking stop."
+  },
+  "录音由你手动停止；完成后可回听或重录。": {
+    "zh-CN": "录音由你手动停止；完成后可回听或重录。",
+    "en": "Recording stops automatically; you can replay or re-record after completion."
+  },
+  "录音设备发生错误，请检查麦克风后重试。": {
+    "zh-CN": "录音设备发生错误，请检查麦克风后重试。",
+    "en": "Audio recording device error. Check your microphone and try again."
+  },
+  "录音识别音素": {
+    "zh-CN": "录音识别音素",
+    "en": "Recognizing phonemes from recording"
+  },
+  "录音请求格式无效。": {
+    "zh-CN": "录音请求格式无效。",
+    "en": "Invalid request format for audio recording."
+  },
+  "录音过大，请录制较短的单词发音。": {
+    "zh-CN": "录音过大，请录制较短的单词发音。",
+    "en": "Recording too long. Try recording shorter word pronunciations."
+  },
+  "录音音素识别": {
+    "zh-CN": "录音音素识别",
+    "en": "Record Pronunciation Recognition"
+  },
+  "待就绪": {
+    "zh-CN": "待就绪",
+    "en": "Ready"
+  },
+  "待巩固": {
+    "zh-CN": "待巩固",
+    "en": "To Strengthen"
+  },
+  "待开发": {
+    "zh-CN": "待开发",
+    "en": "Under Development"
+  },
+  "待录音": {
+    "zh-CN": "待录音",
+    "en": "To Record"
+  },
+  "待核对": {
+    "zh-CN": "待核对",
+    "en": "To Review"
+  },
+  "待答题": {
+    "zh-CN": "待答题",
+    "en": "To Answer"
+  },
+  "待补全释义，暂不进入复习": {
+    "zh-CN": "待补全释义，暂不进入复习",
+    "en": "Incomplete Explanation Pending, Not Entering Review Yet"
+  },
+  "待评估": {
+    "zh-CN": "待评估",
+    "en": "To Evaluate"
+  },
+  "忘记": {
+    "zh-CN": "忘记",
+    "en": "Forgot"
+  },
+  "忽略此建议": {
+    "zh-CN": "忽略此建议",
+    "en": "Ignore This Suggestion"
+  },
+  "总分 = 已匹配音素数 ÷ 已评分词的音素配对操作数 × 100；替换、插入和删除均计入。不是绿色单词所占的比例。确认漏读的词按目标音素数计入，匹配数为 0。": {
+    "zh-CN": "总分 = 已匹配音素数 ÷ 已评分词的音素配对操作数 × 100；替换、插入和删除均计入。不是绿色单词所占的比例。确认漏读的词按目标音素数计入，匹配数为 0。",
+    "en": "Total Score = Number of Matched Pronunciations ÷ Total Number of Pairs of Pronunciations in Reviewed Words × 100; Substitutions, Insertions, and Deletions Are Counted. It Is Not the Percentage of Green Words. Words Missed Are Counted by Target Pronunciation Numbers, With Matching Numbers at Zero."
+  },
+  "恢复复习": {
+    "zh-CN": "恢复复习",
+    "en": "Resume Review"
+  },
+  "恢复建议": {
+    "zh-CN": "恢复建议",
+    "en": "Resume Suggestions"
+  },
+  "恢复自动识别": {
+    "zh-CN": "恢复自动识别",
+    "en": "Resume Automatic Recognition"
+  },
+  "想检查读音时再开启，使用本地音素模型评分。": {
+    "zh-CN": "想检查读音时再开启，使用本地音素模型评分。",
+    "en": "Enable this when you want to check pronunciations; use local phonemes for scoring."
+  },
+  "想读什么？": {
+    "zh-CN": "想读什么？",
+    "en": "What do you want to read?"
+  },
+  "我的听力练习": {
+    "zh-CN": "我的听力练习",
+    "en": "My Listening Practice"
+  },
+  "我的生词库": {
+    "zh-CN": "我的生词库",
+    "en": "My Vocabulary List"
+  },
+  "我的练习录音": {
+    "zh-CN": "我的练习录音",
+    "en": "My Practice Recordings"
+  },
+  "我确认漏读了这个词": {
+    "zh-CN": "我确认漏读了这个词",
+    "en": "I missed reading this word on my own."
+  },
+  "手动停止录音后自动分析；导入录音后点击检查。": {
+    "zh-CN": "手动停止录音后自动分析；导入录音后点击检查。",
+    "en": "Automatically analyze after manually stopping recording; click Check after importing recordings."
+  },
+  "手动录音 · 逐词反馈 · 音素对照": {
+    "zh-CN": "手动录音 · 逐词反馈 · 音素对照",
+    "en": "Manual Recording · Word-by-word Feedback · Phoneme Comparison"
+  },
+  "手动添加": {
+    "zh-CN": "手动添加",
+    "en": "Add Manually"
+  },
+  "手动点击停止；识别后可修改，再发送。": {
+    "zh-CN": "手动点击停止；识别后可修改，再发送。",
+    "en": "Tap to stop; you can modify after recognition and resend."
+  },
+  "打开写作记录失败。": {
+    "zh-CN": "打开写作记录失败。",
+    "en": "Failed to open writing record."
+  },
+  "打开失败。": {
+    "zh-CN": "打开失败。",
+    "en": "Failed to open."
+  },
+  "打开对应写作": {
+    "zh-CN": "打开对应写作",
+    "en": "Open corresponding writing"
+  },
+  "打开对应听力": {
+    "zh-CN": "打开对应听力",
+    "en": "Open corresponding listening"
+  },
+  "打开对应对话": {
+    "zh-CN": "打开对应对话",
+    "en": "Open corresponding dialog"
+  },
+  "打开对应阅读": {
+    "zh-CN": "打开对应阅读",
+    "en": "Open corresponding reading"
+  },
+  "打开生词库": {
+    "zh-CN": "打开生词库",
+    "en": "Open vocabulary list"
+  },
+  "批改失败，草稿已保留。": {
+    "zh-CN": "批改失败，草稿已保留。",
+    "en": "Grading failed, but the draft has been saved."
+  },
+  "批改已保存。先理解问题，再修改并提交复评。": {
+    "zh-CN": "批改已保存。先理解问题，再修改并提交复评。",
+    "en": "Grading saved successfully. Review the issues first, then make modifications and submit for re-evaluation."
+  },
+  "批改已保存，但统一学习记录同步失败。点击重试批改会同步同一记录，不会重复记次。": {
+    "zh-CN": "批改已保存，但统一学习记录同步失败。点击重试批改会同步同一记录，不会重复记次。",
+    "en": "Grading saved successfully, but unified learning records did not sync. Clicking retry will sync the same record without repeating the count."
+  },
+  "批改版本": {
+    "zh-CN": "批改版本",
+    "en": "Grading version"
+  },
+  "批改请求无效。": {
+    "zh-CN": "批改请求无效。",
+    "en": "Invalid proofreading request."
+  },
+  "拖动选择单词或短语后加入生词本；也可选中后右键。段落编号用于定位答案依据。": {
+    "zh-CN": "拖动选择单词或短语后加入生词本；也可选中后右键。段落编号用于定位答案依据。",
+    "en": "Drag and select words or phrases to add them to the vocabulary notebook; you can also select and right-click. Paragraph numbers are used for locating the basis of your answer."
+  },
+  "按单词时间与边界容错配对实际音素，逐词应用匹配率门槛。": {
+    "zh-CN": "按单词时间与边界容错配对实际音素，逐词应用匹配率门槛。",
+    "en": "Pair actual phonemes based on word time and boundary tolerance, applying matching rate thresholds per word."
+  },
+  "按核对文字重查发音": {
+    "zh-CN": "按核对文字重查发音",
+    "en": "Recheck pronunciation by comparing text against what was read"
+  },
+  "按音频顺序作答。填空最多 3 个英文词；可以重复收听后再提交。": {
+    "zh-CN": "按音频顺序作答。填空最多 3 个英文词；可以重复收听后再提交。",
+    "en": "Answer in order of audio clips. Fill in up to three English words; you may listen again before submitting."
+  },
+  "按高中、大学或雅思 7.5–8 的英语难度阅读，同时学习感兴趣的知识。原创文章配 6 道阅读题，答题后查看依据、长难句和词汇。练习正确率用于复习，不换算雅思分数。": {
+    "zh-CN": "按高中、大学或雅思 7.5–8 的英语难度阅读，同时学习感兴趣的知识。原创文章配 6 道阅读题，答题后查看依据、长难句和词汇。练习正确率用于复习，不换算雅思分数。",
+    "en": "Read articles at high school, university, or IELTS 7.5-8 level English difficulty while learning interesting topics. Original articles come with six reading questions, allowing you to review answers, long sentences, and vocabulary after submission. Practice accuracy is used for revision and does not convert to an IELTS score."
+  },
+  "提交一次批改后，这里会显示原文与批注。": {
+    "zh-CN": "提交一次批改后，这里会显示原文与批注。",
+    "en": "After submitting one correction, this will show the original text and annotations."
+  },
+  "提交前已查看原文，本次为辅助练习。": {
+    "zh-CN": "提交前已查看原文，本次为辅助练习。",
+    "en": "This has been reviewed before submission, serving as supplementary practice."
+  },
+  "提交前默认隐藏原文和答案。": {
+    "zh-CN": "提交前默认隐藏原文和答案。",
+    "en": "By default, the original text and answers are hidden before submission."
+  },
+  "提交后将显示本次评分。": {
+    "zh-CN": "提交后将显示本次评分。",
+    "en": "After submission, your score will be displayed."
+  },
+  "提交失败。": {
+    "zh-CN": "提交失败。",
+    "en": "Submission failed."
+  },
+  "提交导入录音评分": {
+    "zh-CN": "提交导入录音评分",
+    "en": "Submission import audio scoring failed."
+  },
+  "提交当前草稿复评": {
+    "zh-CN": "提交当前草稿复评",
+    "en": "Submit current draft for re-evaluation"
+  },
+  "提交批改": {
+    "zh-CN": "提交批改",
+    "en": "Submit Correction"
+  },
+  "提交文字回答": {
+    "zh-CN": "提交文字回答",
+    "en": "Submit Written Response"
+  },
+  "提交答案并查看解析": {
+    "zh-CN": "提交答案并查看解析",
+    "en": "Submit Answer and View Solution"
+  },
+  "搜索": {
+    "zh-CN": "搜索",
+    "en": "Search"
+  },
+  "搜索单词": {
+    "zh-CN": "搜索单词",
+    "en": "Search Word"
+  },
+  "搜索单词或释义": {
+    "zh-CN": "搜索单词或释义",
+    "en": "Search word or definition"
+  },
+  "搜索参数无效。": {
+    "zh-CN": "搜索参数无效。",
+    "en": "Invalid search parameters."
+  },
+  "撤销漏读标记": {
+    "zh-CN": "撤销漏读标记",
+    "en": "Undo skipped reading mark"
+  },
+  "撤销采用建议": {
+    "zh-CN": "撤销采用建议",
+    "en": "Undo adopted suggestion"
+  },
+  "播放失败，请刷新页面重试。": {
+    "zh-CN": "播放失败，请刷新页面重试。",
+    "en": "Playback failed, please try refreshing the page."
+  },
+  "播放失败，请重试音频。": {
+    "zh-CN": "播放失败，请重试音频。",
+    "en": "Playback failed, please try playing the audio again."
+  },
+  "收藏语境过长。": {
+    "zh-CN": "收藏语境过长。",
+    "en": "Context too long."
+  },
+  "收起原文": {
+    "zh-CN": "收起原文",
+    "en": "Collapse original text"
+  },
+  "教练服务状态": {
+    "zh-CN": "教练服务状态",
+    "en": "Coach Service Status"
+  },
+  "整体清晰，继续打磨细节。": {
+    "zh-CN": "整体清晰，继续打磨细节。",
+    "en": "Overall clear, need to refine details."
+  },
+  "整句音素匹配参考分": {
+    "zh-CN": "整句音素匹配参考分",
+    "en": "Sentence-level phonetic alignment score"
+  },
+  "整词平均置信度未达到 {{0}}% 门槛。": {
+    "zh-CN": "整词平均置信度未达到 {{0}}% 门槛。",
+    "en": "The average confidence level of whole words has not reached the {{0}}% threshold."
+  },
+  "整词平均置信度达到 {{0}}% 门槛。": {
+    "zh-CN": "整词平均置信度达到 {{0}}% 门槛。",
+    "en": "The average confidence level of whole words has reached the {{0}}% threshold."
+  },
+  "整词识别置信度": {
+    "zh-CN": "整词识别置信度",
+    "en": "Word-level recognition confidence"
+  },
+  "文件超过 512 MB。": {
+    "zh-CN": "文件超过 512 MB。",
+    "en": "File exceeds 512 MB."
+  },
+  "文字识别": {
+    "zh-CN": "文字识别",
+    "en": "Text Recognition"
+  },
+  "文章": {
+    "zh-CN": "文章",
+    "en": "Article"
+  },
+  "文章与单词标记": {
+    "zh-CN": "文章与单词标记",
+    "en": "Marking of Articles and Words"
+  },
+  "文章中存在过长的单词，请检查空格和拼写。": {
+    "zh-CN": "文章中存在过长的单词，请检查空格和拼写。",
+    "en": "There are long words in the article, please check for spaces and spelling."
+  },
+  "文章分段或版本编号无效。": {
+    "zh-CN": "文章分段或版本编号无效。",
+    "en": "The segment or version number of the article is invalid."
+  },
+  "文章分段编号无效。": {
+    "zh-CN": "文章分段编号无效。",
+    "en": "The segment number of the article is invalid."
+  },
+  "文章原文": {
+    "zh-CN": "文章原文",
+    "en": "Original text of the article"
+  },
+  "文章和题目生成后会保存在阅读历史，完整朗读在后台准备。": {
+    "zh-CN": "文章和题目生成后会保存在阅读历史，完整朗读在后台准备。",
+    "en": "After generating the article and title, it will be saved in the reading history, and the full reading will be prepared in the background."
+  },
+  "文章朗读": {
+    "zh-CN": "文章朗读",
+    "en": "Reading of the Article"
+  },
+  "文章朗读历史": {
+    "zh-CN": "文章朗读历史",
+    "en": "History of Article Reading"
+  },
+  "文章朗读评测": {
+    "zh-CN": "文章朗读评测",
+    "en": "Evaluation of Article Reading"
+  },
+  "文章标题不能超过 150 个字符。": {
+    "zh-CN": "文章标题不能超过 150 个字符。",
+    "en": "Article titles cannot exceed 150 characters."
+  },
+  "文章标题（可选）": {
+    "zh-CN": "文章标题（可选）",
+    "en": "Article title (optional)"
+  },
+  "文章长度": {
+    "zh-CN": "文章长度",
+    "en": "Length of the Article"
+  },
+  "文章长度（英文词数）": {
+    "zh-CN": "文章长度（英文词数）",
+    "en": "Article Length (in English words)"
+  },
+  "文章难度": {
+    "zh-CN": "文章难度",
+    "en": "Article Difficulty"
+  },
+  "文章需要包含 1–{{0}} 个英文单词。": {
+    "zh-CN": "文章需要包含 1–{{0}} 个英文单词。",
+    "en": "The article needs to contain 1–{{0}} English words."
+  },
+  "新建写作": {
+    "zh-CN": "新建写作",
+    "en": "New Writing"
+  },
+  "新词": {
+    "zh-CN": "新词",
+    "en": "New Words"
+  },
+  "无归属候选数据": {
+    "zh-CN": "无归属候选数据",
+    "en": "No Associated Candidate Data"
+  },
+  "无数据": {
+    "zh-CN": "无数据",
+    "en": "No Data"
+  },
+  "无法使用麦克风。": {
+    "zh-CN": "无法使用麦克风。",
+    "en": "Microphone cannot be used."
+  },
+  "无法分析这段录音，请确认录到清晰的人声后重录。": {
+    "zh-CN": "无法分析这段录音，请确认录到清晰的人声后重录。",
+    "en": "Unable to analyze this recording. Please confirm that you have recorded clear human voice and try re-recording."
+  },
+  "无法应用建议。": {
+    "zh-CN": "无法应用建议。",
+    "en": "Unable to apply suggestions."
+  },
+  "无法打开词书。": {
+    "zh-CN": "无法打开词书。",
+    "en": "Unable to open vocabulary book."
+  },
+  "无法确认": {
+    "zh-CN": "无法确认",
+    "en": "Cannot confirm"
+  },
+  "日常场景对话": {
+    "zh-CN": "日常场景对话",
+    "en": "Daily Scenario Dialogs"
+  },
+  "时间定位：": {
+    "zh-CN": "时间定位：",
+    "en": "Time Localization:"
+  },
+  "时间配对分析失败，请重试。": {
+    "zh-CN": "时间配对分析失败，请重试。",
+    "en": "Failed to pair time: Please try again."
+  },
+  "时间配对发音结果": {
+    "zh-CN": "时间配对发音结果",
+    "en": "Phonetic Pairing Results for Time:"
+  },
+  "时间配对实验": {
+    "zh-CN": "时间配对实验",
+    "en": "Time Pairing Experiment"
+  },
+  "时间配对结果格式无效。": {
+    "zh-CN": "时间配对结果格式无效。",
+    "en": "Invalid format for time pairing results."
+  },
+  "显示更多": {
+    "zh-CN": "显示更多",
+    "en": "Show More"
+  },
+  "显示答案 · 空格": {
+    "zh-CN": "显示答案 · 空格",
+    "en": "Show Answer · Space"
+  },
+  "暂停复习": {
+    "zh-CN": "暂停复习",
+    "en": "Pause Review"
+  },
+  "暂停播放": {
+    "zh-CN": "暂停播放",
+    "en": "Pause Playback"
+  },
+  "暂停状态无效。": {
+    "zh-CN": "暂停状态无效。",
+    "en": "Invalid pause state."
+  },
+  "暂停计时": {
+    "zh-CN": "暂停计时",
+    "en": "Pause Timer"
+  },
+  "暂无": {
+    "zh-CN": "暂无",
+    "en": "None"
+  },
+  "暂无例句": {
+    "zh-CN": "暂无例句",
+    "en": "No Examples Available"
+  },
+  "暂时无法读取全局模型配置，请打开设置检查": {
+    "zh-CN": "暂时无法读取全局模型配置，请打开设置检查",
+    "en": "Unable to read global model configuration at the moment, please check settings."
+  },
+  "暂时无法读取语音配置，请确认服务已启动。": {
+    "zh-CN": "暂时无法读取语音配置，请确认服务已启动。",
+    "en": "Unable to read voice configuration, make sure the service is started."
+  },
+  "更好的表达 · 可选润色": {
+    "zh-CN": "更好的表达 · 可选润色",
+    "en": "Better Expression · Optional Refinement"
+  },
+  "更自然的表达": {
+    "zh-CN": "更自然的表达",
+    "en": "Naturality"
+  },
+  "替换": {
+    "zh-CN": "替换",
+    "en": "Replace"
+  },
+  "最多创建 100 本词书。": {
+    "zh-CN": "最多创建 100 本词书。",
+    "en": "Up to 100 word books can be created."
+  },
+  "最多输入 8 个英文词或短语。": {
+    "zh-CN": "最多输入 8 个英文词或短语。",
+    "en": "Maximum of 8 English words or phrases can be entered."
+  },
+  "最近对话": {
+    "zh-CN": "最近对话",
+    "en": "Recent Conversations"
+  },
+  "最近提交：": {
+    "zh-CN": "最近提交：",
+    "en": "Recently Submitted:"
+  },
+  "最近的朗读文章": {
+    "zh-CN": "最近的朗读文章",
+    "en": "The Latest Read Articles"
+  },
+  "有": {
+    "zh-CN": "有",
+    "en": "Yes"
+  },
+  "有未保存的修改": {
+    "zh-CN": "有未保存的修改",
+    "en": "There are unsaved changes"
+  },
+  "服务暂不可用，请重试。": {
+    "zh-CN": "服务暂不可用，请重试。",
+    "en": "Service is unavailable at the moment, please try again."
+  },
+  "朗读文本": {
+    "zh-CN": "朗读文本",
+    "en": "Read Text"
+  },
+  "朗读请求过长。": {
+    "zh-CN": "朗读请求过长。",
+    "en": "Read request is too long."
+  },
+  "朗读这一段": {
+    "zh-CN": "朗读这一段",
+    "en": "Read this section"
+  },
+  "未分配到音素": {
+    "zh-CN": "未分配到音素",
+    "en": "Not assigned to phonemes"
+  },
+  "未取得转写": {
+    "zh-CN": "未取得转写",
+    "en": "Unable to obtain transcription"
+  },
+  "未命名写作": {
+    "zh-CN": "未命名写作",
+    "en": "No title for writing"
+  },
+  "未提供归属信息": {
+    "zh-CN": "未提供归属信息",
+    "en": "No information about affiliation provided"
+  },
+  "未检测到": {
+    "zh-CN": "未检测到",
+    "en": "No author detected"
+  },
+  "未生成参考值 · 查看结果 →": {
+    "zh-CN": "未生成参考值 · 查看结果 →",
+    "en": "No reference generated · View results →"
+  },
+  "未自然带入": {
+    "zh-CN": "未自然带入",
+    "en": "Not naturally imported"
+  },
+  "未评分": {
+    "zh-CN": "未评分",
+    "en": "Not rated"
+  },
+  "未评分：{{0}}": {
+    "zh-CN": "未评分：{{0}}",
+    "en": "Not rated: {{0}}"
+  },
+  "未识别到文字": {
+    "zh-CN": "未识别到文字",
+    "en": "Text not recognized"
+  },
+  "未识别到清晰音素": {
+    "zh-CN": "未识别到清晰音素",
+    "en": "Speech not recognized"
+  },
+  "未返回单词级明细": {
+    "zh-CN": "未返回单词级明细",
+    "en": "No word-level details returned"
+  },
+  "未配置语音设置路径，请使用 Start-LearningApps.cmd 或 pnpm dev 启动应用。": {
+    "zh-CN": "未配置语音设置路径，请使用 Start-LearningApps.cmd 或 pnpm dev 启动应用。",
+    "en": "Voice settings path not configured. Please start the application using Start-LearningApps.cmd or pnpm dev."
+  },
+  "本地 · {{0}}": {
+    "zh-CN": "本地 · {{0}}",
+    "en": "Local · {{0}}"
+  },
+  "本地写作历史": {
+    "zh-CN": "本地写作历史",
+    "en": "Local writing history"
+  },
+  "本地后台自动启动暂不可用，请检查应用启动配置。": {
+    "zh-CN": "本地后台自动启动暂不可用，请检查应用启动配置。",
+    "en": "Local background automatic startup unavailable at this time. Check the application startup configuration."
+  },
+  "本地模型": {
+    "zh-CN": "本地模型",
+    "en": "Local model"
+  },
+  "本地模型（无需 API Key）": {
+    "zh-CN": "本地模型（无需 API Key）",
+    "en": "Local models (no API Key required)"
+  },
+  "本地词书": {
+    "zh-CN": "本地词书",
+    "en": "Local dictionary"
+  },
+  "本地词书不存在。": {
+    "zh-CN": "本地词书不存在。",
+    "en": "Local dictionary does not exist."
+  },
+  "本地词书架": {
+    "zh-CN": "本地词书架",
+    "en": "Local dictionary shelf"
+  },
+  "本地词书校验失败，请重新安装词书。": {
+    "zh-CN": "本地词书校验失败，请重新安装词书。",
+    "en": "Local dictionary verification failed, please reinstall the dictionary."
+  },
+  "本地词书资源尚未安装，可先导入自己的词书。": {
+    "zh-CN": "本地词书资源尚未安装，可先导入自己的词书。",
+    "en": "Local dictionary resources have not been installed, you can first import your own dictionary."
+  },
+  "本应用仅使用本地学习空间。": {
+    "zh-CN": "本应用仅使用本地学习空间。",
+    "en": "This application only uses local study space."
+  },
+  "本条对话记录不计分": {
+    "zh-CN": "本条对话记录不计分",
+    "en": "This dialogue record will not be scored."
+  },
+  "本次": {
+    "zh-CN": "本次",
+    "en": "This time"
+  },
+  "本次仅导入选中的笔记类型；其他类型可再次预览后导入。": {
+    "zh-CN": "本次仅导入选中的笔记类型；其他类型可再次预览后导入。",
+    "en": "This time only selected note types are exported; other types can be previewed again before importing."
+  },
+  "本次仅提供写作反馈，不计雅思分": {
+    "zh-CN": "本次仅提供写作反馈，不计雅思分",
+    "en": "This time only writing feedback is provided, no IELTS score will be recorded."
+  },
+  "本次发音结果": {
+    "zh-CN": "本次发音结果",
+    "en": "This time's pronunciation result"
+  },
+  "本次发音结果 · 边界容错": {
+    "zh-CN": "本次发音结果 · 边界容错",
+    "en": "This round's pronunciation result · Edge Tolerance"
+  },
+  "本次实验已完成 40 轮，请开启新的对话。": {
+    "zh-CN": "本次实验已完成 40 轮，请开启新的对话。",
+    "en": "This experiment has completed 40 rounds. Please start a new conversation."
+  },
+  "本次提交未完成：": {
+    "zh-CN": "本次提交未完成：",
+    "en": "This submission was not completed:"
+  },
+  "本次未取得可靠的单词定位或音素配对。已保留识别文字，请核对或重新录音。": {
+    "zh-CN": "本次未取得可靠的单词定位或音素配对。已保留识别文字，请核对或重新录音。",
+    "en": "No reliable word alignment or phoneme pairing was achieved. The recognized text is retained for review or re-recording."
+  },
+  "本次未标出明确的语言错误，不代表已通过人工校对。": {
+    "zh-CN": "本次未标出明确的语言错误，不代表已通过人工校对。",
+    "en": "No explicit language errors were identified, which does not necessarily mean it passed manual review."
+  },
+  "本次模型或评分规则有变化，分数差异不宜直接解释为水平进步。": {
+    "zh-CN": "本次模型或评分规则有变化，分数差异不宜直接解释为水平进步。",
+    "en": "The model or scoring rules have changed this time; the score difference should not be directly interpreted as progress in ability."
+  },
+  "本次没有额外练习。": {
+    "zh-CN": "本次没有额外练习。",
+    "en": "There was no additional practice this time."
+  },
+  "本次没有额外表达建议。": {
+    "zh-CN": "本次没有额外表达建议。",
+    "en": "There was no additional expression suggestion this time."
+  },
+  "本次练习已完成 20 轮交流，可以开始新的话题练习。": {
+    "zh-CN": "本次练习已完成 20 轮交流，可以开始新的话题练习。",
+    "en": "This round of practice has completed 20 rounds of exchanges. You can begin practicing on new topics."
+  },
+  "本次结果与参数已保存到学习记录。改变后续参数不会改写本次评估。": {
+    "zh-CN": "本次结果与参数已保存到学习记录。改变后续参数不会改写本次评估。",
+    "en": "This evaluation result and parameters are saved to your study record. Changing subsequent parameters will not overwrite this assessment."
+  },
+  "本次评分服务暂不可用，请稍后重试。": {
+    "zh-CN": "本次评分服务暂不可用，请稍后重试。",
+    "en": "The scoring service is currently unavailable. Please try again later."
+  },
+  "本次评分未完成": {
+    "zh-CN": "本次评分未完成",
+    "en": "This round's scoring was not completed."
+  },
+  "本次词汇参考：": {
+    "zh-CN": "本次词汇参考：",
+    "en": "Current word reference:"
+  },
+  "本次配对采用的参考音素": {
+    "zh-CN": "本次配对采用的参考音素",
+    "en": "Reference phonemes used in this pairing:"
+  },
+  "本次门槛：匹配率": {
+    "zh-CN": "本次门槛：匹配率",
+    "en": "Threshold for this round: Matching rate"
+  },
+  "本稿使用过 AI 建议或范文辅助（修改稿会自动标记，也可自行调整）。": {
+    "zh-CN": "本稿使用过 AI 建议或范文辅助（修改稿会自动标记，也可自行调整）。",
+    "en": "This draft has used AI suggestions or template assistance (marked automatically in revised drafts, can also be adjusted manually)."
+  },
+  "本稿使用过建议，不代表独立写作能力的同等提升。": {
+    "zh-CN": "本稿使用过建议，不代表独立写作能力的同等提升。",
+    "en": "Using suggestions in this draft does not necessarily indicate an equivalent improvement in independent writing ability."
+  },
+  "本轮发音结果": {
+    "zh-CN": "本轮发音结果",
+    "en": "Current pronunciation result:"
+  },
+  "本轮录音 ·": {
+    "zh-CN": "本轮录音 ·",
+    "en": "Current recording ·"
+  },
+  "本轮未指出需要修改的语法问题。": {
+    "zh-CN": "本轮未指出需要修改的语法问题。",
+    "en": "No grammar issues needing revision were identified in this round."
+  },
+  "本轮结果": {
+    "zh-CN": "本轮结果",
+    "en": "Current results:"
+  },
+  "条": {
+    "zh-CN": "条",
+    "en": "items"
+  },
+  "条。": {
+    "zh-CN": "条。",
+    "en": "."
+  },
+  "条建议无法确定重复词句的位置，已隐藏。请结合原文检查，或切换全局模型复查。": {
+    "zh-CN": "条建议无法确定重复词句的位置，已隐藏。请结合原文检查，或切换全局模型复查。",
+    "en": "items cannot be determined due to overlapping sentences. These have been hidden. Please review them against the original text, or switch to global models for re-evaluation."
+  },
+  "某一段包含过多符号或空白，请整理文章后重试。": {
+    "zh-CN": "某一段包含过多符号或空白，请整理文章后重试。",
+    "en": "Too many symbols or spaces are included in a segment. Please organize the text and try again."
+  },
+  "查看例句与来源": {
+    "zh-CN": "查看例句与来源",
+    "en": "View example sentences and sources"
+  },
+  "查看单词 {{0}} 的发音": {
+    "zh-CN": "查看单词 {{0}} 的发音",
+    "en": "View the pronunciation of word {{0}}"
+  },
+  "查看原文后可选取单词或短语，加入统一生词本。": {
+    "zh-CN": "查看原文后可选取单词或短语，加入统一生词本。",
+    "en": "Select words or phrases after viewing the original text to add them to your vocabulary list."
+  },
+  "查看原文（标记为辅助练习）": {
+    "zh-CN": "查看原文（标记为辅助练习）",
+    "en": "View the original (marked as supplementary practice)"
+  },
+  "查看原阅读材料": {
+    "zh-CN": "查看原阅读材料",
+    "en": "View the original reading material"
+  },
+  "查看听力原文": {
+    "zh-CN": "查看听力原文",
+    "en": "View the listening transcript"
+  },
+  "查看听力原文或完成答题后，可以收藏原文生词。": {
+    "zh-CN": "查看听力原文或完成答题后，可以收藏原文生词。",
+    "en": "After viewing the listening transcript or completing the quiz, you can save the words from the original text."
+  },
+  "查看处理耗时": {
+    "zh-CN": "查看处理耗时",
+    "en": "View processing time"
+  },
+  "查看学习记录": {
+    "zh-CN": "查看学习记录",
+    "en": "View study records"
+  },
+  "查看学习记录 →": {
+    "zh-CN": "查看学习记录 →",
+    "en": "View study records →"
+  },
+  "查看整句音素对照": {
+    "zh-CN": "查看整句音素对照",
+    "en": "View whole sentence phonetic correspondences"
+  },
+  "查看板块规划": {
+    "zh-CN": "查看板块规划",
+    "en": "View Board Planning"
+  },
+  "查看橙色单词的目标与实际音素，再对照示范练习。": {
+    "zh-CN": "查看橙色单词的目标与实际音素，再对照示范练习。",
+    "en": "View the target and actual phonemes of the orange words, then compare them with the demonstration for practice."
+  },
+  "查看段落": {
+    "zh-CN": "查看段落",
+    "en": "View Paragraph"
+  },
+  "查看答案与解释": {
+    "zh-CN": "查看答案与解释",
+    "en": "View Answer and Explanation"
+  },
+  "查看评分和单词标记，点击查看音素。": {
+    "zh-CN": "查看评分和单词标记，点击查看音素。",
+    "en": "View Score and Word Markings, Click to View Phonemes."
+  },
+  "查看音素匹配、疑似替换、漏读和额外音素；无法确认的部分单独标注。": {
+    "zh-CN": "查看音素匹配、疑似替换、漏读和额外音素；无法确认的部分单独标注。",
+    "en": "View Phonetic Matching, Suspected Substitutions, Missed Reads, and Extra Phonemes; Unconfirmed parts are marked separately."
+  },
+  "标为掌握": {
+    "zh-CN": "标为掌握",
+    "en": "Mark as Mastered"
+  },
+  "标准 · 约 300–420 词": {
+    "zh-CN": "标准 · 约 300–420 词",
+    "en": "Standard · Approximately 300-420 Words"
+  },
+  "标题": {
+    "zh-CN": "标题",
+    "en": "Title"
+  },
+  "标题、题目或正文过长，或包含无效字符。": {
+    "zh-CN": "标题、题目或正文过长，或包含无效字符。",
+    "en": "Title, Question, or Body Text is too long, or contains invalid characters."
+  },
+  "校园里的时间管理": {
+    "zh-CN": "校园里的时间管理",
+    "en": "Time Management on Campus"
+  },
+  "根据实际回忆情况选择：忘记表示未想起；困难表示想起但费力；记住表示正常回忆；简单表示轻松回忆。记忆自评不换算考试分数。": {
+    "zh-CN": "根据实际回忆情况选择：忘记表示未想起；困难表示想起但费力；记住表示正常回忆；简单表示轻松回忆。记忆自评不换算考试分数。",
+    "en": "Based on your recall situation, choose: forgot means did not remember; difficult means remembered but it was hard; remembered means normal recall; simple means easy recall. Memory self-assessment does not convert to test scores."
+  },
+  "检查中…": {
+    "zh-CN": "检查中…",
+    "en": "Checking…"
+  },
+  "检查本次发音": {
+    "zh-CN": "检查本次发音",
+    "en": "Check this pronunciation"
+  },
+  "检查本次回答": {
+    "zh-CN": "检查本次回答",
+    "en": "Check this response"
+  },
+  "模型判断不确定，请先回听，再尝试重读。": {
+    "zh-CN": "模型判断不确定，请先回听，再尝试重读。",
+    "en": "The model is uncertain. Please first listen back and try to re-read."
+  },
+  "模型加载": {
+    "zh-CN": "模型加载",
+    "en": "Model loading"
+  },
+  "模型反馈暂不可用，语音转写已保留。": {
+    "zh-CN": "模型反馈暂不可用，语音转写已保留。",
+    "en": "Model feedback is unavailable at the moment, but speech recognition remains."
+  },
+  "模型名称": {
+    "zh-CN": "模型名称",
+    "en": "Model name"
+  },
+  "模型回复无效，请重试。": {
+    "zh-CN": "模型回复无效，请重试。",
+    "en": "Model reply is invalid. Please try again."
+  },
+  "模型处理中，请稍候…": {
+    "zh-CN": "模型处理中，请稍候…",
+    "en": "Model processing, please wait…"
+  },
+  "模型建议复核这个单词，可先对照示范再重读。": {
+    "zh-CN": "模型建议复核这个单词，可先对照示范再重读。",
+    "en": "The model suggests reviewing this word. You can compare it with a demonstration before trying to re-read."
+  },
+  "模型服务": {
+    "zh-CN": "模型服务",
+    "en": "Model service"
+  },
+  "模型服务暂不可用，可到设置页检查。": {
+    "zh-CN": "模型服务暂不可用，可到设置页检查。",
+    "en": "Model service is unavailable at the moment. Check in settings."
+  },
+  "模型服务暂不可用，请确认 Coach 服务已启动。": {
+    "zh-CN": "模型服务暂不可用，请确认 Coach 服务已启动。",
+    "en": "Model services are currently unavailable. Please confirm that the Coach service is running."
+  },
+  "模型未返回辅导建议，请重试。": {
+    "zh-CN": "模型未返回辅导建议，请重试。",
+    "en": "The model did not return study suggestions. Try again."
+  },
+  "模型正在生成材料、题目与答案依据，长篇或本地模型可能需要几分钟。已有练习会保留。": {
+    "zh-CN": "模型正在生成材料、题目与答案依据，长篇或本地模型可能需要几分钟。已有练习会保留。",
+    "en": "The model is generating materials, questions, and answers based on the input. Longer or local models may take several minutes. Previous exercises will remain available."
+  },
+  "模型没有标记明显疑点，可结合录音自行核对。": {
+    "zh-CN": "模型没有标记明显疑点，可结合录音自行核对。",
+    "en": "The model did not flag any obvious errors; you can review them by listening to the recording yourself."
+  },
+  "模型状态暂不可用，可在设置中检查连接。": {
+    "zh-CN": "模型状态暂不可用，可在设置中检查连接。",
+    "en": "Model status is temporarily unavailable. Check your connection in settings."
+  },
+  "模型设置": {
+    "zh-CN": "模型设置",
+    "en": "Model Settings"
+  },
+  "模型评分用于练习参考，会受录音质量与口音影响。此结果独立于词义记忆自评，不改变复习排期。": {
+    "zh-CN": "模型评分用于练习参考，会受录音质量与口音影响。此结果独立于词义记忆自评，不改变复习排期。",
+    "en": "Model scores serve as references for practice and are influenced by the quality of the audio and accent. This result stands independently from self-assessment of vocabulary memorization and does not affect review schedules."
+  },
+  "模型识别的音素": {
+    "zh-CN": "模型识别的音素",
+    "en": "Phonemes identified by the model"
+  },
+  "模型请求失败，请检查模型设置后重试。": {
+    "zh-CN": "模型请求失败，请检查模型设置后重试。",
+    "en": "Model request failed. Check your model settings and try again."
+  },
+  "模型请求失败，请检查设置。": {
+    "zh-CN": "模型请求失败，请检查设置。",
+    "en": "Model request failed. Check your settings."
+  },
+  "模型返回无效。": {
+    "zh-CN": "模型返回无效。",
+    "en": "Model returned invalid data."
+  },
+  "次": {
+    "zh-CN": "次",
+    "en": "Try again."
+  },
+  "正在使用本地发音模型评分，请稍候…": {
+    "zh-CN": "正在使用本地发音模型评分，请稍候…",
+    "en": "Scoring using local pronunciation model, please wait…"
+  },
+  "正在保存…": {
+    "zh-CN": "正在保存…",
+    "en": "Saving…"
+  },
+  "正在保存文字回答…": {
+    "zh-CN": "正在保存文字回答…",
+    "en": "Saving text answer…"
+  },
+  "正在准备全文音频，可以先阅读和答题。首次生成可能需要几分钟。": {
+    "zh-CN": "正在准备全文音频，可以先阅读和答题。首次生成可能需要几分钟。",
+    "en": "Preparing full audio, you can read and answer questions first. First generation may take a few minutes."
+  },
+  "正在准备示范…": {
+    "zh-CN": "正在准备示范…",
+    "en": "Preparing demonstration…"
+  },
+  "正在分析录音…": {
+    "zh-CN": "正在分析录音…",
+    "en": "Analyzing recording…"
+  },
+  "正在合成…": {
+    "zh-CN": "正在合成…",
+    "en": "Synthesizing…"
+  },
+  "正在合成音频，首次准备可能需要几分钟。": {
+    "zh-CN": "正在合成音频，首次准备可能需要几分钟。",
+    "en": "Synthesizing audio, first preparation may take a few minutes."
+  },
+  "正在处理…": {
+    "zh-CN": "正在处理…",
+    "en": "Processing…"
+  },
+  "正在完成模型请求。批改包含评分与逐句检查，本地模型可能需要几分钟；请保持页面打开。": {
+    "zh-CN": "正在完成模型请求。批改包含评分与逐句检查，本地模型可能需要几分钟；请保持页面打开。",
+    "en": "Completing model request. Grading includes scoring and sentence-by-sentence checking; local models may take a few minutes. Please keep the page open."
+  },
+  "正在开启话题…": {
+    "zh-CN": "正在开启话题…",
+    "en": "Opening topic…"
+  },
+  "正在打开…": {
+    "zh-CN": "正在打开…",
+    "en": "Opening…"
+  },
+  "正在打开已保存的阅读…": {
+    "zh-CN": "正在打开已保存的阅读…",
+    "en": "Opening saved reading…"
+  },
+  "正在打开本地写作空间…": {
+    "zh-CN": "正在打开本地写作空间…",
+    "en": "Opening local writing space…"
+  },
+  "正在打开练习…": {
+    "zh-CN": "正在打开练习…",
+    "en": "Opening practice…"
+  },
+  "正在检查本地服务": {
+    "zh-CN": "正在检查本地服务",
+    "en": "Checking local service"
+  },
+  "正在检查目标句发音…": {
+    "zh-CN": "正在检查目标句发音…",
+    "en": "Checking pronunciation of target sentence…"
+  },
+  "正在检查语言模型…": {
+    "zh-CN": "正在检查语言模型…",
+    "en": "Checking language model…"
+  },
+  "正在生成…": {
+    "zh-CN": "正在生成…",
+    "en": "Generating…"
+  },
+  "正在生成下一轮…": {
+    "zh-CN": "正在生成下一轮…",
+    "en": "Generating next round…"
+  },
+  "正在生成与校验…": {
+    "zh-CN": "正在生成与校验…",
+    "en": "Generating and validating…"
+  },
+  "正在生成建议，可以先查看发音结果。": {
+    "zh-CN": "正在生成建议，可以先查看发音结果。",
+    "en": "Generating suggestions, you may check the pronunciation result first."
+  },
+  "正在生成文章、题目与解析，本地模型可能需要几分钟；请保持此页打开。": {
+    "zh-CN": "正在生成文章、题目与解析，本地模型可能需要几分钟；请保持此页打开。",
+    "en": "Generating article, topic, and solution, local model might take a few minutes; please keep this page open."
+  },
+  "正在生成试听…": {
+    "zh-CN": "正在生成试听…",
+    "en": "Generating preview…"
+  },
+  "正在结合语境生成释义…": {
+    "zh-CN": "正在结合语境生成释义…",
+    "en": "Generating definitions based on context…"
+  },
+  "正在识别和评分…": {
+    "zh-CN": "正在识别和评分…",
+    "en": "Identifying and scoring…"
+  },
+  "正在识别回答并检查发音…": {
+    "zh-CN": "正在识别回答并检查发音…",
+    "en": "Identifying responses and checking pronunciation…"
+  },
+  "正在识别录音、定位单词时间并配对音素。": {
+    "zh-CN": "正在识别录音、定位单词时间并配对音素。",
+    "en": "Identifying the recording, locating the word time, and pairing phonemes."
+  },
+  "正在识别本次录音并评分，请保留当前页面。": {
+    "zh-CN": "正在识别本次录音并评分，请保留当前页面。",
+    "en": "Transcribing the current recording and scoring it. Please keep this page open."
+  },
+  "正在请求麦克风…": {
+    "zh-CN": "正在请求麦克风…",
+    "en": "Requesting access to the microphone…"
+  },
+  "正在读取本地词书…": {
+    "zh-CN": "正在读取本地词书…",
+    "en": "Reading the local dictionary…"
+  },
+  "正在读取模型设置…": {
+    "zh-CN": "正在读取模型设置…",
+    "en": "Reading the model settings…"
+  },
+  "正在读取词库…": {
+    "zh-CN": "正在读取词库…",
+    "en": "Reading the vocabulary library…"
+  },
+  "正在读取音色…": {
+    "zh-CN": "正在读取音色…",
+    "en": "Reading the voice tones…"
+  },
+  "正在转写…": {
+    "zh-CN": "正在转写…",
+    "en": "Translating…"
+  },
+  "正面": {
+    "zh-CN": "正面",
+    "en": "Positive"
+  },
+  "段": {
+    "zh-CN": "段",
+    "en": "Paragraph"
+  },
+  "段 ·": {
+    "zh-CN": "段 ·",
+    "en": "Paragraph ·"
+  },
+  "段 · 已评分": {
+    "zh-CN": "段 · 已评分",
+    "en": "Paragraph · Rated"
+  },
+  "段落 {{0}}": {
+    "zh-CN": "段落 {{0}}",
+    "en": "Paragraph {{0}}"
+  },
+  "段，再回听核对": {
+    "zh-CN": "段，再回听核对",
+    "en": "Re-listen and check after completing in 30 seconds."
+  },
+  "每日新词上限": {
+    "zh-CN": "每日新词上限",
+    "en": "Daily New Words Limit"
+  },
+  "每日新词为 0–100；目标记忆率为 80%–97%。": {
+    "zh-CN": "每日新词为 0–100；目标记忆率为 80%–97%。",
+    "en": "Daily new words range from 0-100; target memorization rate is 80%-97%."
+  },
+  "每次回答后自动生成辅导评论": {
+    "zh-CN": "每次回答后自动生成辅导评论",
+    "en": "Generate tutoring comments automatically after each answer."
+  },
+  "每段建议在 30 秒内完成。手动停止后自动评分，也可导入该段录音。": {
+    "zh-CN": "每段建议在 30 秒内完成。手动停止后自动评分，也可导入该段录音。",
+    "en": "Each segment should be completed within 30 seconds. After manual stop, it will automatically score and you can also import the audio for this segment."
+  },
+  "汇集各板块的练习历史，查看学习内容、成绩与复习记录。": {
+    "zh-CN": "汇集各板块的练习历史，查看学习内容、成绩与复习记录。",
+    "en": "Aggregate practice history across all sections to view study content, performance, and review records."
+  },
+  "没有分配到实际音素。": {
+    "zh-CN": "没有分配到实际音素。",
+    "en": "No allocated phonemes available."
+  },
+  "没有可播放的音频。": {
+    "zh-CN": "没有可播放的音频。",
+    "en": "No playable audio available."
+  },
+  "没有找到单词。可以手动添加，或在听、读和口语练习中收藏。": {
+    "zh-CN": "没有找到单词。可以手动添加，或在听、读和口语练习中收藏。",
+    "en": "No words found. You can manually add them or bookmark them in listening, reading, and speaking exercises."
+  },
+  "没有标记出明显的单词疑点": {
+    "zh-CN": "没有标记出明显的单词疑点",
+    "en": "No obvious word points marked."
+  },
+  "没有识别出语音，请再试一次，或直接输入英文。": {
+    "zh-CN": "没有识别出语音，请再试一次，或直接输入英文。",
+    "en": "Unable to recognize the audio. Try again, or enter the English directly."
+  },
+  "没有识别到清晰的英文，请重录或直接输入。": {
+    "zh-CN": "没有识别到清晰的英文，请重录或直接输入。",
+    "en": "Unable to recognize clear English. Redo the recording or enter it directly."
+  },
+  "沿用全局音色设置。新的实验接口和本地记录独立于原“说”模块。": {
+    "zh-CN": "沿用全局音色设置。新的实验接口和本地记录独立于原“说”模块。",
+    "en": "Uses global voice settings. The new experimental interface and local recordings are independent of the original 'say' module."
+  },
+  "添加到我的生词库": {
+    "zh-CN": "添加到我的生词库",
+    "en": "Add to My Vocabulary List"
+  },
+  "清晰读出": {
+    "zh-CN": "清晰读出",
+    "en": "Read clearly"
+  },
+  "清除已保存的 API Key（外部模型将等待重新配置）": {
+    "zh-CN": "清除已保存的 API Key（外部模型将等待重新配置）",
+    "en": "Clear saved API key (external models will wait for reconfiguration)"
+  },
+  "清除录音": {
+    "zh-CN": "清除录音",
+    "en": "Clear recording"
+  },
+  "点击单词查看发音反馈；可单独播放示范发音。回听自己的发音请使用整句录音。": {
+    "zh-CN": "点击单词查看发音反馈；可单独播放示范发音。回听自己的发音请使用整句录音。",
+    "en": "Click on a word to view pronunciation feedback; you can play a sample pronunciation separately. To listen back to your own pronunciation, use a full sentence recording."
+  },
+  "点击单词查看发音细节。": {
+    "zh-CN": "点击单词查看发音细节。",
+    "en": "Click on a word to view detailed pronunciation information."
+  },
+  "点击标记查看对应问题。此处保存的是提交时的原文，编辑上方草稿不会改变它。": {
+    "zh-CN": "点击标记查看对应问题。此处保存的是提交时的原文，编辑上方草稿不会改变它。",
+    "en": "Click on a mark to view corresponding issues."
+  },
+  "理解这篇文章": {
+    "zh-CN": "理解这篇文章",
+    "en": "Understand this article"
+  },
+  "生成后的文章会保存在这里，刷新后可继续学习。": {
+    "zh-CN": "生成后的文章会保存在这里，刷新后可继续学习。",
+    "en": "The generated text will be saved here and you can continue learning after refreshing."
+  },
+  "生成听力练习": {
+    "zh-CN": "生成听力练习",
+    "en": "Generate listening exercises"
+  },
+  "生成回复语音": {
+    "zh-CN": "生成回复语音",
+    "en": "Generate spoken response audio"
+  },
+  "生成回答建议": {
+    "zh-CN": "生成回答建议",
+    "en": "Generate reply suggestions"
+  },
+  "生成备注：": {
+    "zh-CN": "生成备注：",
+    "en": "Generate notes:"
+  },
+  "生成失败。": {
+    "zh-CN": "生成失败。",
+    "en": "Generation failed."
+  },
+  "生成模拟题": {
+    "zh-CN": "生成模拟题",
+    "en": "Generate mock tests"
+  },
+  "生成第一份材料后，会保存在这里。": {
+    "zh-CN": "生成第一份材料后，会保存在这里。",
+    "en": "After generating the first material, it will be saved here."
+  },
+  "生成话题听力、听音答题与解析，再围绕内容用英语交流。": {
+    "zh-CN": "生成话题听力、听音答题与解析，再围绕内容用英语交流。",
+    "en": "Generate topic-based listening exercises, comprehension questions, and discussion in English based on the content."
+  },
+  "生成话题文章与阅读题，听朗读、查看解析并收藏生词。": {
+    "zh-CN": "生成话题文章与阅读题，听朗读、查看解析并收藏生词。",
+    "en": "Generate topic articles and reading questions, listen to the readings, view explanations, and collect new words."
+  },
+  "生成阅读练习": {
+    "zh-CN": "生成阅读练习",
+    "en": "Generate reading exercises"
+  },
+  "生词库 · {{0}}": {
+    "zh-CN": "生词库 · {{0}}",
+    "en": "Vocabulary List · {{0}}"
+  },
+  "生词库保存失败。": {
+    "zh-CN": "生词库保存失败。",
+    "en": "Failed to save Vocabulary List."
+  },
+  "生词库操作无效。": {
+    "zh-CN": "生词库操作无效。",
+    "en": "Invalid operation on Vocabulary List."
+  },
+  "生词本加载失败，请刷新页面重试。": {
+    "zh-CN": "生词本加载失败，请刷新页面重试。",
+    "en": "Failed to load Vocabulary Book. Please refresh the page and try again."
+  },
+  "用户与设置": {
+    "zh-CN": "用户与设置",
+    "en": "User Settings"
+  },
+  "用户名称已保存，五个板块使用同一用户。": {
+    "zh-CN": "用户名称已保存，五个板块使用同一用户。",
+    "en": "User name saved. All five sections use the same user."
+  },
+  "用户无效。": {
+    "zh-CN": "用户无效。",
+    "en": "Invalid user."
+  },
+  "用本次录音重新评分": {
+    "zh-CN": "用本次录音重新评分",
+    "en": "Rereate score using this recording."
+  },
+  "用自己的话回答。停止录音后会识别实际内容，并从音频检查发音；你也可以核对文字或直接输入。": {
+    "zh-CN": "用自己的话回答。停止录音后会识别实际内容，并从音频检查发音；你也可以核对文字或直接输入。",
+    "en": "Answer in your own words. After stopping the recording, it will recognize the actual content and check pronunciation; you can also verify the text or directly enter it."
+  },
+  "用麦克风回答": {
+    "zh-CN": "用麦克风回答",
+    "en": "Answer using microphone"
+  },
+  "留空时自动识别；识别有误时可填写实际说出的内容后重新检查，漏读的词不要补入。": {
+    "zh-CN": "留空时自动识别；识别有误时可填写实际说出的内容后重新检查，漏读的词不要补入。",
+    "en": "Auto-recognizes when left blank; if recognized incorrectly, fill in what was actually said and recheck. Words missed out do not need to be entered."
+  },
+  "疑似替换": {
+    "zh-CN": "疑似替换",
+    "en": "Suspicious substitution"
+  },
+  "疑似漏读": {
+    "zh-CN": "疑似漏读",
+    "en": "Possible Missed Reads"
+  },
+  "疑似误读": {
+    "zh-CN": "疑似误读",
+    "en": "Possible Misreads"
+  },
+  "疑点程度": {
+    "zh-CN": "疑点程度",
+    "en": "Level of Suspicion"
+  },
+  "的原文依据": {
+    "zh-CN": "的原文依据",
+    "en": "The basis for the original text."
+  },
+  "的成功评分。": {
+    "zh-CN": "的成功评分。",
+    "en": "Success Score."
+  },
+  "的练习历史": {
+    "zh-CN": "的练习历史",
+    "en": "Practice History."
+  },
+  "目标": {
+    "zh-CN": "目标",
+    "en": "Goal"
+  },
+  "目标句子": {
+    "zh-CN": "目标句子",
+    "en": "Target Sentence"
+  },
+  "目标回答": {
+    "zh-CN": "目标回答",
+    "en": "Target Response"
+  },
+  "目标记忆率（%）": {
+    "zh-CN": "目标记忆率（%）",
+    "en": "Target Recall Rate (%)"
+  },
+  "目标词汇最多 8 个，请用逗号分隔。": {
+    "zh-CN": "目标词汇最多 8 个，请用逗号分隔。",
+    "en": "Maximum 8 target words, please use a comma to separate them."
+  },
+  "目标音素": {
+    "zh-CN": "目标音素",
+    "en": "Target Phonemes"
+  },
+  "目标音素：": {
+    "zh-CN": "目标音素：",
+    "en": "Target Phoneme:"
+  },
+  "目标：": {
+    "zh-CN": "目标：",
+    "en": "Target:"
+  },
+  "睡眠如何影响记忆": {
+    "zh-CN": "睡眠如何影响记忆",
+    "en": "How Sleep Affects Memory"
+  },
+  "确定": {
+    "zh-CN": "确定",
+    "en": "Confirm"
+  },
+  "确认删除": {
+    "zh-CN": "确认删除",
+    "en": "Confirm Delete"
+  },
+  "确认导入": {
+    "zh-CN": "确认导入",
+    "en": "Confirm Import"
+  },
+  "示例": {
+    "zh-CN": "示例",
+    "en": "Example"
+  },
+  "示例词书": {
+    "zh-CN": "示例词书",
+    "en": "Example Vocabulary"
+  },
+  "示范发音播放失败。": {
+    "zh-CN": "示范发音播放失败。",
+    "en": "Sample pronunciation playback failed."
+  },
+  "示范发音暂不可用，请重试。": {
+    "zh-CN": "示范发音暂不可用，请重试。",
+    "en": "Sample pronunciation is unavailable at the moment, please try again."
+  },
+  "示范回答": {
+    "zh-CN": "示范回答",
+    "en": "Sample Answer"
+  },
+  "科普": {
+    "zh-CN": "科普",
+    "en": "Science Communication"
+  },
+  "秒": {
+    "zh-CN": "秒",
+    "en": "second"
+  },
+  "秒 · 处理": {
+    "zh-CN": "秒 · 处理",
+    "en": "second · processing"
+  },
+  "秒。": {
+    "zh-CN": "秒。",
+    "en": "."
+  },
+  "秒，对齐执行": {
+    "zh-CN": "秒，对齐执行",
+    "en": "seconds, execute in sync"
+  },
+  "移出生词库": {
+    "zh-CN": "移出生词库",
+    "en": "remove from flashcard"
+  },
+  "稿": {
+    "zh-CN": "稿",
+    "en": "draft"
+  },
+  "稿 ·": {
+    "zh-CN": "稿 ·",
+    "en": "draft ·"
+  },
+  "稿原文与批注": {
+    "zh-CN": "稿原文与批注",
+    "en": "draft original text and annotations"
+  },
+  "立即保存": {
+    "zh-CN": "立即保存",
+    "en": "save immediately"
+  },
+  "笔记类型": {
+    "zh-CN": "笔记类型",
+    "en": "note type"
+  },
+  "第": {
+    "zh-CN": "第",
+    "en": "The"
+  },
+  "第 {{0}} 轮我的录音": {
+    "zh-CN": "第 {{0}} 轮我的录音",
+    "en": "The {{0}}th round of my recording"
+  },
+  "第 {{0}} 题答案": {
+    "zh-CN": "第 {{0}} 题答案",
+    "en": "Question {{0}} Answer"
+  },
+  "等待就绪": {
+    "zh-CN": "等待就绪",
+    "en": "Waiting Ready"
+  },
+  "等待麦克风授权…": {
+    "zh-CN": "等待麦克风授权…",
+    "en": "Waiting for microphone authorization…"
+  },
+  "答案格式无效。": {
+    "zh-CN": "答案格式无效。",
+    "en": "Invalid answer format."
+  },
+  "答案过长。": {
+    "zh-CN": "答案过长。",
+    "en": "Answer too long."
+  },
+  "答案选项无效。": {
+    "zh-CN": "答案选项无效。",
+    "en": "Invalid answer option."
+  },
+  "答错了": {
+    "zh-CN": "答错了",
+    "en": "Wrong answer."
+  },
+  "答题完成，可结合原文回听。": {
+    "zh-CN": "答题完成，可结合原文回听。",
+    "en": "Answering completed, you can review the original text."
+  },
+  "答题已保存，历史列表刷新失败。": {
+    "zh-CN": "答题已保存，历史列表刷新失败。",
+    "en": "Answers saved but unified study record synchronization failed. Please refresh the history list again."
+  },
+  "答题正确率": {
+    "zh-CN": "答题正确率",
+    "en": "Correct Rate of Answers"
+  },
+  "答题结果已保存，但统一学习记录同步失败。请再次点击同步记录。": {
+    "zh-CN": "答题结果已保存，但统一学习记录同步失败。请再次点击同步记录。",
+    "en": "Answers saved, but unified study records synchronization failed. Please click to re-synchronize the records."
+  },
+  "答题结果已保存，学习记录同步失败。请点击重新同步记录。": {
+    "zh-CN": "答题结果已保存，学习记录同步失败。请点击重新同步记录。",
+    "en": "Answers saved, but individual study records synchronization failed. Click to resync the records."
+  },
+  "简单": {
+    "zh-CN": "简单",
+    "en": "Simple"
+  },
+  "简单说：": {
+    "zh-CN": "简单说：",
+    "en": "Simply put:"
+  },
+  "管理模型和音色": {
+    "zh-CN": "管理模型和音色",
+    "en": "Manage models and sounds"
+  },
+  "管理用户与设置": {
+    "zh-CN": "管理用户与设置",
+    "en": "Manage users and settings"
+  },
+  "粘贴自己的文章": {
+    "zh-CN": "粘贴自己的文章",
+    "en": "Paste your own articles"
+  },
+  "粘贴英文文章，或从已有阅读材料中导入。开始后自动分段并保存在本机。": {
+    "zh-CN": "粘贴英文文章，或从已有阅读材料中导入。开始后自动分段并保存在本机。",
+    "en": "Paste English articles or import from existing reading materials. Automatically segment and save on the device after pasting."
+  },
+  "粘贴题目，或按上方话题生成。雅思完整估分需要题目。": {
+    "zh-CN": "粘贴题目，或按上方话题生成。雅思完整估分需要题目。",
+    "en": "Paste a topic name, or generate one using the topics above. IELTS full score estimation requires a topic."
+  },
+  "系统出题为原创模拟题。": {
+    "zh-CN": "系统出题为原创模拟题。",
+    "en": "System generates original simulated questions."
+  },
+  "红色 · 需要重练": {
+    "zh-CN": "红色 · 需要重练",
+    "en": "Red · Need to re-practice"
+  },
+  "练习另一篇文章": {
+    "zh-CN": "练习另一篇文章",
+    "en": "Practice another article"
+  },
+  "练习已保存，历史列表刷新失败。": {
+    "zh-CN": "练习已保存，历史列表刷新失败。",
+    "en": "Practice saved exercises, failed to refresh history list."
+  },
+  "练习录音": {
+    "zh-CN": "练习录音",
+    "en": "Failed to refresh practice recording."
+  },
+  "练习来源": {
+    "zh-CN": "练习来源",
+    "en": "Source of Practice"
+  },
+  "练习这个词的发音": {
+    "zh-CN": "练习这个词的发音",
+    "en": "Practice pronouncing this word"
+  },
+  "结果已保存到本机实验记录。评分来自本地句子发音基线算法，供练习参考。": {
+    "zh-CN": "结果已保存到本机实验记录。评分来自本地句子发音基线算法，供练习参考。",
+    "en": "Results have been saved locally to your experiment log. Scores come from a local sentence pronunciation baseline algorithm for reference during practice."
+  },
+  "结果自动保存在本机，可从实验历史继续。录音仅在当前页面保留，刷新后仍可查看评分。": {
+    "zh-CN": "结果自动保存在本机，可从实验历史继续。录音仅在当前页面保留，刷新后仍可查看评分。",
+    "en": "Results are automatically saved locally and can continue from previous experiments. Recordings are retained on the current page and can be viewed after refreshing with scores."
+  },
+  "结果页我的录音": {
+    "zh-CN": "结果页我的录音",
+    "en": "My recordings on the Results Page"
+  },
+  "给这篇文章起个名字": {
+    "zh-CN": "给这篇文章起个名字",
+    "en": "Give this article a title"
+  },
+  "统一切换所有语言模型功能：本地模型或外部 API。默认预设 DeepSeek，API Key 可稍后填写。": {
+    "zh-CN": "统一切换所有语言模型功能：本地模型或外部 API。默认预设 DeepSeek，API Key 可稍后填写。",
+    "en": "Unified Switch All Language Models: Local Model or External API. Default preset is DeepSeek, API Key can be filled in later."
+  },
+  "统一控制 AI Coach 对话、口语辅导、自由表达反馈、阅读生成、听力生成、听后交流与单词释义。默认预设 DeepSeek，可稍后填写 API Key；也可随时切换为本地模型。自动评论开关和讲解语言仅控制口语辅导。": {
+    "zh-CN": "统一控制 AI Coach 对话、口语辅导、自由表达反馈、阅读生成、听力生成、听后交流与单词释义。默认预设 DeepSeek，可稍后填写 API Key；也可随时切换为本地模型。自动评论开关和讲解语言仅控制口语辅导。",
+    "en": "Unified Control of AI Coach Conversations, Oral Guidance, Free Expression Feedback, Reading Generation, Listening Generation, Post-Listening Discussion, and Word Definitions. Default preset is DeepSeek; you can fill in the API Key later or switch to the local model at any time. Automatic Commenting and Explanation Language controls only Oral Guidance."
+  },
+  "统一时间配对评估": {
+    "zh-CN": "统一时间配对评估",
+    "en": "Unified Pairing Evaluation Timing"
+  },
+  "统一管理学习身份与各板块的设置。": {
+    "zh-CN": "统一管理学习身份与各板块的设置。",
+    "en": "Unified Management of Learning Identities and Settings for Each Section."
+  },
+  "继续学习": {
+    "zh-CN": "继续学习",
+    "en": "Continue Learning"
+  },
+  "绿色 · 基本正确": {
+    "zh-CN": "绿色 · 基本正确",
+    "en": "Green · Basic Correctness"
+  },
+  "绿色：基本正确 · 橙色：基本错误。没有足够证据的词保留未评分；参考分不代表人工确认的发音准确率。": {
+    "zh-CN": "绿色：基本正确 · 橙色：基本错误。没有足够证据的词保留未评分；参考分不代表人工确认的发音准确率。",
+    "en": "Green: Basically correct · Orange: Basically incorrect. Words without enough evidence are left unrated; the reference score does not represent the accuracy of the pronunciation confirmed by humans."
+  },
+  "绿色：未标记 · 橙色：建议复核 · 灰色：判断不确定": {
+    "zh-CN": "绿色：未标记 · 橙色：建议复核 · 灰色：判断不确定",
+    "en": "Green: Unmarked · Orange: Suggested for review · Gray: Uncertain judgment"
+  },
+  "编辑": {
+    "zh-CN": "编辑",
+    "en": "Edit"
+  },
+  "编辑单词": {
+    "zh-CN": "编辑单词",
+    "en": "Edit word"
+  },
+  "缺少可靠单词时间。": {
+    "zh-CN": "缺少可靠单词时间。",
+    "en": "Missing reliable word time."
+  },
+  "缺少可靠时间": {
+    "zh-CN": "缺少可靠时间",
+    "en": "Missing reliable time"
+  },
+  "缺少完整识别置信度，无法应用置信度门槛。": {
+    "zh-CN": "缺少完整识别置信度，无法应用置信度门槛。",
+    "en": "Incomplete confidence score for recognition prevents applying the threshold for confidence."
+  },
+  "缺少时间证据": {
+    "zh-CN": "缺少时间证据",
+    "en": "Insufficient time evidence"
+  },
+  "缺少音素配对结果。": {
+    "zh-CN": "缺少音素配对结果。",
+    "en": "Missing phoneme pairing results."
+  },
+  "缺音": {
+    "zh-CN": "缺音",
+    "en": "No sound"
+  },
+  "美音": {
+    "zh-CN": "美音",
+    "en": "American English"
+  },
+  "翻面回忆、间隔复习、导入 Anki 词书，让生词回到听力、阅读和口语实验中。": {
+    "zh-CN": "翻面回忆、间隔复习、导入 Anki 词书，让生词回到听力、阅读和口语实验中。",
+    "en": "Flip recall, spaced repetition, import Anki flashcards to bring new words back into listening, reading, and speaking experiments."
+  },
+  "能可靠定位的词已评分，其余词保留未评分。可以核对转写或重新朗读。": {
+    "zh-CN": "能可靠定位的词已评分，其余词保留未评分。可以核对转写或重新朗读。",
+    "en": "Words already rated are reliable; the rest remain unrated. You can verify the transcription or re-read."
+  },
+  "自主写作": {
+    "zh-CN": "自主写作",
+    "en": "Independent Writing"
+  },
+  "自动保存对话、辅导建议与发音结果，可重新打开。录音只用于当次练习。": {
+    "zh-CN": "自动保存对话、辅导建议与发音结果，可重新打开。录音只用于当次练习。",
+    "en": "Save conversations, tutoring suggestions, and pronunciation results for later use. Recordings are only used for the current practice session."
+  },
+  "自动评论已关闭，可在设置中开启。": {
+    "zh-CN": "自动评论已关闭，可在设置中开启。",
+    "en": "Automatic comments are disabled; you can enable them in settings."
+  },
+  "自动识别文字": {
+    "zh-CN": "自动识别文字",
+    "en": "Automatic text recognition"
+  },
+  "自己朗读这篇文章 · 实验 →": {
+    "zh-CN": "自己朗读这篇文章 · 实验 →",
+    "en": "Read this article yourself · Experiment →"
+  },
+  "自然带入今日学习和待巩固生词（最多 8 个）": {
+    "zh-CN": "自然带入今日学习和待巩固生词（最多 8 个）",
+    "en": "Natural incorporation of today's learned words and those needing consolidation (up to 8 words)"
+  },
+  "自然表达：": {
+    "zh-CN": "自然表达：",
+    "en": "Natural Expression:"
+  },
+  "自由写作": {
+    "zh-CN": "自由写作",
+    "en": "Free Writing"
+  },
+  "若确实漏读了这个词，可手动确认；否则建议重读这一段。": {
+    "zh-CN": "若确实漏读了这个词，可手动确认；否则建议重读这一段。",
+    "en": "If you really missed this word, confirm it manually; otherwise, suggest re-reading this section."
+  },
+  "英文例句": {
+    "zh-CN": "英文例句",
+    "en": "English Example Sentences"
+  },
+  "英文单词或短语": {
+    "zh-CN": "英文单词或短语",
+    "en": "English Words or Phrases"
+  },
+  "英文回答": {
+    "zh-CN": "英文回答",
+    "en": "English Answer"
+  },
+  "英文文章": {
+    "zh-CN": "英文文章",
+    "en": "English Article"
+  },
+  "英美音标": {
+    "zh-CN": "英美音标",
+    "en": "American English Pronunciation"
+  },
+  "英语例句": {
+    "zh-CN": "英语例句",
+    "en": "English Sentences"
+  },
+  "英语学习空间": {
+    "zh-CN": "英语学习空间",
+    "en": "English Learning Space"
+  },
+  "英语学习空间 ·": {
+    "zh-CN": "英语学习空间 ·",
+    "en": "English Learning Space ·"
+  },
+  "英语学习首页": {
+    "zh-CN": "英语学习首页",
+    "en": "English Learning Home Page"
+  },
+  "英音": {
+    "zh-CN": "英音",
+    "en": "UK English"
+  },
+  "草稿、提交原文、批改和修改版本保存在当前学习者的本地数据库中。": {
+    "zh-CN": "草稿、提交原文、批改和修改版本保存在当前学习者的本地数据库中。",
+    "en": "Drafts, original text submission, corrections, and version saving are stored in the local database of the current learner."
+  },
+  "草稿已在其他窗口更新。请保留当前文字，重新打开历史记录后再修改。": {
+    "zh-CN": "草稿已在其他窗口更新。请保留当前文字，重新打开历史记录后再修改。",
+    "en": "The draft has been updated in another window. Please keep the current text and reopen the history records before making further modifications."
+  },
+  "草稿已更新，请保存后重新提交。": {
+    "zh-CN": "草稿已更新，请保存后重新提交。",
+    "en": "The draft has been updated. Please save it before resubmitting."
+  },
+  "草稿已经改动，请参考建议自行修改，或重新批改后再采用。": {
+    "zh-CN": "草稿已经改动，请参考建议自行修改，或重新批改后再采用。",
+    "en": "The draft has been modified. Refer to the suggestions for self-correction or re-correcting before adopting them."
+  },
+  "表达建议与语法错误分别展示。选择适合自己的说法，不必追求生僻词。": {
+    "zh-CN": "表达建议与语法错误分别展示。选择适合自己的说法，不必追求生僻词。",
+    "en": "Expression suggestions and grammar errors are displayed separately. Choose the wording that suits you, rather than striving for obscure words."
+  },
+  "角色语音采样率无效。": {
+    "zh-CN": "角色语音采样率无效。",
+    "en": "Voice sample rate of role version invalid."
+  },
+  "角色语音需要完整的单声道 16 位 PCM 音频。": {
+    "zh-CN": "角色语音需要完整的单声道 16 位 PCM 音频。",
+    "en": "Voice samples for roles require complete single-channel 16-bit PCM audio."
+  },
+  "角色音色设置无效。": {
+    "zh-CN": "角色音色设置无效。",
+    "en": "Role voice color settings invalid."
+  },
+  "让听懂的内容变成自己的表达": {
+    "zh-CN": "让听懂的内容变成自己的表达",
+    "en": "Make understood content your own expression"
+  },
+  "让每一次练习，连接起来。": {
+    "zh-CN": "让每一次练习，连接起来。",
+    "en": "Connect every practice session together."
+  },
+  "让每一稿都有进步": {
+    "zh-CN": "让每一稿都有进步",
+    "en": "See progress in each draft."
+  },
+  "记住": {
+    "zh-CN": "记住",
+    "en": "Remember"
+  },
+  "记录已更新，请重新打开后继续。": {
+    "zh-CN": "记录已更新，请重新打开后继续。",
+    "en": "Your update has been recorded. Please reopen the app to continue."
+  },
+  "记录按当前用户保存在本机。不同工具的分数分别展示。旧口语记录继续保留，原课程和对话数据仍在本机；旧页面已移除，不再提供旧对话入口。实验对话在实验模块中查看。": {
+    "zh-CN": "记录按当前用户保存在本机。不同工具的分数分别展示。旧口语记录继续保留，原课程和对话数据仍在本机；旧页面已移除，不再提供旧对话入口。实验对话在实验模块中查看。",
+    "en": "Scores are saved locally on your device per current user. Scores from different tools are displayed separately. Old spoken records will still be retained, along with original course and conversation data; old pages have been removed and there's no longer an entry for old conversations. Experiments can be viewed in the experiment module."
+  },
+  "记录无效。": {
+    "zh-CN": "记录无效。",
+    "en": "Invalid record."
+  },
+  "记录过大。": {
+    "zh-CN": "记录过大。",
+    "en": "Record too large."
+  },
+  "记忆自评，不计分": {
+    "zh-CN": "记忆自评，不计分",
+    "en": "Self-assessment of memory, no score."
+  },
+  "设置保存失败。": {
+    "zh-CN": "设置保存失败。",
+    "en": "Settings save failed."
+  },
+  "设置已保存，下一次语言模型请求生效（包括已有听力练习的后续交流）。": {
+    "zh-CN": "设置已保存，下一次语言模型请求生效（包括已有听力练习的后续交流）。",
+    "en": "Settings saved. Changes will take effect on the next language model request (including subsequent exchanges after existing listening exercises)."
+  },
+  "访谈 · 行业资讯": {
+    "zh-CN": "访谈 · 行业资讯",
+    "en": "Interview · Industry News"
+  },
+  "评分": {
+    "zh-CN": "评分",
+    "en": "Score"
+  },
+  "评分与历史": {
+    "zh-CN": "评分与历史",
+    "en": "Score & History"
+  },
+  "评分为练习参考。对话、反馈和评分独立保存在口语学习记录中；历史不保存录音。": {
+    "zh-CN": "评分为练习参考。对话、反馈和评分独立保存在口语学习记录中；历史不保存录音。",
+    "en": "Scores serve as reference for practice. Conversations, feedback, and scores are independently stored in oral learning records; historical data does not save recordings."
+  },
+  "评分依据：": {
+    "zh-CN": "评分依据：",
+    "en": "Scoring basis:"
+  },
+  "评分后显示": {
+    "zh-CN": "评分后显示",
+    "en": "Show after scoring"
+  },
+  "评分完成": {
+    "zh-CN": "评分完成",
+    "en": "Scoring completed"
+  },
+  "评分完成，但学习记录保存失败。": {
+    "zh-CN": "评分完成，但学习记录保存失败。",
+    "en": "Scoring completed but failed to save study records."
+  },
+  "评分接受该词的英美发音及局部混用、合理弱读与闪音；下方音素用于录音配对。当前不评估重音。开放词典收录可能不全。": {
+    "zh-CN": "评分接受该词的英美发音及局部混用、合理弱读与闪音；下方音素用于录音配对。当前不评估重音。开放词典收录可能不全。",
+    "en": "Scoring accepted for American and British pronunciation, reasonable weak reading and flapping; the phonetic symbols are used for recording pairing. Current does not evaluate stress."
+  },
+  "评分结果与当前文章分段不一致，请重试。": {
+    "zh-CN": "评分结果与当前文章分段不一致，请重试。",
+    "en": "Inconsistent with current article segmentation. Please try again."
+  },
+  "评分规则与本次参数": {
+    "zh-CN": "评分规则与本次参数",
+    "en": "Scoring rules with this set of parameters"
+  },
+  "评论讲解语言": {
+    "zh-CN": "评论讲解语言",
+    "en": "Commentary explanation language"
+  },
+  "识别": {
+    "zh-CN": "识别",
+    "en": "Recognition"
+  },
+  "识别出的文字": {
+    "zh-CN": "识别出的文字",
+    "en": "Recognized text"
+  },
+  "识别失败。": {
+    "zh-CN": "识别失败。",
+    "en": "Recognition failure."
+  },
+  "识别有误？核对实际读出的文字（可选）": {
+    "zh-CN": "识别有误？核对实际读出的文字（可选）",
+    "en": "Incorrect recognition? Check the actual spoken text (optional)"
+  },
+  "识别置信度": {
+    "zh-CN": "识别置信度",
+    "en": "Recognition Confidence"
+  },
+  "识别置信度仅作提示，未参与颜色判定。": {
+    "zh-CN": "识别置信度仅作提示，未参与颜色判定。",
+    "en": "Recognition confidence is only for reference and does not affect the color determination."
+  },
+  "识别音素 · 下方数值为音素识别置信度": {
+    "zh-CN": "识别音素 · 下方数值为音素识别置信度",
+    "en": "Recognition Phonemes · The number below represents the phoneme recognition confidence"
+  },
+  "识别音素：": {
+    "zh-CN": "识别音素：",
+    "en": "Recognition Phonemes:"
+  },
+  "词": {
+    "zh-CN": "词",
+    "en": "Word"
+  },
+  "词 ·": {
+    "zh-CN": "词 ·",
+    "en": "Word ·"
+  },
+  "词 · 最多 2000 词 / 16000 字符": {
+    "zh-CN": "词 · 最多 2000 词 / 16000 字符",
+    "en": "Words · Up to 2000 words/16000 characters"
+  },
+  "词书": {
+    "zh-CN": "词书",
+    "en": "Dictionary"
+  },
+  "词书不存在。": {
+    "zh-CN": "词书不存在。",
+    "en": "Dictionary does not exist."
+  },
+  "词书名称": {
+    "zh-CN": "词书名称",
+    "en": "Dictionary Name"
+  },
+  "词书已下载到本机，可直接开始学习，无需重新上传。每位学习者单独保存进度，同词在多本词书中共用复习进度。": {
+    "zh-CN": "词书已下载到本机，可直接开始学习，无需重新上传。每位学习者单独保存进度，同词在多本词书中共用复习进度。",
+    "en": "The dictionary has been downloaded to your device and can start learning directly without re-uploading. Each learner saves their own progress separately, sharing review progress for the same word across multiple dictionaries."
+  },
+  "词书已导入，可切换到开始复习或全部词汇查看。": {
+    "zh-CN": "词书已导入，可切换到开始复习或全部词汇查看。",
+    "en": "Dictionary has been imported, allowing you to switch between reviewing or viewing all words."
+  },
+  "词书文件": {
+    "zh-CN": "词书文件",
+    "en": "Dictionary file"
+  },
+  "词书来源": {
+    "zh-CN": "词书来源",
+    "en": "Source of dictionary"
+  },
+  "词典基础音标": {
+    "zh-CN": "词典基础音标",
+    "en": "Foundation phonetics of the dictionary"
+  },
+  "词典基础音标 · 学习参考": {
+    "zh-CN": "词典基础音标 · 学习参考",
+    "en": "Foundation phonetics of the dictionary · Learning reference"
+  },
+  "词库文件无效，原文件已保留。": {
+    "zh-CN": "词库文件无效，原文件已保留。",
+    "en": "Invalid vocabulary file, original file has been retained."
+  },
+  "词汇不存在。": {
+    "zh-CN": "词汇不存在。",
+    "en": "Vocabulary does not exist."
+  },
+  "词汇状态无效。": {
+    "zh-CN": "词汇状态无效。",
+    "en": "Invalid status of vocabulary."
+  },
+  "词汇联动参数无效。": {
+    "zh-CN": "词汇联动参数无效。",
+    "en": "Invalid linkage parameters of vocabulary."
+  },
+  "词汇资源": {
+    "zh-CN": "词汇资源",
+    "en": "Vocabulary resources"
+  },
+  "词语提示与简单说法": {
+    "zh-CN": "词语提示与简单说法",
+    "en": "Word prompts and simple expressions"
+  },
+  "试听所选音色": {
+    "zh-CN": "试听所选音色",
+    "en": "Listen to selected tone color"
+  },
+  "试听生成失败。": {
+    "zh-CN": "试听生成失败。",
+    "en": "Failed to listen generation."
+  },
+  "试听角色 {{0}}": {
+    "zh-CN": "试听角色 {{0}}",
+    "en": "Listen to Role {{0}}"
+  },
+  "试用示例文章": {
+    "zh-CN": "试用示例文章",
+    "en": "Example Article"
+  },
+  "话题": {
+    "zh-CN": "话题",
+    "en": "Topic"
+  },
+  "话题或场景": {
+    "zh-CN": "话题或场景",
+    "en": "Topic or Scenario"
+  },
+  "该卡片已在其他页面更新，请刷新后继续。": {
+    "zh-CN": "该卡片已在其他页面更新，请刷新后继续。",
+    "en": "This card has been updated on another page. Please refresh and continue."
+  },
+  "该提交编号已经用于其他版本。": {
+    "zh-CN": "该提交编号已经用于其他版本。",
+    "en": "The submission ID has already been used for another version."
+  },
+  "该提交编号已经用于其他版本，请重新提交。": {
+    "zh-CN": "该提交编号已经用于其他版本，请重新提交。",
+    "en": "The submission ID has already been used for another version. Please resubmit."
+  },
+  "该提交编号正在批改其他版本。": {
+    "zh-CN": "该提交编号正在批改其他版本。",
+    "en": "The submission ID is currently being reviewed for another version."
+  },
+  "语法建议": {
+    "zh-CN": "语法建议",
+    "en": "Grammar Suggestions"
+  },
+  "语法范围与准确性": {
+    "zh-CN": "语法范围与准确性",
+    "en": "Grammar Scope and Accuracy"
+  },
+  "语言模型": {
+    "zh-CN": "语言模型",
+    "en": "Language Model"
+  },
+  "语音合成": {
+    "zh-CN": "语音合成",
+    "en": "Speech Synthesis"
+  },
+  "语音后台尚未连接，提交时会尝试启动。": {
+    "zh-CN": "语音后台尚未连接，提交时会尝试启动。",
+    "en": "Background speech is not connected, will try to start when submitting."
+  },
+  "语音服务返回无效 WAV。": {
+    "zh-CN": "语音服务返回无效 WAV。",
+    "en": "The voice service returned invalid WAV."
+  },
+  "语音识别": {
+    "zh-CN": "语音识别",
+    "en": "Speech Recognition"
+  },
+  "语音识别 · 音素检查 · 语法与表达建议 · 对话历史": {
+    "zh-CN": "语音识别 · 音素检查 · 语法与表达建议 · 对话历史",
+    "en": "Speech Recognition · Phoneme Check · Grammar and Expression Suggestions · Conversation History"
+  },
+  "语音识别失败，请重试或直接输入英文。": {
+    "zh-CN": "语音识别失败，请重试或直接输入英文。",
+    "en": "Speech recognition failed, please retry or directly input English."
+  },
+  "语音识别暂不可用，可以先输入英文回答。": {
+    "zh-CN": "语音识别暂不可用，可以先输入英文回答。",
+    "en": "Speech recognition is currently unavailable, you can first input English for answers."
+  },
+  "语音识别暂不可用，可以直接输入英文交流。": {
+    "zh-CN": "语音识别暂不可用，可以直接输入英文交流。",
+    "en": "Speech recognition is currently unavailable, you can directly input English for communication."
+  },
+  "语音识别结果无效。": {
+    "zh-CN": "语音识别结果无效。",
+    "en": "Invalid speech recognition result."
+  },
+  "语音识别：": {
+    "zh-CN": "语音识别：",
+    "en": "Speech Recognition:"
+  },
+  "说": {
+    "zh-CN": "说",
+    "en": "Say"
+  },
+  "说 · 英语学习空间": {
+    "zh-CN": "说 · 英语学习空间",
+    "en": "Say · English Learning Space"
+  },
+  "说明想学的知识、理论或故事 ·": {
+    "zh-CN": "说明想学的知识、理论或故事 ·",
+    "en": "Tell me what you want to learn, such as knowledge, theories, or stories."
+  },
+  "请从 应用页面提交。": {
+    "zh-CN": "请从 应用页面提交。",
+    "en": "Submit from the application page."
+  },
+  "请从写作页面提交。": {
+    "zh-CN": "请从写作页面提交。",
+    "en": "Submit from the writing page."
+  },
+  "请从听力页面提交。": {
+    "zh-CN": "请从听力页面提交。",
+    "en": "Submit from the listening page."
+  },
+  "请从学习应用提交。": {
+    "zh-CN": "请从学习应用提交。",
+    "en": "Submit from the learning application within the app."
+  },
+  "请从学习空间提交。": {
+    "zh-CN": "请从学习空间提交。",
+    "en": "Submit from the learning space within the app."
+  },
+  "请从实验页面提交。": {
+    "zh-CN": "请从实验页面提交。",
+    "en": "Submit from the experiment page."
+  },
+  "请从应用内保存。": {
+    "zh-CN": "请从应用内保存。",
+    "en": "Save from within the app."
+  },
+  "请从本机学习应用连接。": {
+    "zh-CN": "请从本机学习应用连接。",
+    "en": "Connect from the native learning application on your device."
+  },
+  "请从本机学习页面提交。": {
+    "zh-CN": "请从本机学习页面提交。",
+    "en": "Submit from the native learning page on your device."
+  },
+  "请从设置页保存。": {
+    "zh-CN": "请从设置页保存。",
+    "en": "Save from the settings page."
+  },
+  "请从阅读页面提交。": {
+    "zh-CN": "请从阅读页面提交。",
+    "en": "Submit from the reading page."
+  },
+  "请使用下方播放器播放。": {
+    "zh-CN": "请使用下方播放器播放。",
+    "en": "Play using the player below."
+  },
+  "请先写至少 5 个英文词再提交批改。": {
+    "zh-CN": "请先写至少 5 个英文词再提交批改。",
+    "en": "Please submit for correction after writing at least 5 words."
+  },
+  "请先填写写作内容。": {
+    "zh-CN": "请先填写写作内容。",
+    "en": "Please fill in the writing content first."
+  },
+  "请先完成全部 6 道题目。": {
+    "zh-CN": "请先完成全部 6 道题目。",
+    "en": "Please complete all 6 questions first."
+  },
+  "请先完成听力答题，再开始听后交流。": {
+    "zh-CN": "请先完成听力答题，再开始听后交流。",
+    "en": "Please complete the listening question before starting the post-listening discussion."
+  },
+  "请先完成这一段的评分。": {
+    "zh-CN": "请先完成这一段的评分。",
+    "en": "Please complete this segment's scoring first."
+  },
+  "请先完成这一轮回答。": {
+    "zh-CN": "请先完成这一轮回答。",
+    "en": "Please complete your response for this round first."
+  },
+  "请先录制单词发音。": {
+    "zh-CN": "请先录制单词发音。",
+    "en": "Please record the pronunciation of the word first."
+  },
+  "请先录音或提交本轮回答，再继续下一轮。": {
+    "zh-CN": "请先录音或提交本轮回答，再继续下一轮。",
+    "en": "Please finish the current round's recording or submission before continuing to the next round."
+  },
+  "请先进入 应用本地模式。": {
+    "zh-CN": "请先进入 应用本地模式。",
+    "en": "Please enter Application Local Mode first."
+  },
+  "请先进入学习空间。": {
+    "zh-CN": "请先进入学习空间。",
+    "en": "Please enter the Learning Space first."
+  },
+  "请先选择用户。": {
+    "zh-CN": "请先选择用户。",
+    "en": "Please select a user first."
+  },
+  "请在本机浏览器的本地用户设置中修改。": {
+    "zh-CN": "请在本机浏览器的本地用户设置中修改。",
+    "en": "Modify in the local user settings of your browser on this device."
+  },
+  "请填写 160 字符以内的话题并选择写作类型。": {
+    "zh-CN": "请填写 160 字符以内的话题并选择写作类型。",
+    "en": "Please fill in a topic (less than 160 characters) and choose the writing type."
+  },
+  "请填写不超过 2000 字符的回答。": {
+    "zh-CN": "请填写不超过 2000 字符的回答。",
+    "en": "Please fill in a response (no more than 2000 characters)."
+  },
+  "请填写有效话题。": {
+    "zh-CN": "请填写有效话题。",
+    "en": "Please fill in a valid topic."
+  },
+  "请填写话题，并选择长度。": {
+    "zh-CN": "请填写话题，并选择长度。",
+    "en": "Please fill in a topic and choose its length."
+  },
+  "请填写话题，并选择难度、长度和听力形式。": {
+    "zh-CN": "请填写话题，并选择难度、长度和听力形式。",
+    "en": "Please fill in a topic and choose difficulty, length, and listening form."
+  },
+  "请完成全部 6 道题再提交。": {
+    "zh-CN": "请完成全部 6 道题再提交。",
+    "en": "Submit after completing all 6 questions."
+  },
+  "请完成全部题目后提交。": {
+    "zh-CN": "请完成全部题目后提交。",
+    "en": "Submit after completing all questions."
+  },
+  "请完整读出这句回答": {
+    "zh-CN": "请完整读出这句回答",
+    "en": "Please read out the entire sentence response aloud."
+  },
+  "请提供不超过 25 MB 的语音录音。": {
+    "zh-CN": "请提供不超过 25 MB 的语音录音。",
+    "en": "Provide a voice recording no larger than 25 MB."
+  },
+  "请求内容过长。": {
+    "zh-CN": "请求内容过长。",
+    "en": "Request content is too long."
+  },
+  "请求失败。": {
+    "zh-CN": "请求失败。",
+    "en": "Request failed."
+  },
+  "请求失败，请重试。": {
+    "zh-CN": "请求失败，请重试。",
+    "en": "Request failed, please try again."
+  },
+  "请求无效。": {
+    "zh-CN": "请求无效。",
+    "en": "Invalid request."
+  },
+  "请求格式无效。": {
+    "zh-CN": "请求格式无效。",
+    "en": "Invalid request format."
+  },
+  "请求过长。": {
+    "zh-CN": "请求过长。",
+    "en": "Request too long."
+  },
+  "请点击下方播放器回听。": {
+    "zh-CN": "请点击下方播放器回听。",
+    "en": "Click the player below to listen back."
+  },
+  "请点击播放器播放。": {
+    "zh-CN": "请点击播放器播放。",
+    "en": "Click the player to play."
+  },
+  "请结合四项反馈比较变化。": {
+    "zh-CN": "请结合四项反馈比较变化。",
+    "en": "Compare changes by combining four feedbacks."
+  },
+  "请输入 1–6000 字符的朗读文本及有效音色。": {
+    "zh-CN": "请输入 1–6000 字符的朗读文本及有效音色。",
+    "en": "Enter a reading text of 1-6000 characters and a valid voice type."
+  },
+  "请输入一段英文句子。": {
+    "zh-CN": "请输入一段英文句子。",
+    "en": "Enter an English sentence."
+  },
+  "请输入不超过 {{0}} 个字符的英文文章。": {
+    "zh-CN": "请输入不超过 {{0}} 个字符的英文文章。",
+    "en": "Enter an English article with no more than {{0}} characters."
+  },
+  "请输入英文单词或短语。": {
+    "zh-CN": "请输入英文单词或短语。",
+    "en": "Enter an English word or phrase."
+  },
+  "请输入词书名称，并导入 1–10000 个词。": {
+    "zh-CN": "请输入词书名称，并导入 1–10000 个词。",
+    "en": "Enter the name of your vocabulary book and import up to 10,000 words."
+  },
+  "请选择 1、2 或 3 级文章难度。": {
+    "zh-CN": "请选择 1、2 或 3 级文章难度。",
+    "en": "Select the difficulty level of articles from 1, 2, or 3."
+  },
+  "请选择 Targeted 或 Freedom 模式。": {
+    "zh-CN": "请选择 Targeted 或 Freedom 模式。",
+    "en": "Select Targeted or Freedom mode."
+  },
+  "请选择 WAV、WebM、MP3 等音频文件。": {
+    "zh-CN": "请选择 WAV、WebM、MP3 等音频文件。",
+    "en": "Select WAV, WebM, MP3, etc., audio files."
+  },
+  "请选择不超过 25 MB 的录音文件。": {
+    "zh-CN": "请选择不超过 25 MB 的录音文件。",
+    "en": "Select an audio file that does not exceed 25 MB."
+  },
+  "请选择不超过 25 MB 的音频文件。": {
+    "zh-CN": "请选择不超过 25 MB 的音频文件。",
+    "en": "Select an audio file that does not exceed 25 MB."
+  },
+  "请选择不超过 512 MB 的词书文件。": {
+    "zh-CN": "请选择不超过 512 MB 的词书文件。",
+    "en": "Select a vocabulary book file that does not exceed 512 MB."
+  },
+  "请选择中文或英文。": {
+    "zh-CN": "请选择中文或英文。",
+    "en": "Select either Chinese or English."
+  },
+  "请选择单词。": {
+    "zh-CN": "请选择单词。",
+    "en": "Select a word."
+  },
+  "请选择对应写作记录。": {
+    "zh-CN": "请选择对应写作记录。",
+    "en": "Select corresponding writing records."
+  },
+  "请选择对应学习材料。": {
+    "zh-CN": "请选择对应学习材料。",
+    "en": "Select corresponding study materials."
+  },
+  "请选择对话实验记录。": {
+    "zh-CN": "请选择对话实验记录。",
+    "en": "Select dialogue experiment records."
+  },
+  "请选择已安装的音色。": {
+    "zh-CN": "请选择已安装的音色。",
+    "en": "Please select the installed sounds."
+  },
+  "请选择当前内容中实际出现的英文词汇。": {
+    "zh-CN": "请选择当前内容中实际出现的英文词汇。",
+    "en": "Please select the actual English words appearing in the current content."
+  },
+  "请选择当前文章中的词汇。": {
+    "zh-CN": "请选择当前文章中的词汇。",
+    "en": "Please select the words in the current article."
+  },
+  "请选择文章朗读记录。": {
+    "zh-CN": "请选择文章朗读记录。",
+    "en": "Please select the reading record of the article."
+  },
+  "请选择是否带入生词本。": {
+    "zh-CN": "请选择是否带入生词本。",
+    "en": "Please select whether to bring words into the vocabulary notebook."
+  },
+  "请选择是否带入生词本词汇。": {
+    "zh-CN": "请选择是否带入生词本词汇。",
+    "en": "Please select whether to bring vocabulary from the vocabulary notebook."
+  },
+  "请选择本地词书。": {
+    "zh-CN": "请选择本地词书。",
+    "en": "Please select the local dictionary."
+  },
+  "请选择自由写作或雅思 Task 2。": {
+    "zh-CN": "请选择自由写作或雅思 Task 2。",
+    "en": "Please select either free writing or IELTS Task 2."
+  },
+  "请选择英文单词或短语。": {
+    "zh-CN": "请选择英文单词或短语。",
+    "en": "Please select the English word or phrase."
+  },
+  "请选择要练习的单词。": {
+    "zh-CN": "请选择要练习的单词。",
+    "en": "Please select the word to practice."
+  },
+  "请选择角色 {{0}} 的已安装音色，或跟随全局音色。": {
+    "zh-CN": "请选择角色 {{0}} 的已安装音色，或跟随全局音色。",
+    "en": "Please select the installed sound for role {{0}}, or follow the global sound."
+  },
+  "读": {
+    "zh-CN": "读",
+    "en": "Read"
+  },
+  "读一句话，看看哪些音需要再练。": {
+    "zh-CN": "读一句话，看看哪些音需要再练。",
+    "en": "Read a sentence and see which sounds need more practice."
+  },
+  "读一篇文章，逐段练习发音。在原文中查看红绿单词，找到需要重练的地方。": {
+    "zh-CN": "读一篇文章，逐段练习发音。在原文中查看红绿单词，找到需要重练的地方。",
+    "en": "Read an article and practice pronunciation segment by segment. Look at the red and green words in the original text to find areas that need extra practice."
+  },
+  "读取全局模型设置中…": {
+    "zh-CN": "读取全局模型设置中…",
+    "en": "Reading global model settings..."
+  },
+  "读取学习记录失败，已有记录已保留。": {
+    "zh-CN": "读取学习记录失败，已有记录已保留。",
+    "en": "Failed to read study records. Existing records have been retained."
+  },
+  "读取录音": {
+    "zh-CN": "读取录音",
+    "en": "Reading recording..."
+  },
+  "读取文章失败。": {
+    "zh-CN": "读取文章失败。",
+    "en": "Failed to read article."
+  },
+  "读取模型设置中…": {
+    "zh-CN": "读取模型设置中…",
+    "en": "Failed to read model settings."
+  },
+  "读取阅读数据失败，请重试。": {
+    "zh-CN": "读取阅读数据失败，请重试。",
+    "en": "Failed to read reading data. Please try again."
+  },
+  "读感兴趣的内容，练理解与表达。": {
+    "zh-CN": "读感兴趣的内容，练理解与表达。",
+    "en": "Read what interests you to improve comprehension and expression."
+  },
+  "调试参数格式无效。": {
+    "zh-CN": "调试参数格式无效。",
+    "en": "Invalid parameter format for debugging."
+  },
+  "调试参数版本或开关无效。": {
+    "zh-CN": "调试参数版本或开关无效。",
+    "en": "Invalid version or switch for debugging parameters."
+  },
+  "跟随全局音色": {
+    "zh-CN": "跟随全局音色",
+    "en": "Follow the global voice setting."
+  },
+  "轮 · AI ·": {
+    "zh-CN": "轮 · AI ·",
+    "en": "Section · AI ·"
+  },
+  "轮回答 · 恢复对话 →": {
+    "zh-CN": "轮回答 · 恢复对话 →",
+    "en": "Next round of replies · Resume conversation →"
+  },
+  "轻微疑点": {
+    "zh-CN": "轻微疑点",
+    "en": "Slight Suspicion"
+  },
+  "辅助练习（提交前已看原文）": {
+    "zh-CN": "辅助练习（提交前已看原文）",
+    "en": "Auxiliary Practice (read the original text before submission)"
+  },
+  "辅助练习：提交前已查看原文。": {
+    "zh-CN": "辅助练习：提交前已查看原文。",
+    "en": "Auxiliary Practice: Read the original text before submission."
+  },
+  "辅导服务暂不可用，请确认本地 Coach 服务已启动后重试。": {
+    "zh-CN": "辅导服务暂不可用，请确认本地 Coach 服务已启动后重试。",
+    "en": "On-demand tutoring services are currently unavailable. Please confirm that your local Coach service has been started and retry."
+  },
+  "输入回答 / 核对识别文字": {
+    "zh-CN": "输入回答 / 核对识别文字",
+    "en": "Input answer / Verify recognized text"
+  },
+  "返回原文": {
+    "zh-CN": "返回原文",
+    "en": "Return to original text"
+  },
+  "返回学习材料": {
+    "zh-CN": "返回学习材料",
+    "en": "Return to study materials"
+  },
+  "返回设置": {
+    "zh-CN": "返回设置",
+    "en": "Return to settings"
+  },
+  "还没有口语练习记录。完成一次对话或发音检查后，结果会出现在这里。": {
+    "zh-CN": "还没有口语练习记录。完成一次对话或发音检查后，结果会出现在这里。",
+    "en": "No spoken practice records yet. Results will appear here after completing one dialogue or pronunciation check."
+  },
+  "还没有收藏的词汇。在文章中选取一个单词试试。": {
+    "zh-CN": "还没有收藏的词汇。在文章中选取一个单词试试。",
+    "en": "No collected words. Try selecting a word in the article."
+  },
+  "这一段已在其他页面更新，请重新打开文章后继续。": {
+    "zh-CN": "这一段已在其他页面更新，请重新打开文章后继续。",
+    "en": "This paragraph has been updated on another page. Please reopen the article to continue."
+  },
+  "这一段的练习记录（最近 10 次）": {
+    "zh-CN": "这一段的练习记录（最近 10 次）",
+    "en": "Practice records for this paragraph (last 10 times)"
+  },
+  "这一段还没有录音评分。": {
+    "zh-CN": "这一段还没有录音评分。",
+    "en": "There are no recordings or scores for this paragraph yet."
+  },
+  "这个词已存在，可编辑已有单词。": {
+    "zh-CN": "这个词已存在，可编辑已有单词。",
+    "en": "This word already exists; you can edit an existing word."
+  },
+  "这张卡还未到复习时间，或今日新词额度已用完。": {
+    "zh-CN": "这张卡还未到复习时间，或今日新词额度已用完。",
+    "en": "This flashcard hasn't reached its review time, or your daily new word limit has been used up."
+  },
+  "这是旧规则生成的历史结果，可能存在单词归属偏差；重新录音可使用改进后的检查。": {
+    "zh-CN": "这是旧规则生成的历史结果，可能存在单词归属偏差；重新录音可使用改进后的检查。",
+    "en": "These results were generated using old rules and may have incorrect word assignments; re-recording allows for improved checking."
+  },
+  "这是本次练习正确率，不换算为雅思成绩。题目和解析由 AI 生成。": {
+    "zh-CN": "这是本次练习正确率，不换算为雅思成绩。题目和解析由 AI 生成。",
+    "en": "This is the accuracy rate for this practice session, not converted into an IELTS score. Questions and explanations are generated by AI."
+  },
+  "这条回答已保存，请刷新对话后发送新的回答。": {
+    "zh-CN": "这条回答已保存，请刷新对话后发送新的回答。",
+    "en": "Your answer has been saved. Refresh the conversation to send a new answer."
+  },
+  "这条旧实验记录没有示范回答，请继续到下一轮或开启新对话后使用 Targeted。": {
+    "zh-CN": "这条旧实验记录没有示范回答，请继续到下一轮或开启新对话后使用 Targeted。",
+    "en": "The old experiment record does not have a demonstration answer. Continue to the next round or use Targeted after starting a new conversation."
+  },
+  "这次优先改进": {
+    "zh-CN": "这次优先改进",
+    "en": "This time prioritize improvement"
+  },
+  "这次复习已保存，请刷新后继续。": {
+    "zh-CN": "这次复习已保存，请刷新后继续。",
+    "en": "This review has been saved. Refresh to continue."
+  },
+  "这段实验已在其他页面更新，请重新打开记录后继续。": {
+    "zh-CN": "这段实验已在其他页面更新，请重新打开记录后继续。",
+    "en": "This experiment has been updated on another page. Please restart the record and continue."
+  },
+  "这段对话已更新，请重新打开后继续。": {
+    "zh-CN": "这段对话已更新，请重新打开后继续。",
+    "en": "This conversation has been updated. Please restart and continue."
+  },
+  "这里保存学习时难记的词，以及从听、读和口语练习中收藏的生词。选择「忘记」或「困难」会自动收纳；数据保存在本机 SQLite 数据库，关闭网页后仍保留。": {
+    "zh-CN": "这里保存学习时难记的词，以及从听、读和口语练习中收藏的生词。选择「忘记」或「困难」会自动收纳；数据保存在本机 SQLite 数据库，关闭网页后仍保留。",
+    "en": "Here you can save words that are hard to remember during study, as well as words collected from listening, reading, and speaking exercises. Selecting 'Forget' or 'Difficult' automatically saves them; data is stored in your local SQLite database, which remains even after closing the webpage."
+  },
+  "这里还没有学习记录。完成一次练习后再来看看。": {
+    "zh-CN": "这里还没有学习记录。完成一次练习后再来看看。",
+    "en": "There are currently no study records. Come back later after completing one practice session."
+  },
+  "进入学习": {
+    "zh-CN": "进入学习",
+    "en": "Enter Learning"
+  },
+  "进阶表达：": {
+    "zh-CN": "进阶表达：",
+    "en": "Advanced Expressions:"
+  },
+  "连贯与衔接": {
+    "zh-CN": "连贯与衔接",
+    "en": "Coherence and Transition"
+  },
+  "适合日记、摘要、观点表达。自由写作提供反馈，不换算雅思分数。": {
+    "zh-CN": "适合日记、摘要、观点表达。自由写作提供反馈，不换算雅思分数。",
+    "en": "Suitable for diary entries, summaries, and expression of viewpoints. Free writing provides feedback without converting to IELTS scores."
+  },
+  "适用于双人对话、日常场景对话和访谈。通常使用 A、B；材料出现第三位说话者时使用 C。科普、单人 Podcast 及听后交流仍使用全局音色。": {
+    "zh-CN": "适用于双人对话、日常场景对话和访谈。通常使用 A、B；材料出现第三位说话者时使用 C。科普、单人 Podcast 及听后交流仍使用全局音色。",
+    "en": "Designed for two-person dialogues, everyday scenario dialogues, and interviews. Typically uses A and B; when materials include a third speaker, use C. Science communication, solo podcasts, and post-listening discussions still use the global voice color."
+  },
+  "选取对话中的单词或短语，可以加入统一生词库。": {
+    "zh-CN": "选取对话中的单词或短语，可以加入统一生词库。",
+    "en": "Select a word or phrase from the dialogue to add it to the unified vocabulary list."
+  },
+  "选择一个交流话题": {
+    "zh-CN": "选择一个交流话题",
+    "en": "Choose a conversation topic"
+  },
+  "选择一段开始录音；点击单词查看音素和示范。未评分单词保留普通文字样式。": {
+    "zh-CN": "选择一段开始录音；点击单词查看音素和示范。未评分单词保留普通文字样式。",
+    "en": "Start recording by selecting a segment; click on a word to view its phonetics and demonstration. Unrated words retain their regular text style."
+  },
+  "选择一篇想读的文章": {
+    "zh-CN": "选择一篇想读的文章",
+    "en": "Choose an article you want to read"
+  },
+  "选择今天的练习，让听、说、读、写和单词积累彼此连接。": {
+    "zh-CN": "选择今天的练习，让听、说、读、写和单词积累彼此连接。",
+    "en": "Choose today's practice to connect listening, speaking, reading, writing, and word accumulation."
+  },
+  "选择词书": {
+    "zh-CN": "选择词书",
+    "en": "Choose the dictionary"
+  },
+  "选择话题": {
+    "zh-CN": "选择话题",
+    "en": "Choose the topic"
+  },
+  "选择话题即可开始，练习会自动保存。": {
+    "zh-CN": "选择话题即可开始，练习会自动保存。",
+    "en": "Choose the topic to start; practice will automatically save."
+  },
+  "选择音色": {
+    "zh-CN": "选择音色",
+    "en": "Choose the voice"
+  },
+  "选择题": {
+    "zh-CN": "选择题",
+    "en": "Choose the question"
+  },
+  "选词后加入生词库": {
+    "zh-CN": "选词后加入生词库",
+    "en": "Select words to add to the vocabulary list"
+  },
+  "选词收藏会保留原文语境。开启词汇带入后，新文章优先使用最近收藏的待巩固词；已掌握的词不再自动带入。单词卡与 Anki 导入稍后接入。": {
+    "zh-CN": "选词收藏会保留原文语境。开启词汇带入后，新文章优先使用最近收藏的待巩固词；已掌握的词不再自动带入。单词卡与 Anki 导入稍后接入。",
+    "en": "Selected words saved will retain the original context. With vocabulary import enabled, new articles preferentially use recently collected words for reinforcement; mastered words are no longer automatically imported. Vocabulary cards and Anki import will be later integrated."
+  },
+  "逐句批改、雅思四项参考评分、修改后复评与写作历史。": {
+    "zh-CN": "逐句批改、雅思四项参考评分、修改后复评与写作历史。",
+    "en": "Sentence-by-sentence proofreading, IELTS four skills reference scores, re-evaluation after modification, and writing history."
+  },
+  "部分评分完成": {
+    "zh-CN": "部分评分完成",
+    "en": "Some scoring completed"
+  },
+  "配对": {
+    "zh-CN": "配对",
+    "en": "Pairing"
+  },
+  "配置模型 →": {
+    "zh-CN": "配置模型 →",
+    "en": "Configure Model →"
+  },
+  "采用全部未忽略纠错": {
+    "zh-CN": "采用全部未忽略纠错",
+    "en": "Use Full Unignored Correction"
+  },
+  "采用时间定位与边界容错；单次录音不超过30秒，目标不超过70词。匹配率与置信度参数可在时间配对调试台调整。": {
+    "zh-CN": "采用时间定位与边界容错；单次录音不超过30秒，目标不超过70词。匹配率与置信度参数可在时间配对调试台调整。",
+    "en": "Use Time-Based Localization and Boundary Tolerance; each recording should not exceed 30 seconds and the target phrase should not exceed 70 words. Matching rates and confidence parameters can be adjusted in the time pairing calibration tool."
+  },
+  "释义": {
+    "zh-CN": "释义",
+    "en": "Explanation"
+  },
+  "释义字段": {
+    "zh-CN": "释义字段",
+    "en": "Explanation Field"
+  },
+  "释义或例句过长，或包含无效字符。": {
+    "zh-CN": "释义或例句过长，或包含无效字符。",
+    "en": "Explanations or examples are too long or contain invalid characters."
+  },
+  "释义生成失败。": {
+    "zh-CN": "释义生成失败。",
+    "en": "Failed to generate explanation."
+  },
+  "释义选填，可稍后补全": {
+    "zh-CN": "释义选填，可稍后补全",
+    "en": "Explanation optional, can be filled later."
+  },
+  "释义（未填时先不进入复习）": {
+    "zh-CN": "释义（未填时先不进入复习）",
+    "en": "Explanation (will not enter review if left blank)"
+  },
+  "重新同步记录": {
+    "zh-CN": "重新同步记录",
+    "en": "Re-synchronize records"
+  },
+  "重新巩固": {
+    "zh-CN": "重新巩固",
+    "en": "Re-strengthen"
+  },
+  "重新录音": {
+    "zh-CN": "重新录音",
+    "en": "Redo Recording"
+  },
+  "重新打开当前记录": {
+    "zh-CN": "重新打开当前记录",
+    "en": "reopen current record"
+  },
+  "重新生成建议": {
+    "zh-CN": "重新生成建议",
+    "en": "regenerate suggestions"
+  },
+  "重新读取音色": {
+    "zh-CN": "重新读取音色",
+    "en": "re-read the sound color"
+  },
+  "重点复核": {
+    "zh-CN": "重点复核",
+    "en": "focus review"
+  },
+  "重点词汇": {
+    "zh-CN": "重点词汇",
+    "en": "key words of focus"
+  },
+  "重置": {
+    "zh-CN": "重置",
+    "en": "reset"
+  },
+  "重试保存本次选择": {
+    "zh-CN": "重试保存本次选择",
+    "en": "retry save this selection again"
+  },
+  "重试发音评分": {
+    "zh-CN": "重试发音评分",
+    "en": "retry pronunciation scoring"
+  },
+  "重试同步记录": {
+    "zh-CN": "重试同步记录",
+    "en": "retry synchronization of records"
+  },
+  "重试音频": {
+    "zh-CN": "重试音频",
+    "en": "retry audio"
+  },
+  "针对性练习": {
+    "zh-CN": "针对性练习",
+    "en": "targeted practice"
+  },
+  "键盘：空格翻面，1–4 自评。FSRS 间隔复习 · 每日新词额度在所有词书间共用。": {
+    "zh-CN": "键盘：空格翻面，1–4 自评。FSRS 间隔复习 · 每日新词额度在所有词书间共用。",
+    "en": "Keyboard: space to flip, 1-4 for self-assessment. FSRS spaced repetition · daily new word quota shared across all vocab books."
+  },
+  "长篇 · 约 480–620 词": {
+    "zh-CN": "长篇 · 约 480–620 词",
+    "en": "Novel · Approximately 480–620 words"
+  },
+  "长难句拆解": {
+    "zh-CN": "长难句拆解",
+    "en": "Sentence Breakdown"
+  },
+  "间隔复习": {
+    "zh-CN": "间隔复习",
+    "en": "Scheduled Review"
+  },
+  "阅读历史 ·": {
+    "zh-CN": "阅读历史 ·",
+    "en": "Reading History ·"
+  },
+  "阅读学习": {
+    "zh-CN": "阅读学习",
+    "en": "Reading Learning"
+  },
+  "阅读材料不存在，请重新选择。": {
+    "zh-CN": "阅读材料不存在，请重新选择。",
+    "en": "Selected reading material does not exist, please try again."
+  },
+  "阅读材料列表暂不可用，仍可直接粘贴文章。": {
+    "zh-CN": "阅读材料列表暂不可用，仍可直接粘贴文章。",
+    "en": "No available list of reading materials, you can still paste the article directly."
+  },
+  "阅读生成失败，请检查模型设置后重试。": {
+    "zh-CN": "阅读生成失败，请检查模型设置后重试。",
+    "en": "Failed to generate reading, please retry after checking your model settings."
+  },
+  "阅读生成或保存失败，请确认模型服务已启动后重试。已有阅读记录已保留。": {
+    "zh-CN": "阅读生成或保存失败，请确认模型服务已启动后重试。已有阅读记录已保留。",
+    "en": "Failed to generate or save reading, please confirm that the model service has started before retrying. Existing reading records have been retained."
+  },
+  "阅读生词本": {
+    "zh-CN": "阅读生词本",
+    "en": "Vocabulary Notebook for Reading"
+  },
+  "阅读答题": {
+    "zh-CN": "阅读答题",
+    "en": "Reading Quiz"
+  },
+  "阅读练习": {
+    "zh-CN": "阅读练习",
+    "en": "Reading Practice"
+  },
+  "阅读记录不存在。": {
+    "zh-CN": "阅读记录不存在。",
+    "en": "Reading records do not exist."
+  },
+  "阈值必须是 0–100 的整数。": {
+    "zh-CN": "阈值必须是 0–100 的整数。",
+    "en": "The threshold must be an integer between 0-100."
+  },
+  "难记？加入生词库": {
+    "zh-CN": "难记？加入生词库",
+    "en": "Difficult to remember? Add to the word list."
+  },
+  "雅思 7 / 8.5 是训练目标，所用词表来自公开学习资料，不代表官方分数词表，也不以记住某本词书保证考试分数。": {
+    "zh-CN": "雅思 7 / 8.5 是训练目标，所用词表来自公开学习资料，不代表官方分数词表，也不以记住某本词书保证考试分数。",
+    "en": "IELTS 7/8.5 is the training target, the vocabulary used comes from public study materials, does not represent the official score word list, nor does it guarantee a test score by memorizing a certain book of words."
+  },
+  "雅思 Academic Task 2": {
+    "zh-CN": "雅思 Academic Task 2",
+    "en": "IELTS Academic Task 2"
+  },
+  "需核对 / 可能弱读": {
+    "zh-CN": "需核对 / 可能弱读",
+    "en": "Needs verification / May have weak pronunciation."
+  },
+  "需要重练": {
+    "zh-CN": "需要重练",
+    "en": "Needs re-practice."
+  },
+  "需要非空 PCM 音频。": {
+    "zh-CN": "需要非空 PCM 音频。",
+    "en": "Requires non-empty PCM audio."
+  },
+  "音标": {
+    "zh-CN": "音标",
+    "en": "Pronunciation"
+  },
+  "音标字段": {
+    "zh-CN": "音标字段",
+    "en": "Pronunciation field"
+  },
+  "音标（选填）": {
+    "zh-CN": "音标（选填）",
+    "en": "Pronunciation (optional)"
+  },
+  "音素一致性参考：": {
+    "zh-CN": "音素一致性参考：",
+    "en": "Reference for phoneme consistency:"
+  },
+  "音素匹配": {
+    "zh-CN": "音素匹配",
+    "en": "Phoneme Matching"
+  },
+  "音素匹配率": {
+    "zh-CN": "音素匹配率",
+    "en": "Phoneme Matching Rate"
+  },
+  "音素匹配率未达到 {{0}}% 门槛。": {
+    "zh-CN": "音素匹配率未达到 {{0}}% 门槛。",
+    "en": "Phoneme matching rate has not reached the {{0}}% threshold."
+  },
+  "音素匹配率达到 {{0}}% 门槛。": {
+    "zh-CN": "音素匹配率达到 {{0}}% 门槛。",
+    "en": "Phoneme matching rate has reached the {{0}}% threshold."
+  },
+  "音素对照 · 疑点程度是模型内部信号，不是准确率": {
+    "zh-CN": "音素对照 · 疑点程度是模型内部信号，不是准确率",
+    "en": "Phoneme Alignment · The degree of doubt is an internal signal from the model, not an accuracy rate"
+  },
+  "音素识别置信度": {
+    "zh-CN": "音素识别置信度",
+    "en": "Phoneme Recognition Confidence"
+  },
+  "音素配对": {
+    "zh-CN": "音素配对",
+    "en": "Phoneme Pairing"
+  },
+  "音色": {
+    "zh-CN": "音色",
+    "en": "Voice Tone"
+  },
+  "音色试听": {
+    "zh-CN": "音色试听",
+    "en": "Listen to Voice Tone"
+  },
+  "音频不完整。": {
+    "zh-CN": "音频不完整。",
+    "en": "Audio incomplete."
+  },
+  "音频准备失败。": {
+    "zh-CN": "音频准备失败。",
+    "en": "Audio preparation failed."
+  },
+  "音频加载失败。": {
+    "zh-CN": "音频加载失败。",
+    "en": "Audio loading failed."
+  },
+  "音频尚未就绪": {
+    "zh-CN": "音频尚未就绪",
+    "en": "Audio is not ready."
+  },
+  "音频已生成，请使用下方播放器播放。": {
+    "zh-CN": "音频已生成，请使用下方播放器播放。",
+    "en": "Audio has been generated. Please use the player below to play it."
+  },
+  "音频帧不完整。": {
+    "zh-CN": "音频帧不完整。",
+    "en": "Incomplete audio frame."
+  },
+  "音频生成失败。": {
+    "zh-CN": "音频生成失败。",
+    "en": "Audio generation failed."
+  },
+  "页": {
+    "zh-CN": "页",
+    "en": "Page"
+  },
+  "预览失败。": {
+    "zh-CN": "预览失败。",
+    "en": "Preview failed."
+  },
+  "预览文件": {
+    "zh-CN": "预览文件",
+    "en": "Preview file"
+  },
+  "题目生成失败。": {
+    "zh-CN": "题目生成失败。",
+    "en": "Question generation failed."
+  },
+  "额外音素": {
+    "zh-CN": "额外音素",
+    "en": "Additional phonemes"
+  },
+  "首页": {
+    "zh-CN": "首页",
+    "en": "Home"
+  },
+  "麦克风未就绪：": {
+    "zh-CN": "麦克风未就绪：",
+    "en": "Microphone not ready:"
+  },
+  "默认每天 20 个新词，先复习到期卡片。听力原文、听后交流、AI Coach 可选词收藏；阅读生词会同步到此处。今日学过、仍困难或忘记的词，以及历史待巩固生词，会作为听、读和口语练习生成时的参考，优先保证话题自然。提高目标记忆率通常会增加复习量。": {
+    "zh-CN": "默认每天 20 个新词，先复习到期卡片。听力原文、听后交流、AI Coach 可选词收藏；阅读生词会同步到此处。今日学过、仍困难或忘记的词，以及历史待巩固生词，会作为听、读和口语练习生成时的参考，优先保证话题自然。提高目标记忆率通常会增加复习量。",
+    "en": "Default: Learn 20 new words daily. Prioritize reviewing cards that are due today. Choose from listening transcript, post-listening discussion, AI Coach for word collection; reading will sync here. Use this reference for topics you've learned but still find difficult or forgotten, as well as historical words that need reinforcement. Ensure natural flow in speaking practice."
+  },
+  "默认自动识别新录音。仅在转写有误时修改实际读出的内容，漏读词不要补入。修改后重新评分。": {
+    "zh-CN": "默认自动识别新录音。仅在转写有误时修改实际读出的内容，漏读词不要补入。修改后重新评分。",
+    "en": "Default: Automatically transcribes new recordings. Only modify the actual spoken content if transcription is incorrect, do not add missed words. After modification, re-score."
+  },
+  "（计作不匹配）": {
+    "zh-CN": "（计作不匹配）",
+    "en": "(Counted as mismatch)"
+  },
+  "（计作匹配）": {
+    "zh-CN": "（计作匹配）",
+    "en": "(Counted as match)"
+  },
+  "）。本篇固定使用创建时的评分参数，确保各段一致。数字和标点保留显示，不单独评分。": {
+    "zh-CN": "）。本篇固定使用创建时的评分参数，确保各段一致。数字和标点保留显示，不单独评分。",
+    "en": "). The parameters used for scoring each segment remain consistent with those set at creation. Numbers and punctuation are displayed without separate scores."
+  },
+  "，可在单词模块复习。": {
+    "zh-CN": "，可在单词模块复习。",
+    "en": "Tap here to review words in the vocabulary module."
+  },
+  "，可在单词模块补全释义。": {
+    "zh-CN": "，可在单词模块补全释义。",
+    "en": "Tap here to complete definitions in the vocabulary module."
+  },
+  "，点击停止后自动提交评分。录音由你手动结束；离开词卡或关闭练习会释放麦克风。": {
+    "zh-CN": "，点击停止后自动提交评分。录音由你手动结束；离开词卡或关闭练习会释放麦克风。",
+    "en": "Tap to stop recording after which it will automatically submit your score."
+  },
+  "，识别": {
+    "zh-CN": "，识别",
+    "en": "Tap to recognize"
+  },
+  "界面语言设置": {
+    "zh-CN": "界面语言设置",
+    "en": "Interface language settings"
+  },
+  "界面语言": {
+    "zh-CN": "界面语言",
+    "en": "Interface Language"
+  },
+  "选择中文或英文界面。文章、录音转写、单词和你输入的内容保留原文。": {
+    "zh-CN": "选择中文或英文界面。文章、录音转写、单词和你输入的内容保留原文。",
+    "en": "Choose between Chinese or English interface. Articles, recordings, words, and what you type will retain their original text."
+  },
+  "保存界面语言": {
+    "zh-CN": "保存界面语言",
+    "en": "Save Interface Language"
+  },
+  "保存语言失败。": {
+    "zh-CN": "保存语言失败。",
+    "en": "Failed to save language."
+  },
+  "Email": {
+    "zh-CN": "Email",
+    "en": "Email"
+  },
+  "English": {
+    "zh-CN": "English",
+    "en": "English"
+  },
+  "English Learning account": {
+    "zh-CN": "English Learning Account",
+    "en": "English Learning account"
+  },
+  "Enter the email tied to your English Learning account and we&apos;ll send the reset link.": {
+    "zh-CN": "Enter the email associated with your English Learning account and we'll send the reset link.",
+    "en": "Enter the email tied to your English Learning account and we&apos;ll send the reset link."
+  },
+  "Forgot password?": {
+    "zh-CN": "Forgot password?",
+    "en": "Forgot password?"
+  },
+  "Freedom reply": {
+    "zh-CN": "Freedom Reply",
+    "en": "Freedom reply"
+  },
+  "Freedom transcript": {
+    "zh-CN": "Freedom Transcript",
+    "en": "Freedom transcript"
+  },
+  "Go to home": {
+    "zh-CN": "Go to Home",
+    "en": "Go to home"
+  },
+  "It prints a link. Open that link, and this page will show a QR code for your phone.": {
+    "zh-CN": "它打印了一个链接。打开这个链接，你的手机将会显示一个二维码。",
+    "en": "It prints a link. Open that link, and this page will show a QR code for your phone."
+  },
+  "LISTEN · UNDERSTAND · RESPOND": {
+    "zh-CN": "聽懂回應",
+    "en": "LISTEN · UNDERSTAND · RESPOND"
+  },
+  "Learner illustration": {
+    "zh-CN": "学习者插图",
+    "en": "Learner illustration"
+  },
+  "Learner using English Learning on the web": {
+    "zh-CN": "学习者正在使用英语学习网页版",
+    "en": "Learner using English Learning on the web"
+  },
+  "Loading recovery session...": {
+    "zh-CN": "加载恢复会话……",
+    "en": "Loading recovery session..."
+  },
+  "Log in, recover access, and return to the next speaking round without losing progress.": {
+    "zh-CN": "登录，恢复访问权限，回到下一个发言环节，而不会丢失进度。",
+    "en": "Log in, recover access, and return to the next speaking round without losing progress."
+  },
+  "Making a code…": {
+    "zh-CN": "生成代码……",
+    "en": "Making a code…"
+  },
+  "Need a fresh email link?": {
+    "zh-CN": "需要一个新的电子邮件链接吗？",
+    "en": "Need a fresh email link?"
+  },
+  "New password": {
+    "zh-CN": "新密码",
+    "en": "New password"
+  },
+  "Next cue": {
+    "zh-CN": "下一个提示",
+    "en": "Next cue"
+  },
+  "No phones are paired with this computer yet.": {
+    "zh-CN": "还没有任何设备与这台电脑配对。",
+    "en": "No phones are paired with this computer yet."
+  },
+  "One account for progress, streaks, and saved takes.": {
+    "zh-CN": "一个账户用于记录进度、连贯性和保存的录音。",
+    "en": "One account for progress, streaks, and saved takes."
+  },
+  "Open English Learning on your phone, choose": {
+    "zh-CN": "打开手机上的英语学习应用，选择",
+    "en": "Open English Learning on your phone, choose"
+  },
+  "Open the phoneme grid to compare expected sounds with the live decode.": {
+    "zh-CN": "打开音标网格以比较预期发音与实时解码。",
+    "en": "Open the phoneme grid to compare expected sounds with the live decode."
+  },
+  "Open this from the computer running English Learning.": {
+    "zh-CN": "从运行英语学习的应用程序的电脑上打开此功能。",
+    "en": "Open this from the computer running English Learning."
+  },
+  "Or type this code": {
+    "zh-CN": "或者输入这个代码",
+    "en": "Or type this code"
+  },
+  "Paired devices": {
+    "zh-CN": "音标分解",
+    "en": "Paired devices"
+  },
+  "Pairing": {
+    "zh-CN": "配对",
+    "en": "Pairing"
+  },
+  "Password": {
+    "zh-CN": "密码",
+    "en": "Password"
+  },
+  "Phoneme breakdown": {
+    "zh-CN": "音标分解",
+    "en": "Phoneme breakdown"
+  },
+  "Practice flow": {
+    "zh-CN": "练习流程",
+    "en": "Practice flow"
+  },
+  "Pronunciation check": {
+    "zh-CN": "发音检查",
+    "en": "Pronunciation check"
+  },
+  "Pronunciation reference score": {
+    "zh-CN": "发音参考得分",
+    "en": "Pronunciation reference score"
+  },
+  "Quick practice opens right away": {
+    "zh-CN": "快速练习立即开始",
+    "en": "Quick practice opens right away"
+  },
+  "READING": {
+    "zh-CN": "閱讀",
+    "en": "READING"
+  },
+  "Remembered your password?": {
+    "zh-CN": "你还记得你的密码吗？",
+    "en": "Remembered your password?"
+  },
+  "Repeat your password": {
+    "zh-CN": "请再次输入您的密码",
+    "en": "Repeat your password"
+  },
+  "Reply text": {
+    "zh-CN": "回复消息",
+    "en": "Reply text"
+  },
+  "Request another recovery email.": {
+    "zh-CN": "请求另一封恢复邮件",
+    "en": "Request another recovery email."
+  },
+  "Reset your password": {
+    "zh-CN": "重置您的密码",
+    "en": "Reset your password"
+  },
+  "Return to sign in.": {
+    "zh-CN": "返回登录页面",
+    "en": "Return to sign in."
+  },
+  "Return to your studio and pick up exactly where the last speaking round ended.": {
+    "zh-CN": "返回工作室，继续您上次演讲环节的地方",
+    "en": "Return to your studio and pick up exactly where the last speaking round ended."
+  },
+  "Review your path, restart modules, and jump back into practice.": {
+    "zh-CN": "回顾您的路径，重新开始模块并回到练习中",
+    "en": "Review your path, restart modules, and jump back into practice."
+  },
+  "SAY A SENTENCE · ENGLISH PRONUNCIATION LAB": {
+    "zh-CN": "說一個句子 · 英語發音實驗室",
+    "en": "SAY A SENTENCE · ENGLISH PRONUNCIATION LAB"
+  },
+  "SPEAKING": {
+    "zh-CN": "講話",
+    "en": "SPEAKING"
+  },
+  "Scan this with English Learning on your phone.": {
+    "zh-CN": "用您的手機掃描這個。",
+    "en": "Scan this with English Learning on your phone."
+  },
+  "See which parts of the reply need attention.": {
+    "zh-CN": "查看回复中需要关注的部分。",
+    "en": "See which parts of the reply need attention."
+  },
+  "Set a fresh password for your English Learning account and return to practice.": {
+    "zh-CN": "为您英语学习账户设置一个新密码并返回练习。",
+    "en": "Set a fresh password for your English Learning account and return to practice."
+  },
+  "Setup": {
+    "zh-CN": "Setup",
+    "en": "Setup"
+  },
+  "Short and long vowel control": {
+    "zh-CN": "短音和长音控制",
+    "en": "Short and long vowel control"
+  },
+  "Show a different code": {
+    "zh-CN": "显示一个不同的代码",
+    "en": "Show a different code"
+  },
+  "Show a new code": {
+    "zh-CN": "显示一个新的代码",
+    "en": "Show a new code"
+  },
+  "Sign in on the web to manage your plan, return to saved practice, and keep every coaching round connected to the same learner profile.": {
+    "zh-CN": "通过网页登录管理您的计划，返回已保存的练习，并确保每次教练辅导都与同一学员档案相关联。",
+    "en": "Sign in on the web to manage your plan, return to saved practice, and keep every coaching round connected to the same learner profile."
+  },
+  "Target reply": {
+    "zh-CN": "目标回复",
+    "en": "Target reply"
+  },
+  "Tell English Learning how you want to practice.": {
+    "zh-CN": "告诉英语学习您希望如何练习。",
+    "en": "Tell English Learning how you want to practice."
+  },
+  "The coach uses this reply to continue the conversation. Pronunciation results appear when audio scoring is available.": {
+    "zh-CN": "教练使用此回复继续对话。当有音频评分时，发音结果会显示出来。",
+    "en": "The coach uses this reply to continue the conversation. Pronunciation results appear when audio scoring is available."
+  },
+  "The live model decode for this take is shown here directly.": {
+    "zh-CN": "对这次直播模型解码在此直接显示。",
+    "en": "The live model decode for this take is shown here directly."
+  },
+  "The main idea is… I think… because… For example…": {
+    "zh-CN": "主要思想是……我认为……因为……例如……",
+    "en": "The main idea is… I think… because… For example…"
+  },
+  "What do you want to focus on first?": {
+    "zh-CN": "你希望首先专注于什么?",
+    "en": "What do you want to focus on first?"
+  },
+  "What kind of pace feels realistic?": {
+    "zh-CN": "你觉得什么样的节奏是现实的?",
+    "en": "What kind of pace feels realistic?"
+  },
+  "What should we call you?": {
+    "zh-CN": "我们应该称呼你为什么?",
+    "en": "What should we call you?"
+  },
+  "Whisper builds the reply text, then the local acoustic model checks the live phonemes against it.": {
+    "zh-CN": "Whisper 会构建回复文本，然后本地声学模型会将其与实时发音进行对比。",
+    "en": "Whisper builds the reply text, then the local acoustic model checks the live phonemes against it."
+  },
+  "Whisper transcript": {
+    "zh-CN": "Whisper 翻译",
+    "en": "Whisper transcript"
+  },
+  "Word feedback": {
+    "zh-CN": "单词反馈",
+    "en": "Word feedback"
+  },
+  "YOU": {
+    "zh-CN": "YOU",
+    "en": "YOU"
+  },
+  "YOU ·": {
+    "zh-CN": "YOU ·",
+    "en": "YOU ·"
+  },
+  "YOUR ENGLISH SPACE": {
+    "zh-CN": "你的英语空间",
+    "en": "YOUR ENGLISH SPACE"
+  },
+  "You can change these later. This just gives the workspace a better starting point.": {
+    "zh-CN": "你可以稍后更改这些设置。这只会为工作区提供更好的起点。",
+    "en": "You can change these later. This just gives the workspace a better starting point."
+  },
+  "Your account ties together pronunciation drills, conversation coaching, and every module checkpoint.": {
+    "zh-CN": "你的账户将连接发音练习、对话指导和每个模块的检查点。",
+    "en": "Your account ties together pronunciation drills, conversation coaching, and every module checkpoint."
+  },
+  "Your name": {
+    "zh-CN": "你的名字",
+    "en": "Your name"
+  },
+  "Your reply is ready for the next coach turn.": {
+    "zh-CN": "您的回复已经准备好迎接下一节教练时段。",
+    "en": "Your reply is ready for the next coach turn."
+  },
+  "deepseek-flash": {
+    "zh-CN": "deepseek-flash",
+    "en": "deepseek-flash"
+  },
+  "https://api.deepseek.com/v1": {
+    "zh-CN": "https://api.deepseek.com/v1",
+    "en": "https://api.deepseek.com/v1"
+  },
+  "learner@english.app": {
+    "zh-CN": "learner@english.app",
+    "en": "learner@english.app"
+  },
+  "· paired": {
+    "zh-CN": "· 对应",
+    "en": "· paired"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "provider": "kokoro",
+  "config": "deployment/kokoro/settings.json",
+  "python": "runtimes/inference-kokoro/Scripts/python.exe"
+}

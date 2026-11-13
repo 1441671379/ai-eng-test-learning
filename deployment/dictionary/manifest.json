@@ -1,0 +1,11 @@
+{
+  "schema": "1",
+  "source": "ECDICT",
+  "commit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+  "url": "https://github.com/skywind3000/ECDICT",
+  "csvSha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+  "entries": "770611",
+  "forms": "124486",
+  "bytes": 78045184,
+  "sha256": "7b1a8beb9d743489ed8a3264de3b77f0aa20e627839c83fac11c55a95e345469"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "english-learning",
+  "productName": "English Learning",
+  "version": "0.3.0",
+  "description": "听、说、读、写与单词学习",
+  "main": "main.cjs",
+  "private": true,
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+English Learning · Windows 桌面版
+
+双击 EnglishLearning.exe 即可启动。请保留同目录中的其他文件与 resources 文件夹。
+首次启动加载本地语音模型可能需要几分钟。退出窗口会同时停止本应用的后台服务。
+
+语音识别、发音评分与 Kokoro 语音合成在本机运行；语言模型只使用外部 API。
+请在 设置 → 模型设置 中填写服务商地址、模型名称与 API Key。
+此版本预置 Heart、Puck、Emma、George 四种英美音色。
+
+学习数据和密钥保存在 %APPDATA%\EnglishLearningDesktop，更新应用目录不会覆盖学习数据。
+本次打包未嵌入原开发项目的个人数据与密钥；原开发项目继续保留。
+
+后续设计 UI：在原项目根目录运行 Start-DesktopDev.cmd。
+它使用此包的推理环境和模型，在 Electron 内加载当前 apps/web 的界面源码，支持实时刷新。
+启动开发模式前，请退出已经运行的桌面窗口。
+修改完成后运行 Build-Desktop.ps1 -RefreshUI 更新桌面版前端和服务；模型无需重复打包。

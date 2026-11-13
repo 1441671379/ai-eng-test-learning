@@ -1,0 +1,3928 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "id": "cecf5801258a78e51452f116e39b8feabc3207f718dbf9043c98cea7cf336f2d",
+      "word": "a",
+      "label": "",
+      "referencePhones": [
+        "EY1"
+      ]
+    },
+    {
+      "id": "39a9439f0201adf9c796fb7c75072225e1fe1582514a0d4a8174e3f79bdbc958",
+      "word": "absent",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH1",
+        "B",
+        "S",
+        "AE1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "7ea3696b3ebed530bb6cb15203e29798fc38cc3670db64dd65ff5f54e6f310dd",
+      "word": "absent",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "B",
+        "S",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "db06fdf8efe69d2bdf4f4162f773a6922958550f5f24f84dc07fdae1cbaa7294",
+      "word": "abstract",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "B",
+        "S",
+        "T",
+        "R",
+        "AE2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "e77efd200b2b7c375525f54770626eb7d94b631943949b38b4239d9575c80d4e",
+      "word": "abstract",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AE0",
+        "B",
+        "S",
+        "T",
+        "R",
+        "AE1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "46e7485c77fc0945cbe544a6725f95a1d2cd378bc3eddf1ca4ade78887f28f89",
+      "word": "abuse",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "B",
+        "Y",
+        "UW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "49dcd603cec4e60269688d5d4001b21872b776b29c5dd3d5c9e4672d59b3f004",
+      "word": "abuse",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH0",
+        "B",
+        "Y",
+        "UW1",
+        "S"
+      ]
+    },
+    {
+      "id": "8c87ceca3204e9c5dd0ac8fb40bcc99188ba5be2ca9955944c2904dcd8b15e66",
+      "word": "accent",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "K",
+        "S",
+        "EH2",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "de4bed067f91983145e28dc53a3a9dbad98f872b5f5e75daaf6bb54d15fdc0bb",
+      "word": "accent",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "K",
+        "S",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "9460b6cacc43eb04582ff7c0fcc49d2cf01bcde29c4f17c01aec33e23a9c6fd5",
+      "word": "addict",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "D",
+        "IH2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "fce653411ea4154261102cde57f84de2e5e949ffc5483f6ef903cf007862b571",
+      "word": "addict",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "D",
+        "IH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "0295596b66475c8fe12e7e9d6b484553d2b339b8c25bd0c3c19d620865d00f66",
+      "word": "advocate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AE1",
+        "D",
+        "V",
+        "AH0",
+        "K",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "67214c9f866afaeac32474f47472b13ff2498a703609b9dd87662885731206e8",
+      "word": "advocate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "D",
+        "V",
+        "AH0",
+        "K",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "5beccc77d2895939f822b8b11adf80cb971c1e692790c023e60777929ec3bc19",
+      "word": "affect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "F",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "d73505a306a983be248b4d6463a826aff1362a48758d50767c3281b8319ec4d8",
+      "word": "affect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "F",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "26b706a0da4a5f8f9bd047d1209ab3a09007b32882bcf0ae8c03aee44a775b26",
+      "word": "affix",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "F",
+        "IH0",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "3588f31352292bd6925f63cb0fa43dc88d74f0d31d9f244d0a52847cf7f99133",
+      "word": "affix",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "F",
+        "IH1",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "6d0c8cfde00a58e48453b4dda0db47599196d5dfaad1fe49e9cba941c1fb7d52",
+      "word": "alloy",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "L",
+        "OY2"
+      ]
+    },
+    {
+      "id": "896a1e978c2655f3cd9c8207148c99f76cb5d3d34cfd7d9360e16615064e8c9f",
+      "word": "alloy",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "L",
+        "OY1"
+      ]
+    },
+    {
+      "id": "9051b723d6e6b60861ac1cd087f2a0cbf4cb68c2cd15fcc89dd9d7b0d7b8d2b0",
+      "word": "ally",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "L",
+        "AY0"
+      ]
+    },
+    {
+      "id": "e9b93418e2244bc89f2069ad78a8e6f47ea0dde1ae75b1e2a60f2740a2023205",
+      "word": "ally",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "L",
+        "AY1"
+      ]
+    },
+    {
+      "id": "7ea6cb5ceeb5eed9309ade9a66374ce7b13bf87be04720e67a73f27132c0b033",
+      "word": "alternate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AO1",
+        "L",
+        "T",
+        "ER0",
+        "N",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "c2f8095d08aa7de0630b5aa2b1aed3dbf1ca55fe1e8b03f35121bbf3fd087bb3",
+      "word": "alternate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AO0",
+        "L",
+        "T",
+        "ER1",
+        "N",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "0a5e1bd6583d4b83702a9972683754d0ce7030161f71a8dc6b7f670036dbc5bf",
+      "word": "an",
+      "label": "",
+      "referencePhones": [
+        "AE1",
+        "N"
+      ]
+    },
+    {
+      "id": "b7b7ea7e6cf6709e902cdb7ef387b5e176bb6ac11e381e2f5daa8e36f4b71832",
+      "word": "animate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "N",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "c059e98a32854461b10d576fbe0d64b14984e3718981fe2207e4e929d679f565",
+      "word": "animate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AE1",
+        "N",
+        "AH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "0882343883840bfae221c3f0ee190aff51465bdd604a74d469533564ec74dec6",
+      "word": "appropriate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "R",
+        "OW1",
+        "P",
+        "R",
+        "IY0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "c8a5d783068fc5e419648cdb1db23758bd90f7e62a83f15faf10a6551bf624af",
+      "word": "appropriate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "R",
+        "OW1",
+        "P",
+        "R",
+        "IY0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "2f50c6c3f6f730697505a6c8fab7ab45a40a0486631af4e7ac442c9905c58e1d",
+      "word": "approximate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "R",
+        "AA1",
+        "K",
+        "S",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "b3598fb590e7c6320fb8ddff6395d03abb545c4f0091a3d7cdb5f93054dbd658",
+      "word": "approximate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "R",
+        "AA1",
+        "K",
+        "S",
+        "AH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "5d9f5e8d7c970af21c5fd83c2453dfc617c05a20113352bb2ca2b65c9ff12871",
+      "word": "associate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH0",
+        "S",
+        "OW1",
+        "S",
+        "IY0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "92c64e13e0fa44ea49223b79e0d35d88ac5096f30c9e062265874424ca055be5",
+      "word": "associate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "S",
+        "OW1",
+        "S",
+        "IY0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "0607e4c4ab5bc40fe28e7778920450312d302453b37a4a863b2db316c3aa5615",
+      "word": "attribute",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AE1",
+        "T",
+        "R",
+        "IH0",
+        "B",
+        "Y",
+        "UW0",
+        "T"
+      ]
+    },
+    {
+      "id": "fc750f2efc7e9ad8d0fed274fe0462cad134b4d9cde71fee8c0efa0e67ef3d78",
+      "word": "attribute",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "T",
+        "R",
+        "IH1",
+        "B",
+        "Y",
+        "UW2",
+        "T"
+      ]
+    },
+    {
+      "id": "1b552563b15b38fdcafa734c41fe62238bb27c33d2679daa6941eaeb1e253a41",
+      "word": "blessed",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "B",
+        "L",
+        "EH1",
+        "S",
+        "IH0",
+        "D"
+      ]
+    },
+    {
+      "id": "a4870d010e92968fff6c930a9206e78f43344534de2261dbb62705a08866f10f",
+      "word": "blessed",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "B",
+        "L",
+        "EH1",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "26cd57c1aac064fb2fce01ddb4da70f4a3c5471957d7ab080dd66905a5e158a4",
+      "word": "certificate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "ER0",
+        "T",
+        "IH1",
+        "F",
+        "IH0",
+        "K",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "a4edafb95de2965b40f988d0d7966d4224f5c0a08a45549dca90a5019533e5f7",
+      "word": "certificate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "ER0",
+        "T",
+        "IH1",
+        "F",
+        "IH0",
+        "K",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "2a879866fc3b1c4b42d7a218b7c82b7868401ff024a9a12559d5d72fbbd70aeb",
+      "word": "close",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "L",
+        "OW1",
+        "S"
+      ]
+    },
+    {
+      "id": "d783faf4386fccc022de3a58616d6b9b0ef3fe21b8cfdff913148994c8a3837c",
+      "word": "close",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "L",
+        "OW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "8095dfd9b383f4ec95f6abbab6e3d9c67612a14d6e889c423a9f04047e46a127",
+      "word": "collect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "L",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "b4982a5a1c2f618fe9a8a0b972b6962185d6d56c4271f460bfc434a672ec1dc3",
+      "word": "collect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "L",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "453cd98723e1929e1aa667fae8fc0f9890a1b0d44a22fc17056ed5947a286bf4",
+      "word": "combat",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "B",
+        "AE1",
+        "T"
+      ]
+    },
+    {
+      "id": "69af0a80bc07e4c149a6bc2cc945a8d9b04e19313163ebd3fa2a6e9061b73223",
+      "word": "combat",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "B",
+        "AE0",
+        "T"
+      ]
+    },
+    {
+      "id": "d7cad0733b93f1cbbd8a66cb0c9faf557c55e92b39a89194ef4f1ff9ce02dd8a",
+      "word": "combine",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "B",
+        "AY0",
+        "N"
+      ]
+    },
+    {
+      "id": "f84d82e9ed4723be7acf47f64ccb7216dca277d56ccb5485edd47181088cec81",
+      "word": "combine",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "B",
+        "AY1",
+        "N"
+      ]
+    },
+    {
+      "id": "dd519802ebe3542755d540d85a8230a49578cf483894d16cb10904144a16aaad",
+      "word": "compact",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "AE0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "f811b28c2281b941c4995335ee151e21f80160aa2c32946ed28e3a2b49f18d45",
+      "word": "compact",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "P",
+        "AE1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "31d9514f163ca5cdd59762381dd3f8c0adeed7b4c831d603f6459eb2b553e94d",
+      "word": "complex",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "L",
+        "EH0",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "9d70bbe8f07c86c83fd13a12beff8f0382ceeb7db40c78eff171f9cea90df3d0",
+      "word": "complex",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "P",
+        "L",
+        "EH1",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "1c5c2ee2a714a1f4d7c42dd898ed66b86e2e75c31ba8ff3914ac8e1e5e8114ee",
+      "word": "compliment",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "1d70cfed93159513f9d0fb6e0b311ced8bad57f1df04b4126c5ffde2605abfaf",
+      "word": "compliment",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "11373bb7511a5c01fde36a795a2be0dfe023cac6ec5392867351ea41e756b4ce",
+      "word": "compound",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "AW0",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "c53b452f78f4f117237f94f86e38100dfbbc6ee4ebb4d235882a40121f2efde1",
+      "word": "compound",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "P",
+        "AW1",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "24030b5b2b9ebc2a3b84f8a143a6d03be0f96ee0beef8756c876d8f0165f75c0",
+      "word": "compress",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "M",
+        "P",
+        "R",
+        "EH0",
+        "S"
+      ]
+    },
+    {
+      "id": "855698554a7deec1058c55cce48a6060bbd2691dba7f3c3f63ddeca087092ceb",
+      "word": "compress",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "M",
+        "P",
+        "R",
+        "EH1",
+        "S"
+      ]
+    },
+    {
+      "id": "d3882e720f3eb878d0affa0a42a634b8bff4854409e9a25eac6690f0cb9fba3e",
+      "word": "concert",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "S",
+        "ER1",
+        "T"
+      ]
+    },
+    {
+      "id": "fbda5778932ea0c920c3f42b6267ac29b521802668d9886fb11affd35f069fae",
+      "word": "concert",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "S",
+        "ER0",
+        "T"
+      ]
+    },
+    {
+      "id": "2c514db4480e29b683c3e97314dc6589d24831266389d38c18e51acd1dd6c7de",
+      "word": "conduct",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "D",
+        "AH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "4b0e54effa75bc63dd2ccecfe9e66e4dc3d53c7747d1a996485305c8554d65bf",
+      "word": "conduct",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AA0",
+        "N",
+        "D",
+        "AH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "03e5934a31754daff5aa26e93601fe894935d950b12d37866e4aade014646f96",
+      "word": "confederate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "F",
+        "EH1",
+        "D",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "51602198f05fef61775694b9a3692c592a44a1c87af15c3ac41c606bf4188a51",
+      "word": "confederate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "F",
+        "EH1",
+        "D",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "7abb2be3c054836872c69ba75f36b61e08e2442376ec124f69c3ebbfdad676e9",
+      "word": "conflict",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "F",
+        "L",
+        "IH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "81b8a10aedcbc139f3e3744cd197f128a92e869486cef9e13187b2fedef6bd9b",
+      "word": "conflict",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "F",
+        "L",
+        "IH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "696f60ae682378494eb38476857fd4fbc28766363571e5002e1c80bd46c72276",
+      "word": "conglomerate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "G",
+        "L",
+        "AA1",
+        "M",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "69eecee8ad2deca3f2cf21289a9f20d50959afa79d8f6ad34ca5ec86456792a1",
+      "word": "conglomerate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "G",
+        "L",
+        "AA1",
+        "M",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "94f187d214ec32d6eb2945debf535dbfd8d89c1a440fd2b831e1047e4f5c8fa0",
+      "word": "consort",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "S",
+        "AO1",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "ec81de95747ac8c170678fbf7bce0ae1bbd8551b9f07b351d83ec6305a35b49b",
+      "word": "consort",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "S",
+        "AO0",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "4483e84e3c38c7c68dd034da6f5b4569a29abe1d5aa7a04639312e0e73c88868",
+      "word": "construct",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "S",
+        "T",
+        "R",
+        "AH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "63ef83fe90476d7ecfdd3c3a59e85af3fc9f705c0aca17b13e0432b45abc787a",
+      "word": "construct",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "S",
+        "T",
+        "R",
+        "AH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "68bb1614ad99457dc2a58bcedf63d05b4d7c64e5860cc6eaf7c01d42e5e3501a",
+      "word": "content",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "T",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "a65b401398e08ff1a81e9dc289d6fe2fc3930101f8cc2b4ca06297fa50c444f6",
+      "word": "content",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "T",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "44339bfd5670150e48a712b07bde1d050b9182fbdd119945efd58d6cc13433f6",
+      "word": "contest",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "T",
+        "EH0",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "a0be69ead5fb85b257e9e86c2df615603b60cb3e484bbe50d15ece04d518d419",
+      "word": "contest",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "T",
+        "EH1",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "19a57318ae32e6d9f9ac0be1e3c85c0dbfdcca0de5fc4707cef0ce0df0a3044e",
+      "word": "contract",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "T",
+        "R",
+        "AE2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "48f22506621cc410aff6b4cae7c551e5c2e81238f5b1d1d1158f6ffb78cb109e",
+      "word": "contract",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "T",
+        "R",
+        "AE1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "942d08a5bcfabdfec6f7dddcb32bee55033c7069be5227f3ded4f1933bbe6250",
+      "word": "contrast",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "T",
+        "R",
+        "AE0",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "9fe77c0ad4c5979c80187ae5a961d51253ac8a94bfd2ea08d5553d593b66c66f",
+      "word": "contrast",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "T",
+        "R",
+        "AE1",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "5344b22bb3129f6389b11fa4cd5da270727c34acce0fa164cae0c72fae58d459",
+      "word": "converse",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "V",
+        "ER0",
+        "S"
+      ]
+    },
+    {
+      "id": "5fca22e249eae2ca70c994e0f5db7435e339d1c13e3bf977d56e390fd10e059e",
+      "word": "converse",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "V",
+        "ER1",
+        "S"
+      ]
+    },
+    {
+      "id": "1d0f55b37c9c719f6536e19c5a4febde7e9a7198591e3b435681622059b8e776",
+      "word": "convert",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "V",
+        "ER1",
+        "T"
+      ]
+    },
+    {
+      "id": "88f7047882d3949d791de75a9d14dac3162c2ddaf939b0bfb4f7c583b812d5eb",
+      "word": "convert",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "V",
+        "ER0",
+        "T"
+      ]
+    },
+    {
+      "id": "5158c94f07626a50cddf93e0f0f8d847bf79c3e9be9fc7538829dbcf92aa1063",
+      "word": "convict",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "AH0",
+        "N",
+        "V",
+        "IH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "e8ac2f7ff407f81a979d70040169c5acd610a6e4f0acfb71002f1d6b01d04862",
+      "word": "convict",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "AA1",
+        "N",
+        "V",
+        "IH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "8c69ee2b9c9c9b38426f459a52fa4b2151f964bafc2914b42265bcea9d4f836f",
+      "word": "coordinate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "OW0",
+        "AO1",
+        "R",
+        "D",
+        "AH0",
+        "N",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "fdf12e4ef24b750881be15b699dd4460c9e2b333dc510eed063d19e7a7f89007",
+      "word": "coordinate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "OW0",
+        "AO1",
+        "R",
+        "D",
+        "AH0",
+        "N",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "b01893b8136ac9bbb2c3ef1ccba73a366ed3f18fa86f3138e7dbe64f39efa03f",
+      "word": "crooked",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "K",
+        "R",
+        "UH1",
+        "K",
+        "AH0",
+        "D"
+      ]
+    },
+    {
+      "id": "e02a2c3a8a90942e9a01bdae49121e32cb3058013572b1343f648fb2f79cd35f",
+      "word": "crooked",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "K",
+        "R",
+        "UH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "9c80b46bf00a28d700bce0715488a5366812159e5569fefe2447380358d312b6",
+      "word": "decrease",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "K",
+        "R",
+        "IY1",
+        "S"
+      ]
+    },
+    {
+      "id": "efe631d478a65c6edd60d05b8b852e17907023f72378cab7e3e7fc97eeff491a",
+      "word": "decrease",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IY1",
+        "K",
+        "R",
+        "IY2",
+        "S"
+      ]
+    },
+    {
+      "id": "d1ac3c12ff89d45b73b1addc5fb87b3ff36bd1c0d22d86d9f4b9273e4df8355e",
+      "word": "defect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "F",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "f7f6e781c453692d66e446b9e69297e68a2514a1391c3c6097fe5b53bf5b4390",
+      "word": "defect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IY1",
+        "F",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "85aa6aeadc47d94b9630cf0dcb2a6edc20981059b5506adcf4d110eb8711dcff",
+      "word": "degenerate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "JH",
+        "EH1",
+        "N",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "d229fc0b8ce48f3bc007f2ff07078ee8925eecf3854baa1b826373e0052b508a",
+      "word": "degenerate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "JH",
+        "EH1",
+        "N",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "0216bd63d1849af5d5bae258e1cd775134deb16e7fb240ecbec05272b8835839",
+      "word": "delegate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "EH1",
+        "L",
+        "AH0",
+        "G",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "40e18bdb4b62e836f82d46241a151703a3cc2575d59db59147c6bbfcec12cfe1",
+      "word": "delegate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "EH1",
+        "L",
+        "AH0",
+        "G",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "000d9d90c36f0a18bb9fc6368b98c91c892908762be34b486b8ddff93182cfc2",
+      "word": "deliberate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "L",
+        "IH1",
+        "B",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "165d4af976dfc5b8f1cb275ab85dcd94fdb0225ecf8f6386a10f62c451a1a17e",
+      "word": "deliberate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "L",
+        "IH1",
+        "B",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "39db176b3281426c88287fba2782cc9607e61a8ac9b5a27c0f1ef19f38d5eb74",
+      "word": "desert",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "Z",
+        "ER1",
+        "T"
+      ]
+    },
+    {
+      "id": "4346365909440dbac12c484978907a64f934ecef5d47db21274f083dc8ea8d7f",
+      "word": "desert",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "EH1",
+        "Z",
+        "ER0",
+        "T"
+      ]
+    },
+    {
+      "id": "a4c3a3817db9abdbeb7936808d9c4cf9f39cf89ecd6600af086194e8ca837817",
+      "word": "desolate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "EH1",
+        "S",
+        "AH0",
+        "L",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "e719d2152e679135bbaed2f48420b75ff50a2182a0e862899da27d73eaaa2e04",
+      "word": "desolate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "EH1",
+        "S",
+        "AH0",
+        "L",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "6b78ca733ec2128df73bd64bd3b5f20d90f87be4852b2236cf10e76ffa317caf",
+      "word": "dictate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH1",
+        "K",
+        "T",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "fd9bc178f823fcd946ced83a382da40ef3168bb5029fa45dc4b0a1c310d23fae",
+      "word": "dictate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "K",
+        "T",
+        "EY1",
+        "T"
+      ]
+    },
+    {
+      "id": "0ba25a6c0de647e320d368fd3a9b0997759ce15ddabb75e40beb8996a5e5a2b4",
+      "word": "diffuse",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "F",
+        "Y",
+        "UW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "c2928a6bded170be4651fbb8e9656340a9a269471c80ee67f584e94f6bcc2284",
+      "word": "diffuse",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "F",
+        "Y",
+        "UW1",
+        "S"
+      ]
+    },
+    {
+      "id": "949fccb62a7c8ce2f40747d4a61b1e6e5c6032ee49a799ed543e66ca7317b535",
+      "word": "digest",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "AY1",
+        "JH",
+        "EH0",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "b7684671b6a7f93372867a2f7eb7f44a259bfaf8c60237b3023821b698096b7e",
+      "word": "digest",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "AY0",
+        "JH",
+        "EH1",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "486d381a0185f8c6fec93c7d30e772aa53ae48fac9601457d805abd14465ff13",
+      "word": "discard",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH1",
+        "S",
+        "K",
+        "AA0",
+        "R",
+        "D"
+      ]
+    },
+    {
+      "id": "654889fd952a14329e63c975396cfaa417cf1107ffbcf9138cbff7a983c806d6",
+      "word": "discard",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "S",
+        "K",
+        "AA1",
+        "R",
+        "D"
+      ]
+    },
+    {
+      "id": "68d44be7e557ed1832f2ca0b565f09a2f72766be7d16467fedea3fab0456ffff",
+      "word": "discharge",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "S",
+        "CH",
+        "AA1",
+        "R",
+        "JH"
+      ]
+    },
+    {
+      "id": "c93a1827333260f053aaf4e059c6adab88b8dd9839e27443b813e63320384ccc",
+      "word": "discharge",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH1",
+        "S",
+        "CH",
+        "AA2",
+        "R",
+        "JH"
+      ]
+    },
+    {
+      "id": "6dc559c39608c989584c74dcf2d3d0e21725707e9a8d1b50d398b537313741c9",
+      "word": "discount",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "IH0",
+        "S",
+        "K",
+        "AW1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "9217e24baf5cb81883fb03c34b3df90f5fc62267f0baf6a80c46538f1b196e6f",
+      "word": "discount",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "IH1",
+        "S",
+        "K",
+        "AW0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "9acdf91b53a9f90d260a775c91955a4efbde1afcb33c1d15ac872c1daed3060c",
+      "word": "document",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "AA1",
+        "K",
+        "Y",
+        "UW0",
+        "M",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "aaf0ae0ba42d7d2c484a31478526b2339ab50be0ed0272e6ad67e3a58bd963ec",
+      "word": "document",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "AA1",
+        "K",
+        "Y",
+        "AH0",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "93c0e2124551060b488606118a7f715762a85e57e8c86415e33cc72257bfb2dc",
+      "word": "duplicate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "D",
+        "UW1",
+        "P",
+        "L",
+        "AH0",
+        "K",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "bd67851b96d37d2640c4b47767b0dd1c0bcdb64e26bf2265438eef9859d7b5d8",
+      "word": "duplicate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "D",
+        "UW1",
+        "P",
+        "L",
+        "AH0",
+        "K",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "61c4cdf668cb57b26c1906711ec772fb1a54b8e1a88f086d66db168943656c72",
+      "word": "elaborate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH0",
+        "L",
+        "AE1",
+        "B",
+        "R",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "e5e2ee01c13e4ddb50e954b7b680e59f95d242e75d760a8265a92b73aeabef62",
+      "word": "elaborate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "L",
+        "AE1",
+        "B",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "a29ba45eee8b1b54dae4fff224617fc7d96074fb7200898aa61039b4e6456f8c",
+      "word": "entrance",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "N",
+        "T",
+        "R",
+        "AH1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "id": "c6d1d98d6e70a2086a75c4c43be62ddf8d5daf95241a27276cd6a96774eae88f",
+      "word": "entrance",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "N",
+        "T",
+        "R",
+        "AH0",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "id": "8ede3ad50b4e0917ffac02a0dae06a380f3116de99c12edde221ec64ad4cf385",
+      "word": "envelope",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "N",
+        "V",
+        "EH1",
+        "L",
+        "AH0",
+        "P"
+      ]
+    },
+    {
+      "id": "9b7266450fc0718b8c97f4727ac50a02ef8ed6a6da094aca88e89d953c6908d7",
+      "word": "envelope",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "N",
+        "V",
+        "AH0",
+        "L",
+        "OW2",
+        "P"
+      ]
+    },
+    {
+      "id": "afd622372c74cc0ad37fca7a600c131e50ae166163d705ff30a5060649a1a402",
+      "word": "essay",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "EH0",
+        "S",
+        "EY1"
+      ]
+    },
+    {
+      "id": "d89b4509c6f2992b15a7c8dd6fd97d108bb68c0bf796f326a9caa33d3d7a3b6c",
+      "word": "essay",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "S",
+        "EY2"
+      ]
+    },
+    {
+      "id": "816299cde72bcb01dc05c0f20b3eb3209b8f62c4cf5ad5f036a6d48915ec885e",
+      "word": "estimate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "S",
+        "T",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "bb97ba86af545ca9989f0a9a1c3eb525a62713e0ab10ec07f48c9d3de22432fb",
+      "word": "estimate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "EH1",
+        "S",
+        "T",
+        "AH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "241c219a76686b54f54f66d2dd2c30c0c2d55409751d152c469a5c547ea27716",
+      "word": "excess",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "K",
+        "S",
+        "EH2",
+        "S"
+      ]
+    },
+    {
+      "id": "e5e0f273b02a8b3e733a840ea25dbff0325dbfb115986cf3888c83bb0664557b",
+      "word": "excess",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "K",
+        "S",
+        "EH1",
+        "S"
+      ]
+    },
+    {
+      "id": "31fd4cd87be156d444e5bee995ee81e5adcb0a873294e99f5e701dd6703c7d67",
+      "word": "excuse",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH0",
+        "K",
+        "S",
+        "K",
+        "Y",
+        "UW1",
+        "S"
+      ]
+    },
+    {
+      "id": "32d4bda6491af52978f887c83cb122c6ea8e981380f54c0c13d934b28b9ea782",
+      "word": "excuse",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "K",
+        "S",
+        "K",
+        "Y",
+        "UW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "b6827ab06f76e5f6887568b4aa2b6c97d561e108e16a221d7b8c7ddc7c337016",
+      "word": "exploit",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH2",
+        "K",
+        "S",
+        "P",
+        "L",
+        "OY1",
+        "T"
+      ]
+    },
+    {
+      "id": "c2cf650cb1d11799e131567a9e1546f7dd3939718482781ce17065441dea9344",
+      "word": "exploit",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "EH1",
+        "K",
+        "S",
+        "P",
+        "L",
+        "OY2",
+        "T"
+      ]
+    },
+    {
+      "id": "456fa4eb8f961c1b3504c12dd539416222ac78c0ef395ca08511c48d9895099a",
+      "word": "export",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "K",
+        "S",
+        "P",
+        "AO0",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "d2af645d0287537f646c6b67b7508269573f380c1abc14bbc715bb145a6d8731",
+      "word": "export",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "K",
+        "S",
+        "P",
+        "AO1",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "3b8089c9967a534a7ff16e5c8f8a814883bcb56c6083d7ec0be9f9062f73d934",
+      "word": "extract",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "EH1",
+        "K",
+        "S",
+        "T",
+        "R",
+        "AE2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "d580155337f5b3ff16beac41529b7cf2f8bc6bbd0b3fce59750d362f74037d8d",
+      "word": "extract",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "K",
+        "S",
+        "T",
+        "R",
+        "AE1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "4f177799483e16d7f680a5da6cf372c619d07b7e27ac188f2edc514770caa1e1",
+      "word": "fragment",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "F",
+        "R",
+        "AE0",
+        "G",
+        "M",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "f3ad5509ad9cf0444bac00ed78f2141d9f5a634d25e877532c3dda99d726c558",
+      "word": "fragment",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "F",
+        "R",
+        "AE1",
+        "G",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "b00998a529458f6e1e0c96f30f772f24ec68e501143cc439ab46df5c44906663",
+      "word": "frequent",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "F",
+        "R",
+        "IY1",
+        "K",
+        "W",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "d0c2aea8257a82db31ce23a7ef00f52ba8ae3433ac912d57e3e0228caa8045d9",
+      "word": "frequent",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "F",
+        "R",
+        "IY1",
+        "K",
+        "W",
+        "EH2",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "12eb272e855157e605d1f8aa8259fdc22e2241d67c615d4788bc90d362d834f7",
+      "word": "graduate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "G",
+        "R",
+        "AE1",
+        "JH",
+        "AH0",
+        "W",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "2bc64858d9f77831c6e5647e02faba8cfc394b7a97a12dcba2cd65e21ccea7cb",
+      "word": "graduate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "G",
+        "R",
+        "AE1",
+        "JH",
+        "AH0",
+        "W",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "be2579fccf9207121b8d5241cbaf0c9dfe2c299871bb60d9ac73c30ef2a46ca1",
+      "word": "house",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "HH",
+        "AW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "d537cf01ca226ddeebe539824d648ecb800f395e9f278f2a5e04dd3d86daa620",
+      "word": "house",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "HH",
+        "AW1",
+        "S"
+      ]
+    },
+    {
+      "id": "256401d4a713d49cfa1bf62bed4e072d6fc35b950a63a5d8d1bf81805f492821",
+      "word": "impact",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "M",
+        "P",
+        "AE0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "bcec571fac07967f340b42fab6fdec120652e3cc7a1d5202cb892e6753ed7dba",
+      "word": "impact",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "M",
+        "P",
+        "AE1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "755e1e7be30e81129146d0e8cbfc43bcfec860787e8eb0f1c20a7f896a621ccc",
+      "word": "implement",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "M",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "b630e23271753da9c8922ad38003910c1b77ece781fdd1615ae1a28fd7734795",
+      "word": "implement",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH1",
+        "M",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "7b13d54fdf7f6a80404f9acd876d3e31169755202ca03af109b9a6b6b116d969",
+      "word": "import",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "M",
+        "P",
+        "AO2",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "9ae1df22ce81900a1de150703e691b06391f401efd849245fd1478686f360509",
+      "word": "import",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "M",
+        "P",
+        "AO1",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "d7d77e4dc64f9af59ed2ac6d7134f8ffd1ecdea77918f2d14a95e090d056a720",
+      "word": "impress",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "M",
+        "P",
+        "R",
+        "EH0",
+        "S"
+      ]
+    },
+    {
+      "id": "f7ec9721632df391914e6c0247d055d00b440167eb5aefbf7c2652638b279232",
+      "word": "impress",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "M",
+        "P",
+        "R",
+        "EH1",
+        "S"
+      ]
+    },
+    {
+      "id": "494cedaa025a46eb99b5bc1f2c760f49ab33fa40b2e0967f01c026c329ca5aa3",
+      "word": "incense",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "S",
+        "EH1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "id": "8eafea4212be4df49a863870557db8962e758cea93f434a06a5fbb00a90340a0",
+      "word": "incense",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "S",
+        "EH2",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "id": "06786f9ed8a61e39c64e51397777f47b8749cb48d0da115a73134bbd0a3ffef2",
+      "word": "incline",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "K",
+        "L",
+        "AY1",
+        "N"
+      ]
+    },
+    {
+      "id": "2d4e6e3dacdec55c28940fce7e007cfe280de92ab6281d57b1e01f415cffe952",
+      "word": "incline",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "K",
+        "L",
+        "AY0",
+        "N"
+      ]
+    },
+    {
+      "id": "625c6f19f78913237012a135447e17903da58cd10876d1f48997a1285b65cf8b",
+      "word": "incorporate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "K",
+        "AO1",
+        "R",
+        "P",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "6a85c3290c8e5671d9cd506eaf0e7238e708461049ebac4fcc9d05198d68730e",
+      "word": "incorporate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "K",
+        "AO1",
+        "R",
+        "P",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "21219d98122c26e3ec8c67524e0b51cc3824a58de09f593c9b03abbe929634e4",
+      "word": "increase",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "K",
+        "R",
+        "IY1",
+        "S"
+      ]
+    },
+    {
+      "id": "fd3167d7169229a7eba505582c59d5ea34292290dd254b61772778701b9e60ec",
+      "word": "increase",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "K",
+        "R",
+        "IY2",
+        "S"
+      ]
+    },
+    {
+      "id": "e477c12c769b3f014e8439f635a0f8daddf52051145d0dca5510e30994ef45f6",
+      "word": "indent",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "D",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "f3967f2f04c3446bd407e50f9f006aeb91ade194d842d76c280c8fdb708333f2",
+      "word": "indent",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "D",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "040304b072b5a51eeb2e57edf5d6a56ee73970d75ffe17326a887553c4bd520e",
+      "word": "initiate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "IH1",
+        "SH",
+        "IY0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "68f544cfd63dcb28d4307bf4e0b537614291d4286aeb4232cd69e5483d56a2f9",
+      "word": "initiate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "IH1",
+        "SH",
+        "IY0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "0f6225368675c232a6816413db6ec29a66d58f5082c3c8843c9fad236e3606ca",
+      "word": "insert",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "S",
+        "ER2",
+        "T"
+      ]
+    },
+    {
+      "id": "583818278faaaa98da3d28454133ffd6375c090b946ecb3974e112d7da398cab",
+      "word": "insert",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "S",
+        "ER1",
+        "T"
+      ]
+    },
+    {
+      "id": "45833d6f6b3cd2e1dad430c9c3a8458880a88e96e71adacc2a95ac5784d705fb",
+      "word": "instinct",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "S",
+        "T",
+        "IH1",
+        "NG",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "650aae37ac332736a9032a50cb93b34252b478089ff53d7b27913067a5182989",
+      "word": "instinct",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "S",
+        "T",
+        "IH0",
+        "NG",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "a49661fc222094e70708b8368fcbc79b93a2038d36e7dc5be755ad92a0a2c137",
+      "word": "insult",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "S",
+        "AH1",
+        "L",
+        "T"
+      ]
+    },
+    {
+      "id": "aede25d64295fbb19c1b9b0ae61912431174ead9f0bdf08c3f665ee5651959e4",
+      "word": "insult",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "S",
+        "AH2",
+        "L",
+        "T"
+      ]
+    },
+    {
+      "id": "9a8be2a82363d965ab33ab341cf89bf6e408ee10db59c72e95b538a20391f2a0",
+      "word": "intern",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "T",
+        "ER0",
+        "N"
+      ]
+    },
+    {
+      "id": "e87e9f60713716fd52746d88f40d9e8a2594a5e26786bbe020214b024bca94f2",
+      "word": "intern",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH0",
+        "N",
+        "T",
+        "ER1",
+        "N"
+      ]
+    },
+    {
+      "id": "1254f9cf59b34aad0d8a9f90180a8a79adf153355f52a15ed8350aa89b110ead",
+      "word": "intimate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "T",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "b18d1bfe7478d7b6423b2e77a3e1d187297c807c4a22b98ba350c8a50bff3963",
+      "word": "intimate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "T",
+        "IH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "7257263079500da8206d49b04c0c3275fbd02f992404a0710098dc1f22d5eab1",
+      "word": "introvert",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "T",
+        "R",
+        "AO0",
+        "V",
+        "ER2",
+        "T"
+      ]
+    },
+    {
+      "id": "ffb258fff92acac17806aae36a60d6648b616c577eea9650c4a2dcde1ae5eac7",
+      "word": "introvert",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "T",
+        "R",
+        "AO0",
+        "V",
+        "ER1",
+        "T"
+      ]
+    },
+    {
+      "id": "015ee22585b0089d7516706c2233b2ff85d58298007f5a2dd0ceda8daa44e4e2",
+      "word": "invite",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "IH2",
+        "N",
+        "V",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "id": "724ca5661ec75791abc98a88fe7a96cf90ebd0e5255c178e4a1df7c58362b63b",
+      "word": "invite",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "IH1",
+        "N",
+        "V",
+        "AY0",
+        "T"
+      ]
+    },
+    {
+      "id": "5b3b17a689a1212c3b6210620a28fcae2bd3d3b5c822628a8551c796de6e077e",
+      "word": "learned",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "L",
+        "ER1",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "b14b7e944727d0b12507a8794f02c5f652c348dd3c2263b7d355f86eab7c7b67",
+      "word": "learned",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "L",
+        "ER1",
+        "N",
+        "IH0",
+        "D"
+      ]
+    },
+    {
+      "id": "5edb4a91c01a1f248948bfcc4d920be5176461563ba319ed4d5cc27eb0bff23a",
+      "word": "legitimate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "L",
+        "AH0",
+        "JH",
+        "IH1",
+        "T",
+        "AH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "cebe97c2fa9716d3bd579e05e6253c47f4ccff758a14da436cf41f401ecc62a5",
+      "word": "legitimate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "L",
+        "AH0",
+        "JH",
+        "IH1",
+        "T",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "c190cb735e22ad30175098fba4d0b386a046f1852bf60edcd9f9cb9da6fa68b2",
+      "word": "mandate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "M",
+        "AE2",
+        "N",
+        "D",
+        "EY1",
+        "T"
+      ]
+    },
+    {
+      "id": "fb2d328335ed7d20e157e28013fffbc8dc8a6b4004932bce23cf17be0294d792",
+      "word": "mandate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "M",
+        "AE1",
+        "N",
+        "D",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "07481cd8c4e0048ed382b9c2a58d095e6e4bb4af86dab5f6dbb79a3e61fa134a",
+      "word": "moderate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "M",
+        "AA1",
+        "D",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "85ff1651929b039bc54f185deaa8721803e590d751e2d04b47fdd04fa6511406",
+      "word": "moderate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "M",
+        "AA1",
+        "D",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "4c194a7f90bb496358ecd48e2a2b709604bb3b0ae7228cd55db9474048d84de5",
+      "word": "mouth",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "M",
+        "AW1",
+        "TH"
+      ]
+    },
+    {
+      "id": "c8af04d3d91e11c7f3b34a276f32524f26f3981c648ea54d3a2ca3cef2def5cc",
+      "word": "mouth",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "M",
+        "AW1",
+        "DH"
+      ]
+    },
+    {
+      "id": "03dbe683617c5c381d30a0e1a6aad846457356f3cacfd9c0117c6c7b4aa7b4ce",
+      "word": "object",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH0",
+        "B",
+        "JH",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "22f894798e72d3bd41774cb5a571a730c79b15e6d67f1d7e5507dada4cd2ec54",
+      "word": "object",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AA1",
+        "B",
+        "JH",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "0b54dd1314fa6c55a630011d4e82f23bfa6b855a4915d133b7373757be0e325e",
+      "word": "ornament",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AO1",
+        "R",
+        "N",
+        "AH0",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "d2786bd26f70f9211449ffd0d32e62454ca7251b0bc18016a6c15ee3543b8a86",
+      "word": "ornament",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AO1",
+        "R",
+        "N",
+        "AH0",
+        "M",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "399b9d9de11915cac7edb80b240f4750a03771035539a163f3f7709b7147074b",
+      "word": "overflow",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "OW1",
+        "V",
+        "ER0",
+        "F",
+        "L",
+        "OW2"
+      ]
+    },
+    {
+      "id": "6ed2819cd5867c82e5e42eb918f9c25d48ce3e8621cbad87684f644ff0f606f5",
+      "word": "overflow",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "OW2",
+        "V",
+        "ER0",
+        "F",
+        "L",
+        "OW1"
+      ]
+    },
+    {
+      "id": "812a524c990b1fcd2ada9f122e79427c8043b487b7305e8bd5a35041b62a43d9",
+      "word": "overhang",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "OW2",
+        "V",
+        "ER0",
+        "HH",
+        "AE1",
+        "NG"
+      ]
+    },
+    {
+      "id": "9e520e1a065a1cb9c94ec7e3248f4e5b0bac8047ae94e348f5c202c90af58609",
+      "word": "overhang",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "OW1",
+        "V",
+        "ER0",
+        "HH",
+        "AE2",
+        "NG"
+      ]
+    },
+    {
+      "id": "62e54863d26cd5a0bb8c1622b0059f7ced91385c1373f20c20a6738d301cf284",
+      "word": "overlap",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "OW1",
+        "V",
+        "ER0",
+        "L",
+        "AE2",
+        "P"
+      ]
+    },
+    {
+      "id": "e593656a917a6fc54e8c7457864c9fa7b86d2925816af85ce2f881418295802d",
+      "word": "overlap",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "OW2",
+        "V",
+        "ER0",
+        "L",
+        "AE1",
+        "P"
+      ]
+    },
+    {
+      "id": "5d3338136d5be1aa37358e6220a4a3c3c3a4409a1b87c6dedbf19d8b8770b1b9",
+      "word": "overwork",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "OW2",
+        "V",
+        "ER0",
+        "W",
+        "ER1",
+        "K"
+      ]
+    },
+    {
+      "id": "c786e65b76529afb56e61d03748a1ac288d3bcd82addd8c5b4e54071aff983d6",
+      "word": "overwork",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "OW1",
+        "V",
+        "ER0",
+        "W",
+        "ER2",
+        "K"
+      ]
+    },
+    {
+      "id": "0006289ae2665e6c37b91ae9f2b97b15a3f54df9d47d545a393a6abf1d4ff795",
+      "word": "perfect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "ER0",
+        "F",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "863924c959393a1a55f6d4fe6ad8bc82611572450c47eea6fc5aeb7d89a1b717",
+      "word": "perfect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "ER1",
+        "F",
+        "IH2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "414439b0b618de2c1aaa9ec007f80ddb01c8703a0a6fdf5a13c8ac7044f7cdf3",
+      "word": "perfume",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "ER0",
+        "F",
+        "Y",
+        "UW1",
+        "M"
+      ]
+    },
+    {
+      "id": "968827eba1ade9361674d8f542832c78456ace7eb6a68fa0b62198dcb216ba4c",
+      "word": "perfume",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "ER1",
+        "F",
+        "Y",
+        "UW0",
+        "M"
+      ]
+    },
+    {
+      "id": "0f5e65fd8e75367d6a6024ab87ca5fbcfb6792095ffad2f40eac192777554851",
+      "word": "permit",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "ER0",
+        "M",
+        "IH1",
+        "T"
+      ]
+    },
+    {
+      "id": "78d4af1a5e71d10583a00dc21a02b3105c1ce87960fcd8b643c48ce442fa6323",
+      "word": "permit",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "ER1",
+        "M",
+        "IH2",
+        "T"
+      ]
+    },
+    {
+      "id": "102f405934dbd8c00e79d40f5e6536bb4a9bace10818c4691ba6938f8c81a00d",
+      "word": "precipitate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "IH0",
+        "S",
+        "IH1",
+        "P",
+        "IH0",
+        "T",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "e7428e181e1d55905840e4b99586d46949e9c8d5b07a8432039c5aac19b195a6",
+      "word": "precipitate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "IH0",
+        "S",
+        "IH1",
+        "P",
+        "IH0",
+        "T",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "4464caf5704f7b2cd35a1b5135fa98c7fc65ede6335d0e283c8057f7903f7f79",
+      "word": "prefix",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "IY2",
+        "F",
+        "IH1",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "50ba571d677aa061f40aed11d8df9b642ebe08d856d83c3b8d252ccb62891637",
+      "word": "prefix",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "IY1",
+        "F",
+        "IH0",
+        "K",
+        "S"
+      ]
+    },
+    {
+      "id": "511a327f8565fc8e010bd0161282b4f88e619512dca809fa91eaaff80c25e10c",
+      "word": "present",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "IY0",
+        "Z",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "80bf9aa1c5816c6df2269aa4c04a73ba9e3b6b800442372c838c42908640d6ca",
+      "word": "present",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "EH1",
+        "Z",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "66e3385a1caf66a0bfec5a69a8f6521863413ff13fbc35719b993c1e50531a26",
+      "word": "process",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AO2",
+        "S",
+        "EH1",
+        "S"
+      ]
+    },
+    {
+      "id": "e2c80772aab41d179c7b8df2a3c49c236beb002afa4c4d638e73946c621148b1",
+      "word": "process",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "AA1",
+        "S",
+        "EH2",
+        "S"
+      ]
+    },
+    {
+      "id": "2e0edd2c5f741b2c663884365c1fa6c471770805be69302aaca859a3e117624e",
+      "word": "produce",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AH0",
+        "D",
+        "UW1",
+        "S"
+      ]
+    },
+    {
+      "id": "c23ed20a8ba1f6aba6c8df0eaacd42dfc910441b10c65d289243e8912fbf98b3",
+      "word": "produce",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "OW1",
+        "D",
+        "UW0",
+        "S"
+      ]
+    },
+    {
+      "id": "8aebfa986b6b6cf8c81095cbfdeb55f551ff576ab5f9227597565728d3731ca1",
+      "word": "progress",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AH0",
+        "G",
+        "R",
+        "EH1",
+        "S"
+      ]
+    },
+    {
+      "id": "dc6aeb195a1d2546f8f81dd26c8623e67c29bec54eeab07b0b1e8b7e47c5bb83",
+      "word": "progress",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "AA1",
+        "G",
+        "R",
+        "EH2",
+        "S"
+      ]
+    },
+    {
+      "id": "4118833b90946e7be25a8a20a63c1e9bcfff64e84b3721a35f9a7a1c806eebc3",
+      "word": "project",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "AA1",
+        "JH",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "bbc6a3d6347ce11f98df012ea7906727e27293a23d877dc9effe7a2677dfec85",
+      "word": "project",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AA0",
+        "JH",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "19afcb2eba48754374bb2d630c5d51fde74002c0ee83049bdc3185867a67d573",
+      "word": "prospect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "AA1",
+        "S",
+        "P",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "3cf3e7645e27d252d4befa165303afa27da877e8cf519cd023fecc3bc86c1527",
+      "word": "prospect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AH2",
+        "S",
+        "P",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "3d48a5ec3a571ab9e4876d5675eeecf357ece5cf410ca1127fc4619e832a3ef4",
+      "word": "protest",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "P",
+        "R",
+        "OW1",
+        "T",
+        "EH2",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "d420ce62c8e42eb180f559e2937f9f43415b1bc9a98c0ca11ff3e60618f0cb0d",
+      "word": "protest",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "P",
+        "R",
+        "AH0",
+        "T",
+        "EH1",
+        "S",
+        "T"
+      ]
+    },
+    {
+      "id": "427f53a827f8fab1586219631dd6fff4cf3c86bf71ac328fe46f812aa7638262",
+      "word": "read",
+      "label": "read /red/ · past",
+      "referencePhones": [
+        "R",
+        "EH1",
+        "D"
+      ]
+    },
+    {
+      "id": "620890fb940ea34a09f6ffb2f825a50d4eb513b8b4234ce153c314fbbfd60ae9",
+      "word": "read",
+      "label": "read /riːd/ · present",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "D"
+      ]
+    },
+    {
+      "id": "8feb49b97db45e98ad6c0bb25d294215ba0914dc6fd1355bec04fb84a7539890",
+      "word": "rebel",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "B",
+        "EH1",
+        "L"
+      ]
+    },
+    {
+      "id": "de12ff12cefa4d540da97ecd79a9b31ab15060d73e707ad871a06694456e49d6",
+      "word": "rebel",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "EH1",
+        "B",
+        "AH0",
+        "L"
+      ]
+    },
+    {
+      "id": "5b9338d90d02f5459b91244fe3e43cf34f102681e2d4bf53d4bfe4b10f0b1116",
+      "word": "recall",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "K",
+        "AO1",
+        "L"
+      ]
+    },
+    {
+      "id": "c68162f6d90a61558e726114da22bb9a7dba0c58b1e27c99bf32016bc7bdfb7a",
+      "word": "recall",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "K",
+        "AO2",
+        "L"
+      ]
+    },
+    {
+      "id": "5b6785ca08d12671cbf668e16e599511e49fb8397e6e6c35dabd5e693c77d439",
+      "word": "record",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "K",
+        "AO1",
+        "R",
+        "D"
+      ]
+    },
+    {
+      "id": "67aee93a7274818dda26759109d03261537c120f199178bcfd878b2ab78e341f",
+      "word": "record",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "EH1",
+        "K",
+        "ER0",
+        "D"
+      ]
+    },
+    {
+      "id": "d6ef9ce40bee3d6f209c95db2fe6ca17065fc14ea248ecf1a355928c15a79b14",
+      "word": "refresh",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IH1",
+        "F",
+        "R",
+        "EH0",
+        "SH"
+      ]
+    },
+    {
+      "id": "fdf0e773f286bde2bc9d4359f96ea255a733be6ddf258cb66eef2c7c62cd9c5c",
+      "word": "refresh",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "F",
+        "R",
+        "EH1",
+        "SH"
+      ]
+    },
+    {
+      "id": "68dbb1f64f6802673d9fa34b6d8a427bdaadcf964789b62ef4d5bc6025e21f3f",
+      "word": "refund",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "F",
+        "AH1",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "9a82190ec46dffc55e931a7355f3ec9f7685665ab299969b155d65af8d8b1d48",
+      "word": "refund",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "F",
+        "AH2",
+        "N",
+        "D"
+      ]
+    },
+    {
+      "id": "7a0f3235231516b32f5d20a838f3cbdc323b6d904e5005de16376f1294d62fa2",
+      "word": "refuse",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "EH1",
+        "F",
+        "Y",
+        "UW2",
+        "Z"
+      ]
+    },
+    {
+      "id": "9d6cb46f1ec1555b55b8dbeaff821df194d836916087207337e386653a15e467",
+      "word": "refuse",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "F",
+        "Y",
+        "UW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "20cbefb187bfca7166195a826ac1daaf2ef9600a9dc60b0e19791e1750b3fded",
+      "word": "regenerate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IY0",
+        "JH",
+        "EH1",
+        "N",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "284961c3d5e6134911bd5a710d21082b46d07feadf209052e39ce27b1eba5d01",
+      "word": "regenerate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY0",
+        "JH",
+        "EH1",
+        "N",
+        "ER0",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "6a71bd06a2628871236ea0e216c48df8aac7b5b2695b85e5d378793d1699c017",
+      "word": "reject",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IH0",
+        "JH",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "9c88df8f47be1fd8a1a27ec9db956410ff673b0e70ceb7825afa85ceebfa6e21",
+      "word": "reject",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "JH",
+        "EH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "7da455188066306ec9bd4b6f38b0b0e5a9de3d99e4c82685ee362b2dc91bb00f",
+      "word": "relay",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "L",
+        "EY2"
+      ]
+    },
+    {
+      "id": "f2bdd250d8ca3444f6feb1da1a881b131a67423ea2518aceda7a34c4c0533304",
+      "word": "relay",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IY2",
+        "L",
+        "EY1"
+      ]
+    },
+    {
+      "id": "c40e57015f771854edd4f398eadf875d06853260c4700addb305488b9c2e46e4",
+      "word": "resume",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "EH1",
+        "Z",
+        "AH0",
+        "M",
+        "EY2"
+      ]
+    },
+    {
+      "id": "f0b5944a65d4eaf4c458cfec3beec8c7f8ddb2ebf97a176fa412fdf6f1ebbdbb",
+      "word": "resume",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IY0",
+        "Z",
+        "UW1",
+        "M"
+      ]
+    },
+    {
+      "id": "5139d11145db3368fefcc3f59ddea19535185bfbb99121f41a486bf79cce8298",
+      "word": "rewrite",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "R",
+        "IY0",
+        "R",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "id": "beb9f3d7ec63cc3a2620b09539b7909f115997eaec514513e0e78cc184add889",
+      "word": "rewrite",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "R",
+        "IY1",
+        "R",
+        "AY2",
+        "T"
+      ]
+    },
+    {
+      "id": "1f79fa1155a02cbd33e6fca73e8e4b57c11852550a92ec74de5ed93bf600abc6",
+      "word": "segment",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "EH2",
+        "G",
+        "M",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "54f604014d0b48d0c5531917f994662531a240638409ca16643ceaae2ae975cb",
+      "word": "segment",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "EH1",
+        "G",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "bf5c372290bd41d9185ab8217a4a5512c9090614d695bc284ee3a0b59a1924e1",
+      "word": "separate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "EH1",
+        "P",
+        "ER0",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "ecab0e1e698081397eecbb00eb279a47c94306a58f4313aae4b939d5b888680a",
+      "word": "separate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "EH1",
+        "P",
+        "ER0",
+        "IH0",
+        "T"
+      ]
+    },
+    {
+      "id": "3e0ef853bba5b5ee5373dfddbc35297c77fa267a6c11923012a5d11a5d638011",
+      "word": "subject",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "AH0",
+        "B",
+        "JH",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "b03717d4c99f65418d4078e818d46a8f08db72a984d650103017111240336696",
+      "word": "subject",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "AH1",
+        "B",
+        "JH",
+        "IH0",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "57d7975bb05a96074dd0957083308d08ca36fd6bba35d3dfd66e6bbb6467f16d",
+      "word": "subordinate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "AH0",
+        "B",
+        "AO1",
+        "R",
+        "D",
+        "AH0",
+        "N",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "ceb51dd53ca8995afd071ccb2702db325ed707961693c2df2d51044433ddc9bc",
+      "word": "subordinate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "AH0",
+        "B",
+        "AO1",
+        "R",
+        "D",
+        "AH0",
+        "N",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "23552d7cefbf2da89c62294333fa142e59cbd84ed620ca7f74e7ce945ddeaf64",
+      "word": "supplement",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "AH1",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "AH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "ab0b9a0419062d5200659e0c1bf750f41771bafbe0c0063c5e9df34525b279d8",
+      "word": "supplement",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "AH1",
+        "P",
+        "L",
+        "AH0",
+        "M",
+        "EH0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "8de63f9dd02e3a52d98937651ccc7ac3f4415083913a4a9e047369cc4f8a6c6d",
+      "word": "surmise",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "ER0",
+        "M",
+        "AY1",
+        "Z"
+      ]
+    },
+    {
+      "id": "d5635bc56e8951e691817d0e12f0c2d3b570a531ce44cda036a8eec79286fec9",
+      "word": "surmise",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "ER1",
+        "M",
+        "AY0",
+        "Z"
+      ]
+    },
+    {
+      "id": "725312f89c7ccdfe3c91b69133a5b07b3344663ca61fbf33b7c04c1e750523d5",
+      "word": "survey",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "ER0",
+        "V",
+        "EY1"
+      ]
+    },
+    {
+      "id": "7af7f6f8250aab5b853feec51a483de1bce68f34f7bdbc400e1335e1fd302e83",
+      "word": "survey",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "ER1",
+        "V",
+        "EY2"
+      ]
+    },
+    {
+      "id": "4157db51ad64b0b68fded897f0ad76bbb56450592517f25070c1224048d6c07d",
+      "word": "suspect",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "S",
+        "AH1",
+        "S",
+        "P",
+        "EH2",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "f63a71d28321d2b26483d17286d11dc403694fa81ff57970633643e5346add68",
+      "word": "suspect",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "S",
+        "AH0",
+        "S",
+        "P",
+        "EH1",
+        "K",
+        "T"
+      ]
+    },
+    {
+      "id": "761697fa3ca1bfccd68753f671a7d7550a30c17ff62d67e8bbe237b91f629031",
+      "word": "the",
+      "label": "",
+      "referencePhones": [
+        "DH",
+        "IY1"
+      ]
+    },
+    {
+      "id": "e1f56be4423e2d0514c608d1f0048580a96ad56fc754238b2e6390a693b44b69",
+      "word": "torment",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "T",
+        "AO1",
+        "R",
+        "M",
+        "EH2",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "f083e1d8232f9355d7576a2330781341619d15a1f442915533104a588da634d4",
+      "word": "torment",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "T",
+        "AO0",
+        "R",
+        "M",
+        "EH1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "28f6ef098cb6be38bebc77cbb2f5daa5fe3369c81074918b20eca1111af015fe",
+      "word": "transfer",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE1",
+        "N",
+        "S",
+        "F",
+        "ER0"
+      ]
+    },
+    {
+      "id": "6f1988fbb066d30c9df6bfc4220c79ea6db06fb70a6f4e4023555d8193323f2c",
+      "word": "transfer",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE0",
+        "N",
+        "S",
+        "F",
+        "ER1"
+      ]
+    },
+    {
+      "id": "550c3e0c75de3b24033f249113298639084184a2fdd90c4cfbe664031b15c8b9",
+      "word": "transplant",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE0",
+        "N",
+        "S",
+        "P",
+        "L",
+        "AE1",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "740060840794b292d082e6c4ef61a10582a98a9a2ee5b95448affffa5912c54d",
+      "word": "transplant",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE1",
+        "N",
+        "S",
+        "P",
+        "L",
+        "AE0",
+        "N",
+        "T"
+      ]
+    },
+    {
+      "id": "876a913b8bb34f3d2bd2bdbb78945e1453db23c86be1183f2d8073f5e1770bdf",
+      "word": "transport",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE1",
+        "N",
+        "S",
+        "P",
+        "AO0",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "9468f7ab546737c13bf763dfd9454f968cadf618cad3069707a15def43892692",
+      "word": "transport",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "T",
+        "R",
+        "AE0",
+        "N",
+        "S",
+        "P",
+        "AO1",
+        "R",
+        "T"
+      ]
+    },
+    {
+      "id": "205549800b63644be225b84fd69322d63cf0da49494f5c4d63f1914261fdc8aa",
+      "word": "underestimate",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH1",
+        "N",
+        "D",
+        "ER0",
+        "EH1",
+        "S",
+        "T",
+        "AH0",
+        "M",
+        "AH0",
+        "T"
+      ]
+    },
+    {
+      "id": "ee6d7c0e649c054a1e00e3794d81be09cb43b6a392c57c15e2ceff8abec63e66",
+      "word": "underestimate",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH1",
+        "N",
+        "D",
+        "ER0",
+        "EH1",
+        "S",
+        "T",
+        "AH0",
+        "M",
+        "EY2",
+        "T"
+      ]
+    },
+    {
+      "id": "2130e208be62d8600457b661e1eb6744a6b3d92b844de080fd8475ac30b829a0",
+      "word": "underline",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH1",
+        "N",
+        "D",
+        "ER0",
+        "L",
+        "AY2",
+        "N"
+      ]
+    },
+    {
+      "id": "d9ea693fe42533a82cfbe530c5fa77501b25d370cd6dffeacaa633ee57d59536",
+      "word": "underline",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH2",
+        "N",
+        "D",
+        "ER0",
+        "L",
+        "AY1",
+        "N"
+      ]
+    },
+    {
+      "id": "83f9fb4154b2f2e6da52eafc6efde4551308d02c4f2d2f6e776cb97adb518044",
+      "word": "undertaking",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH2",
+        "N",
+        "D",
+        "ER0",
+        "T",
+        "EY1",
+        "K",
+        "IH0",
+        "NG"
+      ]
+    },
+    {
+      "id": "fe689930e01d6405de267ea02df7e942ccdabb8c46923dcf77b545281f565f78",
+      "word": "undertaking",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH1",
+        "N",
+        "D",
+        "ER0",
+        "T",
+        "EY2",
+        "K",
+        "IH0",
+        "NG"
+      ]
+    },
+    {
+      "id": "cb2a7951a8f569fd0f9dbf5eed8ad5bf086daf6f0bc449fd33d13d8e09d86d68",
+      "word": "upgrade",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH1",
+        "P",
+        "G",
+        "R",
+        "EY0",
+        "D"
+      ]
+    },
+    {
+      "id": "dd35eba0020c89c64c95a32707493ea1c189b7ca82759d7e466094a9dc71afe1",
+      "word": "upgrade",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "G",
+        "R",
+        "EY1",
+        "D"
+      ]
+    },
+    {
+      "id": "8fefd6339c825cb59c07325c8ddcd2b527e6166d4dfac27ab813d3911e94d95b",
+      "word": "upset",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "AH0",
+        "P",
+        "S",
+        "EH1",
+        "T"
+      ]
+    },
+    {
+      "id": "f8049a6b8411bf87e1fd938913432d692025d7d8103c2dd1eb20b5c2a7ad6954",
+      "word": "upset",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "AH1",
+        "P",
+        "S",
+        "EH2",
+        "T"
+      ]
+    },
+    {
+      "id": "95bc33e7e90d5048706cb88dfb13340052dd7039a3c8fdaa78795be379260138",
+      "word": "use",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "Y",
+        "UW1",
+        "S"
+      ]
+    },
+    {
+      "id": "dbecc8da6bc08c5971b9219e0f93664588733696af3c9e2b6a965e018fb781d4",
+      "word": "use",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "Y",
+        "UW1",
+        "Z"
+      ]
+    },
+    {
+      "id": "413f48a863cd0e0d47e50972ef20bf28a5bc4acb69e5849a56828ad695507b92",
+      "word": "used",
+      "label": "Pronunciation 1",
+      "referencePhones": [
+        "Y",
+        "UW1",
+        "Z",
+        "D"
+      ]
+    },
+    {
+      "id": "45ebf17f1b6b6fc1eadced1cf2fe65cc9cbf60f9d916febe25d1b81b97bf30bd",
+      "word": "used",
+      "label": "Pronunciation 2",
+      "referencePhones": [
+        "Y",
+        "UW1",
+        "S",
+        "T"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# FILE: src/coach-engine/requirements.txt
+fastapi
+uvicorn[standard]
+torch
+accelerate
+sentencepiece
+transformers==5.3.0
+httpx
+python-multipart
+zstandard
+espeakng-loader
+phonemizer
+imageio-ffmpeg

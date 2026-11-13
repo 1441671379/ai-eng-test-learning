@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "source": "Wiktionary / Wikimedia Commons",
+  "builtAt": "2026-10-24T06:13:10.349907+00:00",
+  "targetWords": 5308,
+  "wordsWithAudio": 5258,
+  "wordsWithLocalAudio": 5,
+  "recordings": 6834,
+  "cachedRecordings": 5,
+  "bytes": 119408,
+  "heteronyms": [
+    "bow",
+    "close",
+    "conduct",
+    "content",
+    "contract",
+    "desert",
+    "export",
+    "import",
+    "invalid",
+    "lead",
+    "live",
+    "minute",
+    "object",
+    "permit",
+    "present",
+    "produce",
+    "progress",
+    "project",
+    "read",
+    "record",
+    "refuse",
+    "subject",
+    "tear",
+    "wind"
+  ],
+  "coverage": {
+    "cet4": {
+      "total": 4027,
+      "matched": 3991
+    },
+    "cet6": {
+      "total": 1664,
+      "matched": 1646
+    },
+    "sample": {
+      "total": 40,
+      "matched": 39
+    }
+  },
+  "indexSource": {
+    "url": "https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl.gz",
+    "lastModified": "Wed, 21 Oct 2026 13:58:58 GMT",
+    "downloadedAt": "2026-10-24T05:48:37.240167+00:00",
+    "sha256": "cabb3a13b7179d5f8c5909e06b1dcd2e2ae6465d05f35de56509a5b4e2bf0a49"
+  },
+  "catalogSha256": "3941041f520df44abb2ff7810efc54abb36bd474aead12f3142bc968782a609a"
+}

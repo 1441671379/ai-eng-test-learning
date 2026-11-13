@@ -1,0 +1,62 @@
+[
+  {
+    "id": "primary",
+    "name": "小学英语 · 三至六年级",
+    "level": "小学",
+    "count": 811,
+    "description": "人教版小学三至六年级八册合并去重。",
+    "sources": [
+      "https://github.com/RealKai42/qwerty-learner"
+    ],
+    "license": "GPL-3.0；保留源仓库许可证，数据仅作本地学习",
+    "sha256": "23b140d8d068da3ac770350437cd7e1a52b91199da39e609eaa3ac3a247d0842"
+  },
+  {
+    "id": "junior",
+    "name": "初中英语",
+    "level": "初中",
+    "count": 1985,
+    "description": "公开分阶段词汇表，含中文释义。",
+    "sources": [
+      "https://github.com/KyleBing/english-vocabulary"
+    ],
+    "license": "BSD-3-Clause",
+    "sha256": "73b9e0e08bbb9c202f04173b4f92cb7c4b61c53eea24ba131f138f2c65e95544"
+  },
+  {
+    "id": "senior",
+    "name": "高中英语",
+    "level": "高中",
+    "count": 3743,
+    "description": "公开分阶段词汇表，含中文释义。",
+    "sources": [
+      "https://github.com/KyleBing/english-vocabulary"
+    ],
+    "license": "BSD-3-Clause",
+    "sha256": "6012caa2730bfcdfc8bf21a45738dbdbf51731324d19c6e80d305608ef07e925"
+  },
+  {
+    "id": "ielts7",
+    "name": "雅思 7 目标 · 核心词汇",
+    "level": "雅思 7",
+    "count": 3575,
+    "description": "雅思核心词汇训练；目标标签不是官方分数词表。",
+    "sources": [
+      "https://github.com/RealKai42/qwerty-learner"
+    ],
+    "license": "GPL-3.0；保留源仓库许可证",
+    "sha256": "500cb0597a7e2e33c4dccee1ddbb540a0a4f570ec62cd2caf5663353ead3a1f6"
+  },
+  {
+    "id": "ielts85",
+    "name": "雅思 8.5 目标 · 拓展词汇",
+    "level": "雅思 8.5",
+    "count": 5452,
+    "description": "更广的雅思拓展词汇；建议结合核心词书与实际语境学习，不保证考试分数。",
+    "sources": [
+      "https://github.com/RealKai42/qwerty-learner"
+    ],
+    "license": "GPL-3.0；保留源仓库许可证",
+    "sha256": "d900cc64945840bc6d90d93794ba4d8bc45a9fdd18d444ffa06731edc9df628c"
+  }
+]

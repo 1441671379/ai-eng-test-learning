@@ -1,0 +1,19 @@
+.content{width:100%}
+.content p{line-height:1.7}
+.configSection{border-top:1px solid var(--piano-line);padding-top:16px}
+.configForm{display:grid;gap:12px}
+.configFields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.configFields label{min-width:0}
+.configFields input{width:100%;min-width:0}
+.reference{font-size:19px;overflow-wrap:anywhere}
+.identifier{overflow-wrap:anywhere;margin-block:12px!important;font-variant-numeric:tabular-nums}
+.code{display:block;overflow-wrap:anywhere;margin-block:12px;font-size:12px}
+.player{display:block;width:100%;max-width:500px;height:40px;margin-block:12px}
+.tableScroll{overflow-x:auto;margin-block:16px}
+.table{width:100%;border-collapse:collapse;text-align:left;font-variant-numeric:tabular-nums;font-size:14px}
+.table caption{text-align:left;font-size:12px;color:var(--piano-muted);margin-bottom:10px;line-height:1.7}
+.table th,.table td{padding:10px 14px 10px 0;border-bottom:1px solid var(--piano-line);vertical-align:top;min-width:90px}
+.table th{font-weight:600}
+.raw{white-space:pre-wrap;overflow-wrap:anywhere;max-height:360px;overflow:auto;font-size:12px;line-height:1.7;padding:12px;background:var(--piano-soft);margin-top:12px}
+@media(max-width:640px){.table{font-size:12px}.table th,.table td{min-width:80px}.content .reference{font-size:17px}}
+@media(max-width:760px){.configFields{grid-template-columns:minmax(0,1fr)}}

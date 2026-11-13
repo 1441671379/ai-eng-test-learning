@@ -1,0 +1,16 @@
+{
+  "provider": "kokoro",
+  "endpoint": "http://127.0.0.1:9881",
+  "model_dir": "models",
+  "artifact_directory": "audio",
+  "selection_file": "selected-voice.json",
+  "default_voice": "af_heart",
+  "speed": 1.0,
+  "device": "auto",
+  "voices": {
+    "af_heart": {"label": "Heart · US female", "version": "Kokoro 1.0", "voice": {"voice_file": "models/voices/af_heart.pt", "lang_code": "a"}},
+    "am_puck": {"label": "Puck · US male", "version": "Kokoro 1.0", "voice": {"voice_file": "models/voices/am_puck.pt", "lang_code": "a"}},
+    "bf_emma": {"label": "Emma · UK female", "version": "Kokoro 1.0", "voice": {"voice_file": "models/voices/bf_emma.pt", "lang_code": "b"}},
+    "bm_george": {"label": "George · UK male", "version": "Kokoro 1.0", "voice": {"voice_file": "models/voices/bm_george.pt", "lang_code": "b"}}
+  }
+}

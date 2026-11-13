@@ -1,0 +1,497 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-21T12:39:53.808Z",
+  "title": "Design System: 英语学习空间 / English Learning",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "key-black": {
+        "role": "primary",
+        "displayName": "Key Black",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "control-ink": {
+        "role": "neutral",
+        "displayName": "Control Ink",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "control-border": {
+        "role": "neutral",
+        "displayName": "Control Border",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "control-state": {
+        "role": "neutral",
+        "displayName": "Control State",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "primary-fill": {
+        "role": "primary",
+        "displayName": "Primary Fill",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Primary Hover",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "sidebar-text": {
+        "role": "neutral",
+        "displayName": "Sidebar Text",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "sidebar-muted": {
+        "role": "neutral",
+        "displayName": "Sidebar Muted",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "sidebar-rule": {
+        "role": "neutral",
+        "displayName": "Sidebar Rule",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "sidebar-hover": {
+        "role": "neutral",
+        "displayName": "Sidebar Hover",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "prose-ink": {
+        "role": "neutral",
+        "displayName": "Prose Ink",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(27% 0 0)",
+          "oklch(38% 0 0)",
+          "oklch(50% 0 0)",
+          "oklch(61% 0 0)",
+          "oklch(73% 0 0)",
+          "oklch(84% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Home invitation to choose a practice."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "English article title, above provenance and tools."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Reading and Speaking route headings."
+      },
+      "section": {
+        "displayName": "Section",
+        "purpose": "Section, panel, and analysis item headings."
+      },
+      "question": {
+        "displayName": "Question",
+        "purpose": "The current English question prompt."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Controls and the shared interface baseline."
+      },
+      "reading": {
+        "displayName": "Reading",
+        "purpose": "Article prose with generous leading and an adjustable text size."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Metadata, helper copy, paragraph numbers, and audio timing."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "skill-inversion",
+        "value": "clip-path 220ms cubic-bezier(.4, 0, .2, 1)",
+        "purpose": "Reveal home skill inversion from left to right on fine-pointer hover or keyboard focus. Applied only with no reduced-motion preference."
+      },
+      {
+        "name": "button-tone",
+        "value": "background-color 120ms ease",
+        "purpose": "Filled and outlined button tone changes. Applied only with no reduced-motion preference."
+      },
+      {
+        "name": "evidence-location",
+        "value": "smooth / auto",
+        "purpose": "Evidence location scrolls smoothly unless reduced motion is requested; question switching focuses and reveals the new prompt with automatic scrolling."
+      },
+      {
+        "name": "listening-option-tone",
+        "value": "background-color 120ms ease, border-color 120ms ease",
+        "purpose": "Listening choice hover and selection tone changes only without reduced motion."
+      },
+      {
+        "name": "listening-columns",
+        "value": "30fps maximum; scaleY(.035) rest; transform 180ms cubic-bezier(.23,1,.32,1) on inactive columns",
+        "purpose": "48 columns use actual 0–8kHz analyser data. Direct transforms stop when paused, compact, removed, reduced-motion, offscreen or hidden; no synthetic motion."
+      },
+      {
+        "name": "listening-transcript",
+        "value": "transform/opacity 240ms entrance, 180ms exit; cubic-bezier(.23,1,.32,1) transform easing",
+        "purpose": "Native nonmodal popover enters from the right. Keyboard opening and reduced-motion changes are immediate; native dismissal and focus restoration remain available."
+      },
+      {
+        "name": "speaking-entry-tone",
+        "value": "background-color 120ms ease, color 120ms ease",
+        "purpose": "Equal Speaking overview entries invert on hover or keyboard focus. Applied only without reduced motion."
+      },
+      {
+        "name": "navigation-key",
+        "value": "clip-path 160ms cubic-bezier(.23,1,.32,1)",
+        "purpose": "Pointer route selection wipes the white navigation key from left to right, with inverted labels and a focus ring above the key. Keyboard and reduced-motion changes are immediate."
+      },
+      {
+        "name": "button-press",
+        "value": "translateY(1px); 100ms press / 160ms release; cubic-bezier(.23,1,.32,1)",
+        "purpose": "Shared Piano buttons acknowledge a pointer press. Position stays unchanged for keyboard activation and reduced motion; existing button tone remains."
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "transform 220ms cubic-bezier(.23,1,.32,1); opacity 160ms ease; discrete display exit",
+        "purpose": "The mobile rail and backdrop enter/exit without delaying interaction or focus. Closed surfaces are inert immediately. Keyboard/reduced-motion changes and unsupported browsers use immediate fallback."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-gutters",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1150px"
+      },
+      {
+        "name": "stacked-reader",
+        "value": "940px"
+      },
+      {
+        "name": "navigation-drawer",
+        "value": "650px"
+      },
+      {
+        "name": "short-desktop-height",
+        "value": "800px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled action for continuing, generating, or submitting practice.",
+      "html": "<button class=\"ds-btn-primary\">Continue reading <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-btn-primary{display:inline-flex;align-items:center;justify-content:space-between;gap:18px;min-height:40px;border:1px solid #151515;border-radius:0;padding:9px 14px;background:#151515;color:#fff;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;cursor:pointer;}.ds-btn-primary:hover{background:#333;}.ds-btn-primary:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-btn-primary:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:no-preference){.ds-btn-primary{transition:background-color 120ms ease;}}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined action for opening panels, moving through questions, and saving a word.",
+      "html": "<button class=\"ds-btn-secondary\">Next question <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-btn-secondary{display:inline-flex;align-items:center;justify-content:space-between;gap:18px;min-height:40px;border:1px solid #aaa;border-radius:0;padding:9px 14px;background:#fff;color:#222;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;cursor:pointer;}.ds-btn-secondary:hover{background:#f2f2f2;}.ds-btn-secondary:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-btn-secondary:disabled{opacity:.5;cursor:not-allowed;}@media(prefers-reduced-motion:no-preference){.ds-btn-secondary{transition:background-color 120ms ease;}}"
+    },
+    {
+      "name": "Text Action",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Underlined utility action used beside content and evidence.",
+      "html": "<button class=\"ds-btn-text\">Locate in article</button>",
+      "css": ".ds-btn-text{display:inline-flex;align-items:center;gap:10px;min-height:32px;padding:4px 0;border:0;background:transparent;color:#222;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;text-decoration:underline;text-underline-offset:4px;cursor:pointer;}.ds-btn-text:hover{color:#222;}.ds-btn-text:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-btn-text:disabled{cursor:not-allowed;}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Square, clearly labeled entry field shared by generation and reading answers.",
+      "html": "<label class=\"ds-field-label\">What would you like to read?<input class=\"ds-field\" placeholder=\"For example: how green spaces affect quality of life\"></label>",
+      "css": ".ds-field-label{display:flex;flex-direction:column;gap:8px;color:#161616;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;}.ds-field{width:100%;min-height:42px;padding:9px 12px;border:1px solid #aaa;border-radius:0;background:#fff;color:#222;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;accent-color:#161616;caret-color:#161616;}.ds-field::placeholder{color:#666;opacity:1;}.ds-field:hover{border-color:#aaa;}.ds-field:focus-visible{outline:2px solid currentColor;outline-offset:2px;}"
+    },
+    {
+      "name": "Sidebar Navigation",
+      "kind": "nav",
+      "refersTo": "navigation-item",
+      "description": "Black rail with a full-width white key for the current location.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Learning modules\"><a class=\"ds-nav-home\" href=\"#home\">Home</a><div class=\"ds-nav-rule\"></div><a href=\"#listening\">Listening</a><a href=\"#speaking\">Speaking</a><a href=\"#reading\" aria-current=\"page\">Reading</a><a href=\"#writing\">Writing</a><a href=\"#vocabulary\">Vocabulary</a></nav>",
+      "css": ".ds-nav{width:208px;padding:18px 0;background:#111;color:#fff;font-family:\"Segoe UI\", \"Microsoft YaHei\", sans-serif;}.ds-nav>a{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:48px;padding:10px 24px;font-size:16px;line-height:1.5;color:#ddd;text-decoration:none;}.ds-nav>a:hover{background:#242424;}.ds-nav>a[aria-current=\"page\"]{color:#111;background:#fff;}.ds-nav>a:focus-visible{outline:2px solid currentColor;outline-offset:-4px;}.ds-nav>.ds-nav-home{min-height:42px;font-size:14px;}.ds-nav-rule{height:1px;background:#3c3c3c;margin:14px 24px 16px;}"
+    },
+    {
+      "name": "Home Skill Entry",
+      "kind": "custom",
+      "refersTo": "skill-entry",
+      "description": "One of five equal white rows; temporary inversion is the signature interaction.",
+      "html": "<a class=\"ds-skill-entry\" href=\"#reading\"><b>读</b><span class=\"ds-skill-description\">围绕感兴趣的话题，读懂文章<small>Reading</small></span><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-skill-entry{position:relative;isolation:isolate;display:flex;align-items:center;gap:24px;min-height:88px;padding:18px 16px;border-bottom:1px solid #d6d6d6;color:#222;background:#fff;font-family:\"Segoe UI\", \"Microsoft YaHei\", sans-serif;line-height:1.5;text-decoration:none;}.ds-skill-entry::after{content:\"\";position:absolute;inset:0;z-index:1;pointer-events:none;background:#fff;mix-blend-mode:difference;clip-path:inset(0 100% 0 0);}.ds-skill-entry:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-skill-entry:focus-visible::after{clip-path:inset(0);}.ds-skill-entry b{min-width:58px;font-size:26px;font-weight:500;}.ds-skill-description{font-size:15px;}.ds-skill-description small{display:block;font-size:12px;color:#595959;margin-top:4px;}.ds-skill-entry>svg{flex:none;margin-left:auto;}@media(hover:hover) and (pointer:fine){.ds-skill-entry:hover::after{clip-path:inset(0);}}@media(prefers-reduced-motion:no-preference){.ds-skill-entry::after{transition:clip-path 220ms cubic-bezier(.4,0,.2,1);}}"
+    },
+    {
+      "name": "Question Steps",
+      "kind": "nav",
+      "refersTo": "question-step",
+      "description": "Square navigation exposes current and answered question states.",
+      "html": "<nav class=\"ds-steps\" aria-label=\"Questions and evidence\"><button aria-current=\"step\" data-answered=\"true\">1</button><button data-answered=\"true\">2</button><button>3</button><button>4</button></nav>",
+      "css": ".ds-steps{display:flex;flex-wrap:wrap;gap:6px;font-family:\"Segoe UI\", \"Microsoft YaHei\", sans-serif;}.ds-steps button{display:inline-flex;align-items:center;justify-content:center;min-height:32px;min-width:32px;padding:4px 8px;font:13px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;border:1px solid #d6d6d6;background:#fff;color:#444;cursor:pointer;}.ds-steps button[data-answered=\"true\"]{border-bottom-color:#111;}.ds-steps button[aria-current=\"step\"]{background:#161616;color:#fff;border-color:#161616;}.ds-steps button:hover{color:#444;}.ds-steps button[aria-current=\"step\"]:hover{color:#fff;}.ds-steps button:focus-visible{outline:2px solid currentColor;outline-offset:4px;}"
+    },
+    {
+      "name": "Answer Option",
+      "kind": "custom",
+      "refersTo": "answer-option",
+      "description": "Native radio choice in a bordered row; selection uses tone and a stronger boundary.",
+      "html": "<div class=\"ds-options\"><label class=\"ds-answer-option\"><input type=\"radio\" name=\"ds-answer\" checked><span>A. Access to green spaces</span></label><label class=\"ds-answer-option\"><input type=\"radio\" name=\"ds-answer\"><span>B. Higher stress levels</span></label></div>",
+      "css": ".ds-options{display:flex;flex-direction:column;gap:9px;}.ds-answer-option{display:flex;align-items:flex-start;gap:11px;border:1px solid #d6d6d6;padding:12px;min-height:50px;color:#444;font:15px/1.55 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;cursor:pointer;}.ds-answer-option input{accent-color:#161616;width:16px;height:16px;flex:none;margin-top:4px;}.ds-answer-option:has(input:checked){border-color:#111;background:#f2f2f2;color:#111;}.ds-answer-option:hover{border-color:#d6d6d6;}.ds-answer-option:has(input:checked):hover{border-color:#111;}.ds-answer-option input:focus-visible{outline:2px solid currentColor;outline-offset:2px;}"
+    },
+    {
+      "name": "Reading Audio",
+      "kind": "custom",
+      "refersTo": "audio-play",
+      "description": "Line-separated persistent desktop audio row with native seek and speed controls.",
+      "html": "<section class=\"ds-audio\" aria-label=\"Listen to article\"><button class=\"ds-audio-play\" aria-label=\"Play article\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m9 5 11 7-11 7Z\"/></svg></button><div class=\"ds-audio-label\"><strong>Listen to article</strong><small>GPT-SoVITS</small></div><div class=\"ds-audio-timeline\"><span>0:00</span><input type=\"range\" min=\"0\" max=\"150\" value=\"0\" aria-label=\"Audio position\"><span>2:30</span></div><select class=\"ds-audio-speed\" aria-label=\"Playback speed\"><option>0.75×</option><option selected>1×</option><option>1.25×</option><option>1.5×</option><option>2×</option></select></section>",
+      "css": ".ds-audio{display:flex;align-items:center;gap:14px;padding-top:14px;border-top:1px solid #111;color:#161616;background:#fff;font:14px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;}.ds-audio-play{display:grid;place-items:center;width:38px;height:38px;flex:none;border:0;border-radius:0;background:#111;color:#fff;cursor:pointer;}.ds-audio-play:hover{background:#111;}.ds-audio-play:disabled{opacity:.5;cursor:not-allowed;}.ds-audio-label{min-width:70px;}.ds-audio-label strong{display:block;font-size:14px;font-weight:500;}.ds-audio-label small{display:block;max-width:190px;font-size:12px;color:#595959;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}.ds-audio-timeline{display:flex;align-items:center;gap:12px;min-width:0;flex:1;color:#595959;font-size:12px;font-variant-numeric:tabular-nums;}.ds-audio-timeline input{width:100%;min-width:45px;height:22px;padding:0;accent-color:#111;background:transparent;}.ds-audio-speed{width:auto;min-height:32px;padding:4px 7px;border:1px solid #aaa;border-radius:0;background:#fff;color:#222;font:13px/1.5 \"Segoe UI\", \"Microsoft YaHei\", sans-serif;}.ds-audio button:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-audio input:focus-visible,.ds-audio select:focus-visible{outline:2px solid currentColor;outline-offset:2px;}@media(max-width:940px){.ds-audio{flex-wrap:wrap;}.ds-audio-timeline{min-width:160px;}}"
+    },
+    {
+      "name": "Listening Audio & Transcript",
+      "kind": "custom",
+      "refersTo": "listening-play",
+      "description": "Static settled 48-column player preview and an operable native nonmodal transcript popover. The app supplies live analysis, rewind, speed and keyboard-immediate opening.",
+      "html": "<section class=\"ds-listening-player\" aria-label=\"Listening audio\"><div class=\"ds-listening-visual\" aria-label=\"Sound columns at rest\"><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i><i aria-hidden=\"true\"></i></div><div class=\"ds-listening-controls\"><button class=\"ds-listening-play\" aria-label=\"Play audio\" disabled><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" aria-hidden=\"true\"><path d=\"m9 5 11 7-11 7Z\"/></svg></button><strong>Listening audio</strong><span class=\"ds-listening-time\">0:00</span><input type=\"range\" min=\"0\" max=\"108\" value=\"0\" disabled aria-label=\"Audio position\"><span class=\"ds-listening-time\">1:48</span><button class=\"ds-listening-transcript-button\" popovertarget=\"ds-listening-transcript-preview\" aria-haspopup=\"dialog\">View transcript</button></div><small class=\"ds-listening-preview-note\">Settled-column preview · live analysis requires audio playback in the app.</small></section><aside id=\"ds-listening-transcript-preview\" class=\"ds-listening-transcript\" popover=\"auto\" role=\"dialog\" aria-labelledby=\"ds-listening-transcript-title\"><header class=\"ds-listening-transcript-heading\"><h2 id=\"ds-listening-transcript-title\">Transcript</h2><button class=\"ds-listening-close\" popovertarget=\"ds-listening-transcript-preview\" popovertargetaction=\"hide\" aria-label=\"Close transcript\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" aria-hidden=\"true\"><path d=\"m6 6 12 12M18 6 6 18\"/></svg></button></header><div class=\"ds-listening-paragraph\"><span>1</span><p>A: Hey, have you noticed how our campus has been changing over the past few years?</p></div><div class=\"ds-listening-paragraph ds-listening-highlight\"><span>2</span><p>B: There is a new initiative for more democratic decision-making on campus.</p></div></aside>",
+      "css": ".ds-listening-player{position:sticky;top:0;padding:10px 0 14px;background:#fff;color:#161616;border-top:2px solid #161616;border-bottom:1px solid #d6d6d6;font:14px/1.5 \"Segoe UI\",\"Microsoft YaHei\",sans-serif;}.ds-listening-visual{display:flex;align-items:center;justify-content:space-between;gap:5px;height:64px;max-width:920px;padding:6px 16px;}.ds-listening-visual i{display:block;flex:1;min-width:1px;max-width:8px;height:56px;background:#161616;transform:scaleY(.035);transform-origin:center;}.ds-listening-visual i:nth-child(3n + 2){background:#777;}.ds-listening-controls{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-top:4px;}.ds-listening-play{display:grid;place-items:center;flex:none;width:42px;height:42px;border:0;border-radius:0;background:#111;color:#fff;}.ds-listening-play:disabled{opacity:.4;cursor:not-allowed;}.ds-listening-controls strong{font-size:13px;font-weight:600;}.ds-listening-controls input{flex:1;min-width:60px;accent-color:#161616;}.ds-listening-time{font-size:12px;color:#595959;font-variant-numeric:tabular-nums;}.ds-listening-transcript-button,.ds-listening-close{min-height:36px;border:0;border-radius:0;background:#fff;color:#222;font:14px/1.5 \"Segoe UI\",\"Microsoft YaHei\",sans-serif;cursor:pointer;}.ds-listening-transcript-button{text-decoration:underline;text-underline-offset:4px;}.ds-listening-transcript-button:hover,.ds-listening-close:hover{background:#f2f2f2;}.ds-listening-preview-note{display:block;margin-top:12px;font-size:12px;color:#595959;}.ds-listening-transcript{box-sizing:border-box;inset:52px 0 0 auto;margin:0;width:min(560px,100vw);max-width:none;height:calc(100dvh - 52px);max-height:none;padding:0 28px 24px;border:0;border-left:1px solid #aaa;background:#fff;color:#161616;overflow:auto;font:14px/1.5 \"Segoe UI\",\"Microsoft YaHei\",sans-serif;}.ds-listening-transcript-heading{position:sticky;top:0;display:flex;align-items:flex-start;justify-content:space-between;gap:16px;padding:24px 0 16px;border-bottom:1px solid #d6d6d6;background:#fff;}.ds-listening-transcript-heading h2{margin:0;font-size:22px;font-weight:600;}.ds-listening-close{display:grid;place-items:center;width:36px;}.ds-listening-paragraph{display:grid;grid-template-columns:20px minmax(0,1fr);gap:12px;padding:16px 0;}.ds-listening-paragraph>span{padding-top:5px;font-size:12px;color:#595959;font-variant-numeric:tabular-nums;}.ds-listening-paragraph p{margin:0;font-size:17px;line-height:1.85;}.ds-listening-highlight{background:#f2f2f2;outline:1px solid #aaa;outline-offset:5px;}.ds-listening-transcript-button:focus-visible,.ds-listening-close:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-listening-controls input:focus-visible{outline:2px solid currentColor;outline-offset:2px;}@media(prefers-reduced-motion:no-preference){.ds-listening-transcript{opacity:0;transform:translateX(100%);transition:transform 180ms cubic-bezier(.23,1,.32,1),opacity 180ms ease,display 180ms allow-discrete,overlay 180ms allow-discrete;}.ds-listening-transcript:popover-open{opacity:1;transform:translateX(0);transition-duration:240ms;}@starting-style{.ds-listening-transcript:popover-open{opacity:0;transform:translateX(100%);}}.ds-listening-transcript[data-keyboard=\"true\"]{transition:none;}}@media(prefers-reduced-motion:reduce){.ds-listening-visual{display:none;}}@media(max-width:650px){.ds-listening-visual{gap:3px;padding-inline:0;}.ds-listening-controls input{flex-basis:55%;}.ds-listening-transcript{width:100vw;max-width:none;padding-inline:20px;}.ds-listening-paragraph p{font-size:16px;}}"
+    },
+    {
+      "name": "Speaking Word Evidence",
+      "kind": "custom",
+      "description": "Illustrative static inline word evidence: matching, ownership, confidence and target/recognized arrays stay separate. In the app, the optional per-phone operations disclosure is hidden until enabled in Speaking feedback display settings; this illustrative snippet shows the enabled state.",
+      "html": "<section class=\"ds-speaking-evidence\" aria-label=\"Illustrative pronunciation evidence\"><div class=\"ds-speaking-word\"><h3 lang=\"en\">features</h3><span>基本错误</span></div><p class=\"ds-speaking-note\">词典基础音标 · 学习参考</p><p class=\"ds-speaking-note\" lang=\"en\">US /ˈfiːtʃərz/ · UK /ˈfiːtʃəz/</p><dl class=\"ds-speaking-metrics\"><div><dt>音素匹配率</dt><dd>40%</dd></div><div><dt>单词归属确定性</dt><dd>归属唯一</dd></div><div><dt>整词识别置信度</dt><dd>88%</dd></div></dl><div class=\"ds-speaking-phones\"><div><h4>目标音素</h4><p lang=\"en\">f iː tʃ ə z</p></div><div><h4>归到这个词的实际音素</h4><p lang=\"en\">f ɪ ʃ ə</p></div></div><p class=\"ds-speaking-note\">识别置信度仅作提示，未参与颜色判定。</p><details><summary>逐音素配对与置信度</summary><table class=\"ds-speaking-table\"><caption>示例值 · 识别置信度不等于发音准确率。缺失数据以 — 显示。</caption><thead><tr><th scope=\"col\">目标</th><th scope=\"col\">识别</th><th scope=\"col\">配对</th><th scope=\"col\">识别置信度</th></tr></thead><tbody><tr><td>f</td><td>f</td><td>匹配</td><td>88%</td></tr><tr><td>iː</td><td>ɪ</td><td>替换</td><td>88%</td></tr><tr><td>tʃ</td><td>ʃ</td><td>替换</td><td>88%</td></tr><tr><td>ə</td><td>ə</td><td>匹配</td><td>88%</td></tr><tr><td>z</td><td>—</td><td>缺音</td><td>—</td></tr></tbody></table></details></section>",
+      "css": ".ds-speaking-evidence{padding:16px 0;border-block:1px solid #d6d6d6;background:#fff;color:#161616;font:14px/1.5 \"Segoe UI\",\"Microsoft YaHei\",sans-serif;}.ds-speaking-word{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;}.ds-speaking-word h3{margin:0;font-size:19px;font-weight:600;}.ds-speaking-word>span{color:#a6540c;}.ds-speaking-note{margin:8px 0;font-size:12px;line-height:1.75;color:#595959;}.ds-speaking-metrics{display:flex;gap:24px;flex-wrap:wrap;margin:12px 0;}.ds-speaking-metrics dt{font-size:12px;color:#595959;}.ds-speaking-metrics dd{margin:3px 0 0;font-weight:600;font-variant-numeric:tabular-nums;}.ds-speaking-phones{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin:14px 0;}.ds-speaking-phones h4{margin:0;font-size:14px;font-weight:600;}.ds-speaking-phones p{margin:5px 0 0;font-size:19px;line-height:1.7;overflow-wrap:anywhere;}.ds-speaking-evidence summary{min-height:32px;padding:5px 0;text-decoration:underline;text-underline-offset:4px;cursor:pointer;}.ds-speaking-evidence summary:hover{background:#f2f2f2;}.ds-speaking-evidence summary:focus-visible{outline:2px solid currentColor;outline-offset:4px;}.ds-speaking-table{width:100%;border-collapse:collapse;text-align:left;font-size:14px;font-variant-numeric:tabular-nums;margin-top:10px;}.ds-speaking-table caption{text-align:left;font-size:12px;color:#595959;margin-bottom:8px;}.ds-speaking-table th,.ds-speaking-table td{padding:8px 8px 8px 0;border-bottom:1px solid #d6d6d6;}.ds-speaking-table th:last-child,.ds-speaking-table td:last-child{text-align:right;}@media(max-width:650px){.ds-speaking-phones{grid-template-columns:1fr;gap:12px;}.ds-speaking-metrics{gap:18px;}.ds-speaking-table{font-size:12px;}}"
+    },
+    {
+      "name": "Completed Practice",
+      "kind": "custom",
+      "description": "Illustrative saved Reading result. Actual correct/total and percentage drive the response. White/check keys are correct; black/return keys invite review. Reading marks the current question with an outline. All keys focus the corresponding prompt; first-miss shortcut is omitted for a perfect result. Static, bilingual and without sounds or new model requests.",
+      "html": "<section class=\"ds-practice-review\" aria-label=\"Illustrative completed practice\"><div class=\"ds-practice-review-heading\"><h3>Reading practice complete</h3><span>67%</span></div><p class=\"ds-practice-review-summary\">4 of 6 answers correct. 2 to revisit, with evidence from the text.</p><nav class=\"ds-practice-review-keys\" aria-label=\"Illustrative answer review\"><button type=\"button\" data-correct=\"true\" aria-label=\"Question 1: correct\" aria-current=\"step\"><span>1</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg></button><button type=\"button\" data-correct=\"false\" aria-label=\"Question 2: revisit answer\"><span>2</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 12H5m6-6-6 6 6 6\"/></svg></button><button type=\"button\" data-correct=\"true\" aria-label=\"Question 3: correct\"><span>3</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg></button><button type=\"button\" data-correct=\"true\" aria-label=\"Question 4: correct\"><span>4</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg></button><button type=\"button\" data-correct=\"false\" aria-label=\"Question 5: revisit answer\"><span>5</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 12H5m6-6-6 6 6 6\"/></svg></button><button type=\"button\" data-correct=\"true\" aria-label=\"Question 6: correct\"><span>6</span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg></button></nav><div class=\"ds-practice-review-guide\"><span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg>Correct</span><span><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 12H5m6-6-6 6 6 6\"/></svg>Revisit</span></div><div class=\"ds-practice-review-note\"><p>For learning and review; this is not an IELTS band score.</p></div></section>",
+      "css": ".ds-practice-review{background:#fff;color:#161616;font:14px/1.5 \"Segoe UI\",\"Microsoft YaHei\",sans-serif;}.ds-practice-review *{box-sizing:border-box;}.ds-practice-review button{cursor:pointer;}.ds-practice-review button:focus-visible{outline:2px solid #161616;outline-offset:4px;}.ds-practice-review { margin: 20px 0 24px; padding: 16px 0; border-block: 1px solid #161616; scroll-margin-block: 24px; }\n.ds-practice-review-heading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px 16px; }\n.ds-practice-review-heading h3 { margin: 0; font-size: 17px; font-weight: 600; line-height: 1.5; }\n.ds-practice-review-heading > span { font-size: 17px; font-weight: 600; font-variant-numeric: tabular-nums; }\n.ds-practice-review-summary { margin: 8px 0 16px; max-width: 65ch; font-size: 14px; line-height: 1.7; color: #161616; }\n.ds-practice-review-keys { display: flex; flex-wrap: wrap; gap: 4px; }\n.ds-practice-review-keys button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; min-width: 44px; min-height: 52px; padding: 6px 10px; border: 1px solid #d6d6d6; background: #fff; color: #161616; font-size: 14px; font-variant-numeric: tabular-nums; }\n.ds-practice-review-keys button[data-correct=\"false\"] { background: #161616; border-color: #161616; color: #fff; }\n.ds-practice-review-keys button:disabled { opacity: .5; }\n.ds-practice-review-keys button[aria-current=\"step\"] { outline: 2px solid #161616; outline-offset: 2px; }\n.ds-practice-review-guide { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin-top: 12px; font-size: 12px; color: #595959; }\n.ds-practice-review-guide > span { display: inline-flex; align-items: center; gap: 4px; }\n.ds-practice-review-guide .piano-text-button { font-size: 13px; }\n.ds-practice-review-note { margin-top: 12px; font-size: 12px; line-height: 1.7; color: #595959; }\n.ds-practice-review-note p { margin: 0; }\n@media (hover: hover) and (pointer: fine) { .ds-practice-review-keys button:not(:disabled):hover { border-color: #161616; text-decoration: underline; text-underline-offset: 3px; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Piano Workspace",
+    "overview": "A quiet local learning workspace, organized through the relationship between black piano keys and white paper. Simple lines, square controls, and restrained interface type make choosing a skill, reading, answering, and understanding evidence feel like one continuous activity. The five skills retain equal standing; the interface does not prescribe a learning order.\n\nThis record describes the implemented common Web/Electron learning shell, home, reading workspace, listening workspace, four Speaking routes (overview, AI coach, sentence pronunciation and article read-aloud), the standalone Vocabulary and Writing workspaces, and the Records and Settings utility pages including model configuration. Listening extends the same piano world through a continuous answer sheet, a compact sticky player, sound columns, and a nonmodal transcript. Speaking extends it through a continuous notebook, inline pronunciation evidence and a reserved recording dock. Vocabulary extends it through parallel recall and reference, equal memory ratings and optional pronunciation. Writing extends it through an immutable original linked to a correction margin, a separate draft and complete review evidence. Records and Settings extend it through ruled history rows, native filters, section links and grouped forms using the existing controls. The contextual vocabulary collector in Listening and Speaking retains its own existing flow. The Windows native titlebar remains intact; unused drag-strip and window-strip CSS does not establish a custom titlebar behavior.",
+    "keyCharacteristics": [
+      "True white learning surfaces with a black sidebar and white current item.",
+      "Thin neutral rules and square, plainly labeled controls.",
+      "Five equal home entries with a temporary sweeping inversion.",
+      "Readable article prose beside questions and answer evidence.",
+      "A continuous listening sheet with real-audio columns and an explicitly opened transcript.",
+      "A continuous speaking notebook with evidence owned by each turn or paragraph.",
+      "Parallel word recall and reference, with pronunciation separate from memory ratings.",
+      "Visible keyboard focus, responsive stacking, and reduced-motion support.",
+      "Ruled completed-practice keys connect a saved Reading or Listening result to the original answer evidence."
+    ],
+    "rules": [
+      {
+        "name": "The Neutral Canvas Rule",
+        "body": "The piano learning canvas stays true white. Color is not added to imply skill priority or to replace an answer's written result and evidence.",
+        "section": "colors"
+      },
+      {
+        "name": "The Reading Measure Rule",
+        "body": "Preserve the article's generous line height and readable measure when extending the reader; compact metadata must not determine prose density.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Retain line and tone as the means of separation for piano surfaces; do not inherit decorative shadows from older module pages.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Equal Keys Rule",
+        "body": "No skill is pre-inverted or permanently promoted. Fine-pointer hover and keyboard focus reveal a left-to-right inversion over (220ms), using `cubic-bezier(.4, 0, .2, 1)`. Touch has no sticky hover treatment. With reduced motion, the same state change is immediate.",
+        "section": "components"
+      },
+      {
+        "name": "The Sound Follows Audio Rule",
+        "body": "Columns respond only to actual audio data; silence and pause do not generate decorative motion. Playback never waits for the visualization. A failed graph or resume operation disables the visual; when the media element has already been captured by Web Audio, a fresh ordinary media element restores its position and speed and resumes playback.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do build new piano surfaces from true white, black, and neutral rules with square controls.",
+      "Do preserve equal resting emphasis for all five home skill entries.",
+      "Do keep article prose spacious and make answer evidence easy to locate and return from.",
+      "Do provide visible keyboard focus, meaningful labels, and immediate state changes for reduced motion.",
+      "Do keep interface language independent from AI explanation language and learning content.",
+      "Do treat the existing shell, home, reader, listening workspace, four Speaking routes, Vocabulary and Writing workspaces, Records and Settings as the implemented reference when extending this system.",
+      "Do keep listening playback controls available when columns stop or the audio graph fails.",
+      "Do preserve Speaking's original phone evidence, separate metrics, pending states and previous successful results alongside written feedback."
+    ],
+    "donts": [
+      "Don't promote the older green/cream palette, decorative fonts, rounded cards, or shadows into piano tokens.",
+      "Don't turn the home entries into a prioritized card grid or keep one entry inverted at rest.",
+      "Don't replace written feedback and quoted evidence with color alone.",
+      "Don't add custom desktop window controls or treat unused drag-strip CSS as implemented behavior.",
+      "Don't turn Speaking's semantic verdict colors or legacy assessment fallback styles into global decorative tokens."
+    ]
+  }
+}
