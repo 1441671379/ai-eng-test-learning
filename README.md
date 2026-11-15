@@ -12,6 +12,43 @@
 
 请下载发布页的三个安装 ZIP 文件并全部解压到同一个文件夹；`Source code` 和绿色 `Code → Download ZIP` 是开发源码，不是安装程序。
 
+## 应用截图
+
+以下为 v0.3.1 Windows 公开测试版的实际界面，使用独立演示账户与自编示例材料。口语结果来自合成示例音频的实际评估，仅展示反馈流程，不代表真实学习者成绩或评分准确率验证。
+
+![首页：自由选择六个学习板块](docs/screenshots/01-home.png)
+
+<details>
+<summary>展开听、说、读、写与单词界面（6 张）</summary>
+
+**听力：音频播放、声音可视化与答题。**
+
+![听力播放与答题](docs/screenshots/02-listening.png)
+
+**口语概览：AI 口语教练、句子发音分析与文章朗读评测。**
+
+![口语练习概览](docs/screenshots/06-speaking.png)
+
+**逐词发音反馈：整句参考分、单词判断及目标与实际识别音素。**
+
+![合成示例音频的逐词发音反馈](docs/screenshots/07-pronunciation.png)
+
+**阅读：原文与选择题并排展示，支持示范朗读和生词收藏。**
+
+![阅读原文与选择题](docs/screenshots/03-reading.png)
+
+**写作：Task 2 草稿编辑、计时与本地保存；图中草稿尚未提交批改。**
+
+![写作草稿编辑](docs/screenshots/04-writing.png)
+
+**单词：翻面查看释义、记忆自评与可选发音练习。**
+
+![单词卡释义与间隔复习](docs/screenshots/05-vocabulary.png)
+
+</details>
+
+截图不包含个人记录或密钥；完整知识库来源课程包不随公开版提供。[截图索引与说明](docs/screenshots/README.md)
+
 ## 可以做什么
 
 | 板块 | 功能 |
